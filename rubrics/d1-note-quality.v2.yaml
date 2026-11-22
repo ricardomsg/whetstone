@@ -1,0 +1,86 @@
+# Rubric for D1, ready-to-resume note quality (Leroy & Glomb, 2018).
+id: d1-note-quality
+version: 2
+exercise: D1
+skills: [TRA]
+languages: [en, pt-PT]
+judge:
+  model_role: judge
+  temperature: 0.1
+  max_retries: 2
+  instructions: |
+    You grade a ready-to-resume note written in about a minute when leaving a work
+    session, so the writer can pick it up later without re-reading everything. A
+    good note makes the next action startable in under two minutes by someone with
+    no memory of the session. Score what is written, strictly against the anchors.
+    Quote the note as evidence. The first tip rewrites the weakest field concretely,
+    using only facts that appear in the note; where a detail is missing, show the
+    shape with a placeholder such as <file> or <command> instead of inventing one.
+    The note may be in English or Portuguese; answer in the note's language.
+input:
+  stopped_at: "{{note.stoppedAt}}"
+  next_action: "{{note.nextAction}}"
+  open_risks: "{{note.openRisks}}"
+  waiting_on: "{{note.waitingOn}}"
+criteria:
+  - key: specificity
+    weight: 0.3
+    question: Does "where I stopped" name the concrete artefact, place and state (file, command, branch, result)?
+    anchors:
+      1: Generic ("worked on the app").
+      2: Names the area but not the state.
+      3: Names the artefact and roughly its state.
+      4: Artefact, state and the last result are clear.
+      5: Precise enough to find the exact spot in seconds.
+  - key: next_action
+    weight: 0.4
+    question: Is the next action concrete, single, and startable in under two minutes?
+    anchors:
+      1: Missing or a goal, not an action ("finish it").
+      2: An action, but vague or several at once.
+      3: One action, needs some thinking to start.
+      4: One concrete action, startable quickly.
+      5: One concrete action with its first command or file named.
+  - key: risks
+    weight: 0.2
+    question: Are open challenges, risks or postponed items captured where they exist?
+    anchors:
+      1: Empty although the note implies unresolved issues.
+      2: Mentioned vaguely.
+      3: Named, without what to watch for.
+      4: Named with what to watch for.
+      5: Named, prioritised, with what would resolve each.
+  - key: dependencies
+    weight: 0.1
+    question: Is anything the work is waiting on stated (a person, a build, a decision), or clearly nothing?
+    anchors:
+      1: A dependency is implied but not stated.
+      2: Stated vaguely.
+      3: Stated, or empty with no dependency implied.
+      4: Stated with who or what.
+      5: Stated with who or what and when to check.
+examples:
+  - input:
+      stopped_at: "working on the website"
+      next_action: "continue"
+      open_risks: ""
+      waiting_on: ""
+    expected:
+      scores: {specificity: 1, next_action: 1, risks: 2, dependencies: 3}
+      evidence:
+        next_action: "'continue'"
+      tips:
+        - "Name the step with placeholders: 'Next: open <file>, change <thing>, then run <command>.'"
+  - input:
+      stopped_at: "Branch fix/serving-scale: the recipe scaler now handles fractions, 11 of 12 checks pass; test_scale_mixed_fraction fails (expects 1 1/2, gets 1.5)."
+      next_action: "Open lib/scale.py line 88, format the result with format_fraction(), and run pytest tests/test_scale.py."
+      open_risks: "Saved shopping lists may still store decimals; check them before merging."
+      waiting_on: "Nothing."
+    expected:
+      scores: {specificity: 5, next_action: 5, risks: 4, dependencies: 4}
+      evidence:
+        next_action: "'format the result with format_fraction(), and run pytest tests/test_scale.py'"
+      tips:
+        - "Keep this shape; add what would settle the shopping-list risk before the merge."
+normalisation:
+  TRA: "weighted mean of criteria, (score-1)/4, times 100"

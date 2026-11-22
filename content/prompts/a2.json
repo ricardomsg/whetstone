@@ -1,0 +1,690 @@
+[
+ {
+  "id": "a2-en-sem-animals",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "animals",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-fruit",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "fruit",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-kitchen",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "things in a kitchen",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-clothing",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "clothing",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-jobs",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "jobs and professions",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-sports",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "sports",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-countries",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "countries",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-transport",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "means of transport",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-body",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "parts of the body",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-tools",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "tools",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-office",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "things in an office",
+  "difficulty": 2,
+  "parallelSet": 1
+ },
+ {
+  "id": "a2-en-sem-hospital",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "things in a hospital",
+  "difficulty": 2,
+  "parallelSet": 2
+ },
+ {
+  "id": "a2-en-sem-workshop",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "things in a workshop",
+  "difficulty": 2,
+  "parallelSet": 3
+ },
+ {
+  "id": "a2-en-sem-airport",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "things at an airport",
+  "difficulty": 2,
+  "parallelSet": 4
+ },
+ {
+  "id": "a2-en-sem-data-center",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "things in a data center",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-movement-verbs",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "verbs of movement",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-speaking-verbs",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "verbs of speaking",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-emotions",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "emotions",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-weather",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "kinds of weather",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-cooking",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "ways of cooking food",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-birds",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "birds",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-regret",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "emotions of regret",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-leader",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "qualities of a good leader",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-mistakes",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "words for mistakes and failures",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-project-failure",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "reasons a project fails",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-flaws",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "flaws of character",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-uncertainty",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "words for uncertainty and doubt",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-thinking-verbs",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "verbs of thinking and reasoning",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-change",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "words for change",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-risk",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "kinds of risk",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-sem-trust",
+  "lang": "en",
+  "kind": "semantic",
+  "prompt": "words for trust and reliability",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-s",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "s",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-c",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "c",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-p",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "p",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-b",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "b",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-m",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "m",
+  "difficulty": 2,
+  "parallelSet": 1
+ },
+ {
+  "id": "a2-en-let-d",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "d",
+  "difficulty": 2,
+  "parallelSet": 2
+ },
+ {
+  "id": "a2-en-let-t",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "t",
+  "difficulty": 2,
+  "parallelSet": 3
+ },
+ {
+  "id": "a2-en-let-f",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "f",
+  "difficulty": 2,
+  "parallelSet": 4
+ },
+ {
+  "id": "a2-en-let-h",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "h",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-l",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "l",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-g",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "g",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-en-let-w",
+  "lang": "en",
+  "kind": "letter",
+  "prompt": "w",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-animais",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "animais",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-fruta",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "fruta",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-cozinha",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "coisas numa cozinha",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-roupa",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "roupa e calçado",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-profissoes",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "profissões",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-desportos",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "desportos",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-paises",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "países",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-transportes",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "meios de transporte",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-corpo",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "partes do corpo",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-ferramentas",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "ferramentas",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-escritorio",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "coisas num escritório",
+  "difficulty": 2,
+  "parallelSet": 1
+ },
+ {
+  "id": "a2-pt-PT-sem-hospital",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "coisas num hospital",
+  "difficulty": 2,
+  "parallelSet": 2
+ },
+ {
+  "id": "a2-pt-PT-sem-oficina",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "coisas numa oficina",
+  "difficulty": 2,
+  "parallelSet": 3
+ },
+ {
+  "id": "a2-pt-PT-sem-aeroporto",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "coisas num aeroporto",
+  "difficulty": 2,
+  "parallelSet": 4
+ },
+ {
+  "id": "a2-pt-PT-sem-centro-de-dados",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "coisas num centro de dados",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-verbos-movimento",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "verbos de movimento",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-verbos-dizer",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "verbos de dizer e falar",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-emocoes",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "emoções",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-tempo",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "estados do tempo (meteorologia)",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-cozinhar",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "formas de cozinhar",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-aves",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "aves",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-arrependimento",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "emoções de arrependimento",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-lider",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "qualidades de um bom líder",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-erros",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "palavras para erros e falhas",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-projeto-falha",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "razões por que um projeto falha",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-defeitos",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "defeitos de carácter",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-incerteza",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "palavras para incerteza e dúvida",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-verbos-pensar",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "verbos de pensar e raciocinar",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-mudanca",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "palavras para mudança",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-risco",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "tipos de risco",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-sem-confianca",
+  "lang": "pt-PT",
+  "kind": "semantic",
+  "prompt": "palavras para confiança e fiabilidade",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-c",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "c",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-a",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "a",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-p",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "p",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-d",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "d",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-m",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "m",
+  "difficulty": 2,
+  "parallelSet": 1
+ },
+ {
+  "id": "a2-pt-PT-let-s",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "s",
+  "difficulty": 2,
+  "parallelSet": 2
+ },
+ {
+  "id": "a2-pt-PT-let-r",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "r",
+  "difficulty": 2,
+  "parallelSet": 3
+ },
+ {
+  "id": "a2-pt-PT-let-t",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "t",
+  "difficulty": 2,
+  "parallelSet": 4
+ },
+ {
+  "id": "a2-pt-PT-let-f",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "f",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-b",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "b",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-l",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "l",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a2-pt-PT-let-v",
+  "lang": "pt-PT",
+  "kind": "letter",
+  "prompt": "v",
+  "difficulty": 3,
+  "parallelSet": 0
+ }
+]

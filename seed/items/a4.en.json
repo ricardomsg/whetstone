@@ -1,0 +1,542 @@
+[
+ {
+  "id": "a4-en-0001",
+  "lang": "en",
+  "sentence": "I think the database connection pool was exhausted just before the timeout.",
+  "target": "think",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 1
+ },
+ {
+  "id": "a4-en-0002",
+  "lang": "en",
+  "sentence": "It is important to log all user actions for audit compliance and security.",
+  "target": "important",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 1
+ },
+ {
+  "id": "a4-en-0003",
+  "lang": "en",
+  "sentence": "We should use a token-based authentication method for the public endpoints.",
+  "target": "use",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 1
+ },
+ {
+  "id": "a4-en-0004",
+  "lang": "en",
+  "sentence": "The panel layout looks nice on desktop screens, but its contrast ratio falls below the accessibility threshold on mobile devices.",
+  "target": "nice",
+  "register": "design-doc",
+  "difficulty": 1,
+  "parallelSet": 2
+ },
+ {
+  "id": "a4-en-0005",
+  "lang": "en",
+  "sentence": "The new caching layer will help reduce page load times by about 40 percent.",
+  "target": "help",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 2
+ },
+ {
+  "id": "a4-en-0006",
+  "lang": "en",
+  "sentence": "My car has an issue with the brakes that makes a grinding noise.",
+  "target": "issue",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 2
+ },
+ {
+  "id": "a4-en-0007",
+  "lang": "en",
+  "sentence": "We plan to get the first beta version to early testers by the end of this month.",
+  "target": "get",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 3
+ },
+ {
+  "id": "a4-en-0008",
+  "lang": "en",
+  "sentence": "I'm really tired after staying up late to fix the leaking pipe in the basement.",
+  "target": "really",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 3
+ },
+ {
+  "id": "a4-en-0009",
+  "lang": "en",
+  "sentence": "The server room experienced a bad power surge that damaged several UPS units.",
+  "target": "bad",
+  "register": "incident-report",
+  "difficulty": 3,
+  "parallelSet": 3
+ },
+ {
+  "id": "a4-en-0010",
+  "lang": "en",
+  "sentence": "We noticed a small discrepancy in the invoice totals from last quarter.",
+  "target": "small",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 4
+ },
+ {
+  "id": "a4-en-0011",
+  "lang": "en",
+  "sentence": "Your detailed feedback on the proposal was good and helped us refine the scope.",
+  "target": "good",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 4
+ },
+ {
+  "id": "a4-en-0012",
+  "lang": "en",
+  "sentence": "Let's make a quick decision about the venue before everyone leaves the chat.",
+  "target": "make",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 4
+ },
+ {
+  "id": "a4-en-0013",
+  "lang": "en",
+  "sentence": "Please put the signed contract on my desk by Friday so I can review it before the weekend.",
+  "target": "put",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0014",
+  "lang": "en",
+  "sentence": "I will go to the client meeting in Boston next Tuesday, so please prepare the updated slides by Monday noon.",
+  "target": "go",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0015",
+  "lang": "en",
+  "sentence": "Could you please fix the misalignment between the login button and the password field before the release next week?",
+  "target": "fix",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0016",
+  "lang": "en",
+  "sentence": "It is important that all team leads submit their quarterly budget estimates by the end of this week.",
+  "target": "important",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0017",
+  "lang": "en",
+  "sentence": "At 10:15 AM, the monitoring dashboard showed a sharp spike in API error rates, which persisted for three minutes.",
+  "target": "showed",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0018",
+  "lang": "en",
+  "sentence": "The failed deployment made the login service unavailable for approximately 20 minutes until the rollback completed.",
+  "target": "made",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0019",
+  "lang": "en",
+  "sentence": "When the technician inspected the server rack, she looked at the loose cable and immediately flagged it for replacement.",
+  "target": "looked",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0020",
+  "lang": "en",
+  "sentence": "The error logs show a spike in failed requests right after the deployment.",
+  "target": "show",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0021",
+  "lang": "en",
+  "sentence": "The integration with the third-party payment gateway is hard: it requires custom encryption and frequent timeout handling.",
+  "target": "hard",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0022",
+  "lang": "en",
+  "sentence": "We ran a small pilot with five users, and the results suggest the new feature is ready for a broader rollout.",
+  "target": "small",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0023",
+  "lang": "en",
+  "sentence": "We have an issue with the login flow that occasionally times out for some users.",
+  "target": "issue",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0024",
+  "lang": "en",
+  "sentence": "Timely delivery of the compliance report is important for maintaining our operating license and avoiding penalties.",
+  "target": "important",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0025",
+  "lang": "en",
+  "sentence": "That's a big ask to finish the entire report by tomorrow, especially since we're still waiting for the final numbers.",
+  "target": "big",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0026",
+  "lang": "en",
+  "sentence": "Can you look at this screenshot and tell me why the button is misaligned?",
+  "target": "look",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0027",
+  "lang": "en",
+  "sentence": "The build is totally broken right now, so can you fix it before the demo this afternoon?",
+  "target": "fix",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0028",
+  "lang": "en",
+  "sentence": "Can you take the dog for a walk at 5 PM? I have a dentist appointment that might run late.",
+  "target": "take",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0029",
+  "lang": "en",
+  "sentence": "That bug caused a big drop in user signups last week, like 30 percent.",
+  "target": "big",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0030",
+  "lang": "en",
+  "sentence": "The migration will take approximately four hours, during which the system will be read-only and writes will be queued.",
+  "target": "take",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0031",
+  "lang": "en",
+  "sentence": "The frontend currently does all image processing locally, which could instead be offloaded to the backend to improve performance.",
+  "target": "does",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0032",
+  "lang": "en",
+  "sentence": "The new API design will have a great impact on reducing latency for mobile clients, but it requires significant refactoring.",
+  "target": "great",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0033",
+  "lang": "en",
+  "sentence": "I usually use a cast-iron skillet for searing steak because it holds heat much better than a nonstick pan.",
+  "target": "use",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0034",
+  "lang": "en",
+  "sentence": "I really enjoyed the concert last night—the band played all their hits and the crowd was electric.",
+  "target": "really",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0035",
+  "lang": "en",
+  "sentence": "It was hard to concentrate on the video call because the construction noise outside was constant and very loud.",
+  "target": "hard",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0036",
+  "lang": "en",
+  "sentence": "The thing I hate most about my daily commute is the unpredictable traffic jam that adds an hour to my trip.",
+  "target": "thing",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0037",
+  "lang": "en",
+  "sentence": "The bad weather conditions forced us to cancel the outdoor team-building event and reschedule it for next month.",
+  "target": "bad",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0038",
+  "lang": "en",
+  "sentence": "Your draft proposal is good, but please add specific cost estimates and a clearer timeline before we share it with leadership.",
+  "target": "good",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0039",
+  "lang": "en",
+  "sentence": "It would be nice if you could confirm the final budget figures before the board meeting on Friday.",
+  "target": "nice",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0040",
+  "lang": "en",
+  "sentence": "The login response times were bad, with p95 latency exceeding two seconds during the peak traffic window.",
+  "target": "bad",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0041",
+  "lang": "en",
+  "sentence": "The operator forgot to clear the stuff from the staging cache before deployment.",
+  "target": "stuff",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0042",
+  "lang": "en",
+  "sentence": "The problem at 3:00 PM was that the primary database ran out of pooled connections, which caused a 10-minute outage.",
+  "target": "problem",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0043",
+  "lang": "en",
+  "sentence": "At 14:03 UTC, the primary database node did a full restart, dropping all active connections for approximately ninety seconds.",
+  "target": "did",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0044",
+  "lang": "en",
+  "sentence": "Customer feedback is important for prioritizing the next sprint, but we need to separate feature requests from bug reports.",
+  "target": "important",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0045",
+  "lang": "en",
+  "sentence": "The latest user feedback on the beta release is bad: over 70% of respondents reported frustration with the new navigation flow.",
+  "target": "bad",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0046",
+  "lang": "en",
+  "sentence": "The user interviews were interesting because they revealed an unexpected desire for offline access among field workers.",
+  "target": "interesting",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0047",
+  "lang": "en",
+  "sentence": "We expect to get the migration finished by Friday afternoon, though the final verification step may still require additional time.",
+  "target": "get",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0048",
+  "lang": "en",
+  "sentence": "It is hard to predict exactly when the feature will be ready because the third-party integration is still unstable.",
+  "target": "hard",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0049",
+  "lang": "en",
+  "sentence": "Just put the leftover pizza in the fridge before you leave—I don't want it to spoil.",
+  "target": "put",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0050",
+  "lang": "en",
+  "sentence": "If you look at the analytics dashboard, you can see a sudden drop in user signups right after the update.",
+  "target": "look",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0051",
+  "lang": "en",
+  "sentence": "I need to change my password again because I forgot it, and the reset link keeps expiring before I can use it.",
+  "target": "change",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0052",
+  "lang": "en",
+  "sentence": "She said she's down for pizza tonight but only if we order before 7 because she has an early meeting.",
+  "target": "said",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0053",
+  "lang": "en",
+  "sentence": "The new caching layer should help reduce average page load time, but we must verify it does not introduce stale data issues.",
+  "target": "help",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0054",
+  "lang": "en",
+  "sentence": "For the new caching layer, we should use a least-recently-used eviction policy to minimize memory footprint.",
+  "target": "use",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0055",
+  "lang": "en",
+  "sentence": "We need to fix the race condition in the payment processing module.",
+  "target": "fix",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0056",
+  "lang": "en",
+  "sentence": "The data will go through a validation pipeline before being written to the production table, so any malformed records are rejected early.",
+  "target": "go",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0057",
+  "lang": "en",
+  "sentence": "I'll put the keys on the hook by the door so you can grab them when you leave for your appointment.",
+  "target": "put",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0058",
+  "lang": "en",
+  "sentence": "I really appreciate your help with moving last weekend—you made a stressful day much easier.",
+  "target": "really",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0059",
+  "lang": "en",
+  "sentence": "The documentary will show how the coral reef has changed over the past decade using time-lapse footage.",
+  "target": "show",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-en-0060",
+  "lang": "en",
+  "sentence": "The server got a kernel panic at 2:00 AM, which required a hard reboot and caused 15 minutes of downtime.",
+  "target": "got",
+  "register": "incident-report",
+  "difficulty": 3,
+  "parallelSet": 0
+ }
+]

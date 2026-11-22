@@ -1,0 +1,12 @@
+# Copy to docker-compose.override.yml (ignored by Git) to enable the optional integrations.
+# Mount only what you want Whetstone to read. See "Optional integrations" in the README.
+services:
+  whetstone:
+    environment:
+      WS_CLAUDE_PROJECTS_DIR: /claude-projects
+      WS_JOURNAL_DIR: /journal
+    volumes:
+      - "${HOME}/.claude/projects:/claude-projects:ro"
+      - "/path/to/journal/Journal:/journal/Journal"
+      - "/path/to/journal/Journal/Voice Journals:/journal/Journal/Voice Journals:ro"
+      - "/path/to/journal/Whetstone:/journal/Whetstone"

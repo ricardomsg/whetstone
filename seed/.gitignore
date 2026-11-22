@@ -1,0 +1,3 @@
+# intermediate files and token logs from the generator scripts
+work/
+__pycache__/

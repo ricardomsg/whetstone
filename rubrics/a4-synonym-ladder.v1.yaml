@@ -1,0 +1,143 @@
+# Rubric for A4, synonym ladder / precision pick.
+# A rubric is immutable once used: change anything below and bump `version`
+# (the file name carries it too). Every attempt stores rubric id + version,
+# model id, prompt hash and the raw response.
+id: a4-synonym-ladder
+version: 1
+exercise: A4
+skills: [PR]                 # lexical precision; VOC gets a small share, see normalisation
+languages: [en, pt-PT]
+judge:
+  model_role: judge          # resolved from env: WS_MODEL_JUDGE
+  temperature: 0.1
+  max_retries: 2             # on invalid JSON or schema failure
+  instructions: |
+    You grade one attempt at a vocabulary precision exercise against the anchored
+    criteria below. Score what is on the page, not effort. Be honest: a 3 is a
+    competent answer, not a disappointment; give 5 only when the anchor for 5 is
+    fully met. Quote the learner's own words as evidence. Tips must be specific
+    to this answer and actionable next time ("'crucial' overstates a routine
+    dependency; 'relevant' or 'material' fits"), never generic ("expand your
+    vocabulary"). When the language is pt-PT, judge by European Portuguese usage
+    and flag Brazilian-only forms.
+
+# What the judge sees. {{…}} are filled in by code.
+input:
+  sentence: "{{item.sentence}}"          # contains the flat word
+  flat_word: "{{item.target}}"
+  register: "{{item.register}}"          # e.g. formal-email, casual-chat, incident-report
+  alternatives: "{{attempt.alternatives}}"  # the learner's N words, in order
+  pick: "{{attempt.pick}}"
+  justification: "{{attempt.justification}}"
+
+# Computed in code before the judge runs, never by the judge:
+objective:
+  - n_given: number of alternatives supplied
+  - n_duplicates: repeated or inflected repeats of the same lemma
+  - n_same_as_flat: alternatives equal to the flat word's lemma
+  - latency_ms: time from item shown to submit
+
+criteria:
+  - key: validity
+    weight: 0.25
+    question: Could each alternative replace the flat word in this sentence without breaking grammar or meaning?
+    anchors:
+      1: Most alternatives are not substitutable (wrong part of speech, wrong meaning).
+      2: About half fit; the rest break grammar or change the meaning.
+      3: Most fit, with one or two that need the sentence rephrased.
+      4: All fit grammatically; one is a stretch in meaning.
+      5: All fit grammatically and in meaning in this exact sentence.
+  - key: breadth
+    weight: 0.20
+    question: Do the alternatives cover different nuances (degree, register, connotation) rather than near-copies?
+    anchors:
+      1: All alternatives are near-copies with the same shade of meaning.
+      2: Two shades at most.
+      3: Three distinct shades, but all in one register.
+      4: Varied shades and at least two registers.
+      5: A deliberate spread (strength, formality, connotation) a writer could choose from.
+  - key: pick_precision
+    weight: 0.35
+    question: Is the chosen word the most precise fit for this sentence, context and register?
+    anchors:
+      1: The pick is worse than the flat word.
+      2: The pick is acceptable but a clearly better option was in the learner's own list.
+      3: A reasonable pick; a better word exists but is not obvious.
+      4: A precise pick; any better choice is debatable.
+      5: The pick says exactly what the context needs, and nothing more.
+  - key: justification
+    weight: 0.20
+    question: Does the one-line justification name the specific nuance that makes the pick fit?
+    anchors:
+      1: Missing, or restates the word ("it's better").
+      2: Vague ("more formal", "stronger") without saying why that matters here.
+      3: Names a relevant nuance but not tied to this sentence.
+      4: Names the nuance and ties it to the context.
+      5: Names the nuance, ties it to the context, and says why the runner-up is worse.
+
+examples:                     # few-shot anchors, shown to the judge before the attempt
+  - input:
+      sentence: "The certificate expiry was an important factor in the outage."
+      flat_word: important
+      register: incident-report
+      alternatives: [crucial, significant, key, big, vital]
+      pick: crucial
+      justification: "It sounds stronger."
+    expected:
+      scores: {validity: 4, breadth: 2, pick_precision: 2, justification: 1}
+      evidence:
+        validity: "'big' fits grammatically but is too casual for a report"
+        pick_precision: "'crucial' implies it alone decided the outcome; 'contributing' or 'significant' is what a report can defend"
+      tips:
+        - "In incident reports, prefer words you can defend with evidence: 'significant' or 'contributing' over 'crucial'."
+        - "Justify by naming the nuance: say what 'crucial' claims that 'significant' does not."
+  - input:
+      sentence: "She said the migration would be finished by Friday."
+      flat_word: said
+      register: formal-email
+      alternatives: [stated, promised, estimated, confirmed, suggested]
+      pick: estimated
+      justification: "The date is a forecast, not a commitment; 'promised' would overclaim what she said and 'confirmed' implies it was already agreed."
+    expected:
+      scores: {validity: 5, breadth: 5, pick_precision: 5, justification: 5}
+      evidence:
+        breadth: "spans neutral (stated), commitment (promised), uncertainty (estimated, suggested) and agreement (confirmed)"
+        justification: "'promised' would overclaim what she said"
+      tips:
+        - "Keep contrasting the pick with the runner-up; that habit is what makes the choice precise."
+  - input:
+      sentence: "A reunião foi boa."
+      flat_word: boa
+      register: casual-chat
+      alternatives: [produtiva, útil, agradável, excelente]
+      pick: produtiva
+      justification: "Mais específico."
+    expected:
+      scores: {validity: 5, breadth: 3, pick_precision: 3, justification: 2}
+      evidence:
+        pick_precision: "'produtiva' assumes outcomes the sentence does not state; 'agradável' fits a casual chat"
+        justification: "'Mais específico.'"
+      tips:
+        - "Say which dimension your pick narrows: 'produtiva' is about results, 'agradável' about how it felt; the context decides."
+
+output_schema:                # JSON the judge must return; validated with Zod, retried on failure
+  type: object
+  required: [scores, evidence, tips]
+  properties:
+    scores:
+      type: object
+      required: [validity, breadth, pick_precision, justification]
+      additionalProperties: {type: integer, minimum: 1, maximum: 5}
+    evidence:
+      type: object
+      description: One short quote or paraphrase from the attempt per criterion scored below 5 or at 5.
+      additionalProperties: {type: string, maxLength: 200}
+    tips:
+      type: array
+      minItems: 1
+      maxItems: 2
+      items: {type: string, maxLength: 240}
+
+normalisation:                # documented in code too; 0-100 per skill dimension
+  PR: "round(100 * (sum(weight_i * (score_i - 1) / 4)) - 5 * n_duplicates)"
+  VOC: "only when the pick is a card in the learner's deck: pick_precision >= 4 counts as one correct productive use"

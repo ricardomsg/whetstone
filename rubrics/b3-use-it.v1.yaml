@@ -1,0 +1,85 @@
+# Rubric for B3, use-it. Immutable once used: edit → bump version and file name.
+id: b3-use-it
+version: 1
+exercise: B3
+skills: [VOC]
+languages: [en, pt-PT]
+judge:
+  model_role: judge
+  temperature: 0.1
+  max_retries: 2
+  instructions: |
+    You grade original sentences a learner wrote to practise using a target word
+    actively. Score what is written, against the anchors, not effort. When several
+    sentences are given, score the weakest use for meaning and collocation and the
+    set as a whole for naturalness and register range. Evidence quotes the learner.
+    Give exactly one concrete improvement as the first tip (a rewrite of a phrase is
+    ideal). When the language is pt-PT, judge by European Portuguese usage and flag
+    Brazilian-only forms.
+input:
+  word: "{{vocab.word}}"
+  definition: "{{vocab.definition}}"
+  sentences: "{{attempt.sentences}}"
+  language: "{{vocab.lang}}"
+criteria:
+  - key: meaning
+    weight: 0.35
+    question: Is the word used with the right meaning?
+    anchors:
+      1: Wrong meaning; the sentence shows the word is not understood.
+      2: Meaning is off or only loosely related.
+      3: Meaning is right but the context barely requires this word.
+      4: Right meaning in a context that fits it well.
+      5: Right meaning, and the context shows its specific nuance.
+  - key: collocation
+    weight: 0.25
+    question: Are the words around it the ones a native writer would pair with it?
+    anchors:
+      1: Collocations are wrong ("do a decision").
+      2: Understandable but clearly non-native pairing.
+      3: Acceptable, slightly unusual pairing.
+      4: Natural, common pairing.
+      5: Natural and idiomatic, showing command of how the word combines.
+  - key: register
+    weight: 0.15
+    question: Does the register of the sentence suit the word?
+    anchors:
+      1: Clash that would confuse a reader.
+      2: Noticeable clash (a literary word in a text message).
+      3: Neutral, no clash, no range.
+      4: Register fits well.
+      5: Register fits and, across sentences, varies deliberately.
+  - key: naturalness
+    weight: 0.25
+    question: Would a fluent writer produce these sentences?
+    anchors:
+      1: Ungrammatical or unnatural throughout.
+      2: Several awkward points.
+      3: Grammatical but stilted or textbook-like.
+      4: Natural, with one small awkwardness at most.
+      5: Fully natural; could appear in good published writing.
+examples:
+  - input:
+      word: mitigate
+      definition: Make something bad less severe or serious.
+      sentences: ["We mitigated the problem of the servers."]
+      language: en
+    expected:
+      scores: {meaning: 4, collocation: 3, register: 3, naturalness: 2}
+      evidence:
+        naturalness: "'the problem of the servers' is stilted"
+      tips:
+        - "Name what was reduced: 'We mitigated the risk of a second outage by adding a standby server.'"
+  - input:
+      word: escamotear
+      definition: Ocultar ou disfarçar algo de forma habilidosa, para não ser notado.
+      sentences: ["O relatório escamoteia os custos reais do projeto, que só aparecem nos anexos."]
+      language: pt-PT
+    expected:
+      scores: {meaning: 5, collocation: 5, register: 4, naturalness: 5}
+      evidence:
+        meaning: "'escamoteia os custos reais'"
+      tips:
+        - "Experimente também num registo oral: 'Não escamoteies o problema, diz-lhe o que aconteceu.'"
+normalisation:
+  VOC: "weighted mean of criteria, (score-1)/4, times 100; a correct productive use needs meaning ≥ 4, collocation ≥ 3 and naturalness ≥ 3"

@@ -1,0 +1,7803 @@
+[
+ {
+  "id": "a1-pt-PT-0001",
+  "lang": "pt-PT",
+  "target": "arte",
+  "accept": [
+   "arte"
+  ],
+  "pos": "noun",
+  "zipf": 5.16,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Expressão criativa de emoções e ideias através de formas como pintura, escultura ou música.",
+  "example": "A ___ moderna nem sempre é compreendida pelo público.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"ar-\"",
+   "similar": "rima com \"parte\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "arte",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0002",
+  "lang": "pt-PT",
+  "target": "brasileiro",
+  "accept": [
+   "brasileiro"
+  ],
+  "pos": "noun",
+  "zipf": 5.5,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Pessoa nascida ou natural do maior país da América do Sul, onde se fala português.",
+  "example": "No aeroporto, apresentou-se como ___, natural de São Paulo.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"bra-\"",
+   "similar": "soa um pouco como \"cavaleiro\"",
+   "lastSound": "termina em \"-eiro\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "brasileiro",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0003",
+  "lang": "pt-PT",
+  "target": "cantor",
+  "accept": [
+   "cantor"
+  ],
+  "pos": "noun",
+  "zipf": 4.59,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Homem que se apresenta em público a interpretar melodias com a voz.",
+  "example": "Aquele jovem de voz potente tornou-se o ___ mais aplaudido do festival.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"can-\"",
+   "similar": "soa um pouco como \"pintor\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "cantor",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0004",
+  "lang": "pt-PT",
+  "target": "chocolate",
+  "accept": [
+   "chocolate"
+  ],
+  "pos": "noun",
+  "zipf": 4.55,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Doce obtido a partir do cacau, geralmente em tablete ou bebida quente.",
+  "example": "Ofereceu-lhe uma tablete de ___ negro pelo aniversário.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"cho-\"",
+   "similar": "soa um pouco como \"chocalho\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "chocolate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0005",
+  "lang": "pt-PT",
+  "target": "cidadão",
+  "accept": [
+   "cidadão"
+  ],
+  "pos": "noun",
+  "zipf": 4.54,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Indivíduo que, por nascimento ou naturalização, pertence legalmente a um Estado.",
+  "example": "Para votar nas eleições, é preciso ser ___ português.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"ci-\"",
+   "similar": "soa um pouco como \"capitão\"",
+   "lastSound": "termina em \"-dão\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "cidadão",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0006",
+  "lang": "pt-PT",
+  "target": "comentário",
+  "accept": [
+   "comentário"
+  ],
+  "pos": "noun",
+  "zipf": 4.7,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Observação ou opinião expressa sobre alguém, um assunto ou um acontecimento.",
+  "example": "Deixou um ___ maldoso na publicação.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"calendário\"",
+   "lastSound": "termina em \"-o\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "comentário",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0007",
+  "lang": "pt-PT",
+  "target": "conselho",
+  "accept": [
+   "conselho"
+  ],
+  "pos": "noun",
+  "zipf": 5.18,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Opinião ou recomendação dada a alguém sobre o que deve fazer.",
+  "example": "Pediu um ___ ao advogado antes de assinar o contrato.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"con-\"",
+   "similar": "rima com \"espelho\"",
+   "lastSound": "termina em \"-lho\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "conselho",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0008",
+  "lang": "pt-PT",
+  "target": "criação",
+  "accept": [
+   "criação"
+  ],
+  "pos": "noun",
+  "zipf": 5.1,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Ato de dar origem a algo novo, como uma obra, ideia ou ser vivo.",
+  "example": "A ___ deste parque natural protegeu várias espécies.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"cri-\"",
+   "similar": "soa um pouco como \"oração\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "criação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0009",
+  "lang": "pt-PT",
+  "target": "cura",
+  "accept": [
+   "cura"
+  ],
+  "pos": "noun",
+  "zipf": 4.51,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Restabelecimento completo da saúde após uma doença.",
+  "example": "A ___ da doença exigiu meses de tratamento.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"cu-\"",
+   "similar": "rima com \"pura\"",
+   "lastSound": "termina em \"-ra\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "cura",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0010",
+  "lang": "pt-PT",
+  "target": "escola",
+  "accept": [
+   "escola"
+  ],
+  "pos": "noun",
+  "zipf": 5.52,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Estabelecimento público ou privado onde se ministra educação formal a alunos.",
+  "example": "As crianças vão à ___ a pé todas as manhãs.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"es-\"",
+   "similar": "rima com \"mola\"",
+   "lastSound": "termina em \"-la\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "escola",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0011",
+  "lang": "pt-PT",
+  "target": "experiência",
+  "accept": [
+   "experiência"
+  ],
+  "pos": "noun",
+  "zipf": 5.05,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Conhecimento ou prática adquiridos por ter vivido ou realizado algo; acontecimento vivido.",
+  "example": "Depois de dez anos a trabalhar na área, tem muita ___ para partilhar.",
+  "hints": {
+   "syllables": 6,
+   "stress": 4,
+   "firstSound": "começa por \"ex-\"",
+   "similar": "soa um pouco como \"paciência\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "experiência",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0012",
+  "lang": "pt-PT",
+  "target": "fevereiro",
+  "accept": [
+   "fevereiro"
+  ],
+  "pos": "noun",
+  "zipf": 5.2,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Segundo mês do ano civil, com vinte e oito ou vinte e nove dias.",
+  "example": "Nos anos bissextos, o mês de ___ tem vinte e nove dias.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"fe-\"",
+   "similar": "soa um pouco como \"ferreiro\"",
+   "lastSound": "termina em \"-ro\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fevereiro",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0013",
+  "lang": "pt-PT",
+  "target": "influência",
+  "accept": [
+   "influência"
+  ],
+  "pos": "noun",
+  "zipf": 4.76,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Capacidade de uma pessoa ou coisa produzir efeitos nas ações ou decisões de outra.",
+  "example": "A ___ dos media sobre a opinião pública é enorme.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"in-\"",
+   "similar": "soa um pouco como \"paciência\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "influência",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0014",
+  "lang": "pt-PT",
+  "target": "jogador",
+  "accept": [
+   "jogador"
+  ],
+  "pos": "noun",
+  "zipf": 4.88,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Pessoa que pratica uma modalidade desportiva, sobretudo em partidas ou competições de equipa.",
+  "example": "O ___ marcou o golo da vitória.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"jo-\"",
+   "similar": "soa um pouco como \"lavrador\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "jogador",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0015",
+  "lang": "pt-PT",
+  "target": "líder",
+  "accept": [
+   "líder"
+  ],
+  "pos": "noun",
+  "zipf": 5.01,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Pessoa que chefia ou orienta um grupo, organização ou movimento.",
+  "example": "O ___ do partido anunciou novas medidas na conferência.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"lí-\"",
+   "similar": "soa um pouco como \"líquen\"",
+   "lastSound": "termina em \"-der\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "líder",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0016",
+  "lang": "pt-PT",
+  "target": "oriente",
+  "accept": [
+   "oriente"
+  ],
+  "pos": "noun",
+  "zipf": 4.52,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Designação tradicional das regiões situadas a leste, sobretudo a Ásia.",
+  "example": "O comércio de especiarias ligava a Europa ao ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"o-\"",
+   "similar": "soa um pouco como \"urgente\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "oriente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0017",
+  "lang": "pt-PT",
+  "target": "rainha",
+  "accept": [
+   "rainha"
+  ],
+  "pos": "noun",
+  "zipf": 4.9,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Mulher que ocupa o trono de um país, por direito próprio ou como cônjuge de um monarca.",
+  "example": "A ___ saudou a multidão do balcão do palácio.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"ra-\"",
+   "similar": "soa um pouco como \"cozinha\"",
+   "lastSound": "termina em \"-nha\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "rainha",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0018",
+  "lang": "pt-PT",
+  "target": "saco",
+  "accept": [
+   "saco"
+  ],
+  "pos": "noun",
+  "zipf": 4.64,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Recipiente flexível de tecido, papel ou plástico, usado para transportar coisas.",
+  "example": "Encheu o ___ de compras.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"sa-\"",
+   "similar": "rima com \"fraco\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "saco",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0019",
+  "lang": "pt-PT",
+  "target": "socorro",
+  "accept": [
+   "socorro"
+  ],
+  "pos": "noun",
+  "zipf": 4.69,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Ajuda urgente prestada a quem se encontra em perigo.",
+  "example": "Quando o barco começou a afundar, os tripulantes pediram ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"so-\"",
+   "similar": "rima com \"morro\"",
+   "lastSound": "termina em \"-ro\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "socorro",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0020",
+  "lang": "pt-PT",
+  "target": "texto",
+  "accept": [
+   "texto"
+  ],
+  "pos": "noun",
+  "zipf": 5.17,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Conjunto organizado de palavras escritas que forma uma unidade de sentido.",
+  "example": "O professor pediu aos alunos para resumirem o ___ em dez linhas.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"tex-\"",
+   "similar": "soa um pouco como \"sexto\"",
+   "lastSound": "termina em \"-to\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "texto",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0021",
+  "lang": "pt-PT",
+  "target": "velocidade",
+  "accept": [
+   "velocidade"
+  ],
+  "pos": "noun",
+  "zipf": 4.82,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Rapidez com que um corpo se move ou uma ação decorre.",
+  "example": "A ___ máxima permitida nesta estrada é de noventa quilómetros por hora.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"ve-\"",
+   "similar": "soa um pouco como \"capacidade\"",
+   "lastSound": "termina em \"-de\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "velocidade",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0022",
+  "lang": "pt-PT",
+  "target": "época",
+  "accept": [
+   "época"
+  ],
+  "pos": "noun",
+  "zipf": 5.17,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Período de tempo com características próprias, como uma estação do ano ou fase desportiva.",
+  "example": "Naquela ___, não havia telemóveis nem internet.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"é-\"",
+   "similar": "soa um pouco como \"cópia\"",
+   "lastSound": "termina em \"-ca\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "época",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0023",
+  "lang": "pt-PT",
+  "target": "agir",
+  "accept": [
+   "agir"
+  ],
+  "pos": "verb",
+  "zipf": 4.63,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Proceder de determinada maneira; intervir ativamente numa situação em vez de ficar à espera.",
+  "example": "É preciso ___ depressa, antes que o prazo termine.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"fugir\"",
+   "lastSound": "termina em \"-gir\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "agir",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0024",
+  "lang": "pt-PT",
+  "target": "chegar",
+  "accept": [
+   "chegar"
+  ],
+  "pos": "verb",
+  "zipf": 5.37,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Atingir o lugar de destino ou o momento esperado; aproximar-se do fim de um percurso.",
+  "example": "O comboio está prestes a ___ à estação de Santa Apolónia.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"che-\"",
+   "similar": "soa um pouco como \"jogar\"",
+   "lastSound": "termina em \"-gar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "chegar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0025",
+  "lang": "pt-PT",
+  "target": "conhecer",
+  "accept": [
+   "conhecer"
+  ],
+  "pos": "verb",
+  "zipf": 5.14,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Saber que algo ou alguém existe, ou ter trato pessoal com essa pessoa, obra ou lugar.",
+  "example": "Gostava de ___ melhor a cidade antes de decidir onde morar.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"aquecer\"",
+   "lastSound": "termina em \"-cer\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "conhecer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0026",
+  "lang": "pt-PT",
+  "target": "dançar",
+  "accept": [
+   "dançar"
+  ],
+  "pos": "verb",
+  "zipf": 4.55,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Mover o corpo ao ritmo de música, geralmente em pares ou em grupo.",
+  "example": "Ela adora ___ salsa nas noites de sexta.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"dan-\"",
+   "similar": "soa um pouco como \"lançar\"",
+   "lastSound": "termina em \"-çar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "dançar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0027",
+  "lang": "pt-PT",
+  "target": "deixar",
+  "accept": [
+   "deixar"
+  ],
+  "pos": "verb",
+  "zipf": 5.47,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Conceder permissão ou não impedir uma ação, muitas vezes seguido de infinitivo.",
+  "example": "A mãe não o vai ___ sair à noite.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"dei-\"",
+   "similar": "soa um pouco como \"queixar\"",
+   "lastSound": "termina em \"-xar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "deixar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0028",
+  "lang": "pt-PT",
+  "target": "dormir",
+  "accept": [
+   "dormir"
+  ],
+  "pos": "verb",
+  "zipf": 5.03,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Estar em repouso com os olhos fechados e a consciência suspensa, geralmente durante a noite.",
+  "example": "Depois de tantas horas de caminhada, só lhe apetecia ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"dor-\"",
+   "similar": "soa um pouco como \"sorrir\"",
+   "lastSound": "termina em \"-mir\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "dormir",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0029",
+  "lang": "pt-PT",
+  "target": "escrever",
+  "accept": [
+   "escrever"
+  ],
+  "pos": "verb",
+  "zipf": 4.99,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Representar ideias ou sons por meio de letras ou símbolos num suporte.",
+  "example": "É preciso ___ o relatório até sexta-feira.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"es-\"",
+   "similar": "soa um pouco como \"chover\"",
+   "lastSound": "termina em \"-ver\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "escrever",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0030",
+  "lang": "pt-PT",
+  "target": "fazer",
+  "accept": [
+   "fazer"
+  ],
+  "pos": "verb",
+  "zipf": 6.18,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Criar, produzir ou realizar algo material ou uma ação.",
+  "example": "Não sei o que vou ___ ao jantar.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"fa-\"",
+   "similar": "soa um pouco como \"trazer\"",
+   "lastSound": "termina em \"-zer\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fazer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0031",
+  "lang": "pt-PT",
+  "target": "haver",
+  "accept": [
+   "haver"
+  ],
+  "pos": "verb",
+  "zipf": 4.78,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Existir ou estar presente; verbo impessoal usado para indicar existência.",
+  "example": "Pode ___ problemas se não avisarmos a equipa.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"ha-\"",
+   "similar": "soa um pouco como \"mover\"",
+   "lastSound": "termina em \"-ver\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "haver",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0032",
+  "lang": "pt-PT",
+  "target": "ser",
+  "accept": [
+   "ser"
+  ],
+  "pos": "verb",
+  "zipf": 6.48,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Ter existência real ou constituir a identidade, o estado ou a qualidade essencial de alguém ou algo.",
+  "example": "Quero ___ honesto durante toda a vida.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "começa por \"s-\"",
+   "similar": "soa um pouco como \"ver\"",
+   "lastSound": "termina em \"-er\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "ser",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0033",
+  "lang": "pt-PT",
+  "target": "vencer",
+  "accept": [
+   "vencer"
+  ],
+  "pos": "verb",
+  "zipf": 4.72,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Derrotar o adversário numa competição, batalha ou disputa; levar a melhor sobre quem se opõe.",
+  "example": "Depois de tantos anos a tentar, acabou por ___ o campeonato.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"ven-\"",
+   "similar": "soa um pouco como \"veneno\"",
+   "lastSound": "termina em \"-cer\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "vencer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0034",
+  "lang": "pt-PT",
+  "target": "vender",
+  "accept": [
+   "vender"
+  ],
+  "pos": "verb",
+  "zipf": 4.7,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Ceder um bem ou serviço a alguém em troca de dinheiro.",
+  "example": "Ele decidiu ___ o carro antigo para comprar um mais recente.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"ven-\"",
+   "similar": "soa um pouco como \"prender\"",
+   "lastSound": "termina em \"-der\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "vender",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0035",
+  "lang": "pt-PT",
+  "target": "anual",
+  "accept": [
+   "anual"
+  ],
+  "pos": "adj",
+  "zipf": 4.59,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que ocorre, se repete ou se calcula uma vez em cada período de doze meses.",
+  "example": "A empresa publica o relatório ___ em março.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"manual\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "anual",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0036",
+  "lang": "pt-PT",
+  "target": "digital",
+  "accept": [
+   "digital"
+  ],
+  "pos": "adj",
+  "zipf": 5.01,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que funciona com sinais ou dados convertidos em números discretos, por oposição ao analógico.",
+  "example": "A empresa passou a emitir as faturas em formato ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"di-\"",
+   "similar": "soa um pouco como \"hospital\"",
+   "lastSound": "termina em \"-tal\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "digital",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0037",
+  "lang": "pt-PT",
+  "target": "fácil",
+  "accept": [
+   "fácil"
+  ],
+  "pos": "adj",
+  "zipf": 5.3,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que se realiza ou se compreende sem esforço nem dificuldade; que exige pouco trabalho ou pouca habilidade.",
+  "example": "O exercício de matemática era tão ___ que a turma toda o acabou em cinco minutos.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"fá-\"",
+   "similar": "soa um pouco como \"hábil\"",
+   "lastSound": "termina em \"-il\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fácil",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0038",
+  "lang": "pt-PT",
+  "target": "musical",
+  "accept": [
+   "musical"
+  ],
+  "pos": "adj",
+  "zipf": 4.67,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Relativo à arte de combinar sons, ou que revela qualidades próprias dessa arte.",
+  "example": "Compraram um instrumento ___ para o filho mais novo.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"mu-\"",
+   "similar": "soa um pouco como \"carnaval\"",
+   "lastSound": "termina em \"-cal\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "musical",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0039",
+  "lang": "pt-PT",
+  "target": "máximo",
+  "accept": [
+   "máximo"
+  ],
+  "pos": "adj",
+  "zipf": 4.79,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que constitui o valor, grau ou limite mais alto de uma série e não pode ser excedido.",
+  "example": "O nível ___ de ruído permitido naquele bairro é de 60 decibéis.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"má-\"",
+   "similar": "soa um pouco como \"próximo\"",
+   "lastSound": "termina em \"-mo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "máximo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0040",
+  "lang": "pt-PT",
+  "target": "pior",
+  "accept": [
+   "pior"
+  ],
+  "pos": "adj",
+  "zipf": 5.12,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que apresenta qualidade ou resultado inferior a qualquer outro termo de uma comparação.",
+  "example": "Aquele foi o ___ inverno de que se lembrava naquela região.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"pi-\"",
+   "similar": "soa um pouco como \"amor\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "pior",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0041",
+  "lang": "pt-PT",
+  "target": "profissional",
+  "accept": [
+   "profissional"
+  ],
+  "pos": "adj",
+  "zipf": 5.02,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Relativo a uma atividade remunerada exercida com regularidade, ou feito com competência e rigor.",
+  "example": "O jogador assinou um contrato ___ de três anos.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"pro-\"",
+   "similar": "soa um pouco como \"nacional\"",
+   "lastSound": "termina em \"-nal\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "profissional",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0042",
+  "lang": "pt-PT",
+  "target": "público",
+  "accept": [
+   "público"
+  ],
+  "pos": "adj",
+  "zipf": 5.49,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que pertence ou diz respeito à comunidade ou ao Estado, por oposição ao âmbito privado.",
+  "example": "O transporte ___ de Lisboa é explorado pela câmara municipal.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"pú-\"",
+   "similar": "soa um pouco como \"lúdico\"",
+   "lastSound": "termina em \"-ico\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "público",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0043",
+  "lang": "pt-PT",
+  "target": "russo",
+  "accept": [
+   "russo"
+  ],
+  "pos": "adj",
+  "zipf": 4.69,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Relativo à nação eslava de Leste cuja capital é Moscovo, à sua língua ou aos seus habitantes.",
+  "example": "Contrataram um tradutor ___ para acompanhar a comitiva em Moscovo.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"rus-\"",
+   "similar": "soa um pouco como \"urso\"",
+   "lastSound": "termina em \"-so\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "russo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0044",
+  "lang": "pt-PT",
+  "target": "triste",
+  "accept": [
+   "triste"
+  ],
+  "pos": "adj",
+  "zipf": 4.91,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que sente ou manifesta pesar, desânimo ou ausência de alegria.",
+  "example": "Depois da notícia, ficou ___ e calado durante dias.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"tris-\"",
+   "similar": "soa um pouco como \"viste\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "triste",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0045",
+  "lang": "pt-PT",
+  "target": "universal",
+  "accept": [
+   "universal"
+  ],
+  "pos": "adj",
+  "zipf": 4.57,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Que abrange todos os seres, lugares ou casos, sem exceção; válido em qualquer parte do mundo.",
+  "example": "O acesso à água limpa devia ser um direito ___ para todos.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"u-\"",
+   "similar": "soa um pouco como \"colossal\"",
+   "lastSound": "termina em \"-sal\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "universal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0046",
+  "lang": "pt-PT",
+  "target": "acampamento",
+  "accept": [
+   "acampamento"
+  ],
+  "pos": "noun",
+  "zipf": 4.33,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Local, geralmente ao ar livre, onde se instalam tendas ou abrigos temporários para pernoitar.",
+  "example": "Montaram as tendas junto ao rio e passaram a noite naquele ___.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"apartamento\"",
+   "lastSound": "termina em \"-ento\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "acampamento",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0047",
+  "lang": "pt-PT",
+  "target": "almofada",
+  "accept": [
+   "almofada"
+  ],
+  "pos": "noun",
+  "zipf": 3.58,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Saco de tecido, geralmente quadrado, cheio de material macio, colocado em camas, sofás ou cadeiras para maior conforto.",
+  "example": "Adormeceu assim que a cabeça tocou a ___ de penas.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"al-\"",
+   "similar": "soa um pouco como \"fachada\"",
+   "lastSound": "termina em \"-ada\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "almofada",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0048",
+  "lang": "pt-PT",
+  "target": "arco",
+  "accept": [
+   "arco"
+  ],
+  "pos": "noun",
+  "zipf": 4.29,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Arma curva e flexível com corda, usada para lançar flechas.",
+  "example": "O caçador retesou o ___ e apontou à presa.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"ar-\"",
+   "similar": "rima com \"barco\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "arco",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0049",
+  "lang": "pt-PT",
+  "target": "atirador",
+  "accept": [
+   "atirador"
+  ],
+  "pos": "noun",
+  "zipf": 3.65,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Pessoa que dispara uma arma de fogo, em especial aquela que tem grande precisão de pontaria.",
+  "example": "O ___ de elite acertou no alvo a mais de mil metros de distância.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"trabalhador\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "atirador",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0050",
+  "lang": "pt-PT",
+  "target": "bacalhau",
+  "accept": [
+   "bacalhau"
+  ],
+  "pos": "noun",
+  "zipf": 3.52,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Peixe do Atlântico Norte, muito consumido salgado e seco, base de pratos tradicionais portugueses.",
+  "example": "Na noite de consoada, a família comeu ___ cozido com couves e batatas.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"ba-\"",
+   "similar": "soa um pouco como \"cacau\"",
+   "lastSound": "termina em \"-au\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "bacalhau",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0051",
+  "lang": "pt-PT",
+  "target": "bingo",
+  "accept": [
+   "bingo"
+  ],
+  "pos": "noun",
+  "zipf": 3.51,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Jogo de sorte em que os participantes marcam num cartão os números que vão sendo anunciados.",
+  "example": "Nas festas da aldeia, nunca falta uma noite de ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"bin-\"",
+   "similar": "soa um pouco como \"domingo\"",
+   "lastSound": "termina em \"-go\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "bingo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0052",
+  "lang": "pt-PT",
+  "target": "cal",
+  "accept": [
+   "cal"
+  ],
+  "pos": "noun",
+  "zipf": 3.75,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Material branco e corrosivo, resultante da queima de rocha carbonatada, usado em construção.",
+  "example": "Os operários misturaram ___ com areia para preparar a argamassa.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "começa por \"c-\"",
+   "similar": "soa um pouco como \"mal\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "cal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0053",
+  "lang": "pt-PT",
+  "target": "capitalismo",
+  "accept": [
+   "capitalismo"
+  ],
+  "pos": "noun",
+  "zipf": 4.08,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Sistema económico assente na propriedade privada dos meios de produção e na busca do lucro.",
+  "example": "O debate opôs os defensores do ___ aos partidários de uma economia planificada.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"ca-\"",
+   "similar": "soa um pouco como \"cataclismo\"",
+   "lastSound": "termina em \"-ismo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "capitalismo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0054",
+  "lang": "pt-PT",
+  "target": "cicatriz",
+  "accept": [
+   "cicatriz"
+  ],
+  "pos": "noun",
+  "zipf": 3.55,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Marca permanente na pele deixada por uma ferida depois de esta sarar.",
+  "example": "Ficou-lhe uma ___ na testa depois da queda de bicicleta.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"ci-\"",
+   "similar": "soa um pouco como \"matriz\"",
+   "lastSound": "termina em \"-triz\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "cicatriz",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0055",
+  "lang": "pt-PT",
+  "target": "colonização",
+  "accept": [
+   "colonização"
+  ],
+  "pos": "noun",
+  "zipf": 3.96,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Ocupação e domínio de um território por outro povo, com imposição de leis e costumes.",
+  "example": "O museu dedicou uma sala à ___ portuguesa em África.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"organização\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "colonização",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0056",
+  "lang": "pt-PT",
+  "target": "comitiva",
+  "accept": [
+   "comitiva"
+  ],
+  "pos": "noun",
+  "zipf": 3.64,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Conjunto de pessoas que acompanham alguém importante numa visita ou deslocação, por dever de cortesia.",
+  "example": "O presidente chegou ao aeroporto acompanhado de uma numerosa ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"decisiva\"",
+   "lastSound": "termina em \"-iva\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "comitiva",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0057",
+  "lang": "pt-PT",
+  "target": "comunista",
+  "accept": [
+   "comunista"
+  ],
+  "pos": "noun",
+  "zipf": 4.41,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Pessoa que defende a doutrina política baseada na propriedade coletiva dos meios de produção.",
+  "example": "Durante a Guerra Fria, era visto como ___ convicto.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"artista\"",
+   "lastSound": "termina em \"-ta\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "comunista",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0058",
+  "lang": "pt-PT",
+  "target": "continuação",
+  "accept": [
+   "continuação"
+  ],
+  "pos": "noun",
+  "zipf": 4.13,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Parte que retoma ou prolonga algo já iniciado, sem interrupção do conjunto.",
+  "example": "O episódio da semana que vem é a ___ desta história.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"con-\"",
+   "similar": "soa um pouco como \"situação\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "continuação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0059",
+  "lang": "pt-PT",
+  "target": "dente",
+  "accept": [
+   "dente"
+  ],
+  "pos": "noun",
+  "zipf": 4.17,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Estrutura dura e esbranquiçada implantada nos maxilares, usada para mastigar e morder.",
+  "example": "O menino perdeu o primeiro ___ de leite aos cinco anos.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"den-\"",
+   "similar": "rima com \"pente\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "dente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0060",
+  "lang": "pt-PT",
+  "target": "desembarque",
+  "accept": [
+   "desembarque"
+  ],
+  "pos": "noun",
+  "zipf": 3.5,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Ato de sair de um veículo ou de retirar mercadorias de um meio de transporte.",
+  "example": "O ___ dos passageiros do navio fez-se pelo cais norte.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"de-\"",
+   "similar": "soa um pouco como \"parque\"",
+   "lastSound": "termina em \"-que\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "desembarque",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0061",
+  "lang": "pt-PT",
+  "target": "detetive",
+  "accept": [
+   "detetive"
+  ],
+  "pos": "noun",
+  "zipf": 3.96,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Pessoa, por vezes profissional, que investiga crimes ou recolhe informações por conta própria ou de outrem.",
+  "example": "O ___ contratado pela família acabou por descobrir o paradeiro do quadro roubado.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"de-\"",
+   "similar": "soa um pouco como \"diretiva\"",
+   "lastSound": "termina em \"-ive\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "detetive",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0062",
+  "lang": "pt-PT",
+  "target": "doação",
+  "accept": [
+   "doação"
+  ],
+  "pos": "noun",
+  "zipf": 4.24,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Ato de transferir voluntariamente um bem ou uma quantia para alguém, geralmente uma instituição, sem exigir nada em troca.",
+  "example": "A biblioteca recebeu uma ___ anónima de mil livros.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"do-\"",
+   "similar": "soa um pouco como \"oração\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "doação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0063",
+  "lang": "pt-PT",
+  "target": "duelo",
+  "accept": [
+   "duelo"
+  ],
+  "pos": "noun",
+  "zipf": 3.99,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Combate ou confronto entre duas pessoas ou partes.",
+  "example": "Os dois cavaleiros resolveram o conflito num ___ à espada.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"du-\"",
+   "similar": "soa um pouco como \"dueto\"",
+   "lastSound": "termina em \"-lo\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "duelo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0064",
+  "lang": "pt-PT",
+  "target": "dólar",
+  "accept": [
+   "dólar"
+  ],
+  "pos": "noun",
+  "zipf": 4.17,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Unidade monetária dos Estados Unidos e de vários outros países.",
+  "example": "O câmbio do ___ subiu face ao euro.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"dó-\"",
+   "similar": "soa um pouco como \"molar\"",
+   "lastSound": "termina em \"-lar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "dólar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0065",
+  "lang": "pt-PT",
+  "target": "ego",
+  "accept": [
+   "ego"
+  ],
+  "pos": "noun",
+  "zipf": 4.04,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Consciência e imagem que cada pessoa tem de si própria, sobretudo quando se considera o centro de tudo.",
+  "example": "Saiu da reunião com o ___ ferido por não ter sido escolhido.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"e-\"",
+   "similar": "soa um pouco como \"cego\"",
+   "lastSound": "termina em \"-go\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "ego",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0066",
+  "lang": "pt-PT",
+  "target": "elite",
+  "accept": [
+   "elite"
+  ],
+  "pos": "noun",
+  "zipf": 4.41,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Grupo restrito que detém maior poder, prestígio ou destaque numa sociedade.",
+  "example": "Apenas uma pequena ___ tem acesso a esses círculos de decisão.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"e-\"",
+   "similar": "soa um pouco como \"limite\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "elite",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0067",
+  "lang": "pt-PT",
+  "target": "filtro",
+  "accept": [
+   "filtro"
+  ],
+  "pos": "noun",
+  "zipf": 3.95,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Dispositivo que retém impurezas ou partículas de um líquido, gás ou sinal.",
+  "example": "É preciso mudar o ___ da máquina de café.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"fil-\"",
+   "similar": "soa um pouco como \"litro\"",
+   "lastSound": "termina em \"-tro\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "filtro",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0068",
+  "lang": "pt-PT",
+  "target": "firmeza",
+  "accept": [
+   "firmeza"
+  ],
+  "pos": "noun",
+  "zipf": 3.59,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Qualidade de quem ou do que é estável, seguro e não cede facilmente.",
+  "example": "Respondeu com ___ às perguntas difíceis dos jornalistas.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"fir-\"",
+   "similar": "rima com \"pobreza\"",
+   "lastSound": "termina em \"-za\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "firmeza",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0069",
+  "lang": "pt-PT",
+  "target": "geografia",
+  "accept": [
+   "geografia"
+  ],
+  "pos": "noun",
+  "zipf": 4.37,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Ciência que estuda a superfície da Terra, os climas, os relevos e a distribuição das populações.",
+  "example": "Na aula de ___, os alunos localizaram no mapa os principais rios da Europa.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"ge-\"",
+   "similar": "soa um pouco como \"democracia\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "geografia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0070",
+  "lang": "pt-PT",
+  "target": "herança",
+  "accept": [
+   "herança"
+  ],
+  "pos": "noun",
+  "zipf": 4.26,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Conjunto de bens, direitos e obrigações que se recebem de alguém que morreu.",
+  "example": "Depois da morte do avô, os três irmãos dividiram a ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"he-\"",
+   "similar": "soa um pouco como \"esperança\"",
+   "lastSound": "termina em \"-ança\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "herança",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0071",
+  "lang": "pt-PT",
+  "target": "incerteza",
+  "accept": [
+   "incerteza"
+  ],
+  "pos": "noun",
+  "zipf": 3.81,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Estado de quem não sabe o que vai acontecer ou não tem garantia sobre algo.",
+  "example": "A ___ quanto ao futuro da empresa deixava todos apreensivos.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"in-\"",
+   "similar": "rima com \"beleza\"",
+   "lastSound": "termina em \"-za\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "incerteza",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0072",
+  "lang": "pt-PT",
+  "target": "joelho",
+  "accept": [
+   "joelho"
+  ],
+  "pos": "noun",
+  "zipf": 4.11,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Articulação que liga a coxa à perna, protegida à frente pela rótula.",
+  "example": "Ao cair da bicicleta, esfolou o ___ direito e ficou semanas a coxear.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"jo-\"",
+   "similar": "soa um pouco como \"espelho\"",
+   "lastSound": "termina em \"-lho\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "joelho",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0073",
+  "lang": "pt-PT",
+  "target": "jogada",
+  "accept": [
+   "jogada"
+  ],
+  "pos": "noun",
+  "zipf": 4.24,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Ação decisiva ou lance executado durante uma partida desportiva.",
+  "example": "A sua ___ foi aplaudida por todo o estádio.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"jo-\"",
+   "similar": "soa um pouco como \"morada\"",
+   "lastSound": "termina em \"-da\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "jogada",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0074",
+  "lang": "pt-PT",
+  "target": "locutor",
+  "accept": [
+   "locutor"
+  ],
+  "pos": "noun",
+  "zipf": 3.57,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Profissional de rádio ou de televisão que lê as notícias e dá a voz às emissões.",
+  "example": "O ___ de serviço anunciou, com voz grave, que o governo tinha caído.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"lo-\"",
+   "similar": "soa um pouco como \"diretor\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "locutor",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0075",
+  "lang": "pt-PT",
+  "target": "medalha",
+  "accept": [
+   "medalha"
+  ],
+  "pos": "noun",
+  "zipf": 4.39,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Peça metálica, geralmente circular, atribuída como prémio ou condecoração.",
+  "example": "Recebeu uma ___ de ouro após ganhar a corrida.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"me-\"",
+   "similar": "soa um pouco como \"batalha\"",
+   "lastSound": "termina em \"-lha\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "medalha",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0076",
+  "lang": "pt-PT",
+  "target": "melodia",
+  "accept": [
+   "melodia"
+  ],
+  "pos": "noun",
+  "zipf": 3.78,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Sequência de sons musicais organizados de forma agradável, que constitui a parte cantável de uma composição.",
+  "example": "Aquela ___ suave ficou-me na cabeça durante todo o dia.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"me-\"",
+   "similar": "soa um pouco como \"ironia\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "melodia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0077",
+  "lang": "pt-PT",
+  "target": "mineiro",
+  "accept": [
+   "mineiro"
+  ],
+  "pos": "noun",
+  "zipf": 4.15,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Trabalhador que extrai carvão, metais ou pedras de uma escavação subterrânea.",
+  "example": "O avô trabalhou vinte anos como ___ no norte do país.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"mi-\"",
+   "similar": "soa um pouco como \"padeiro\"",
+   "lastSound": "termina em \"-ro\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "mineiro",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0078",
+  "lang": "pt-PT",
+  "target": "modernidade",
+  "accept": [
+   "modernidade"
+  ],
+  "pos": "noun",
+  "zipf": 3.8,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Carácter do que é recente e segue as técnicas, os gostos e as ideias do tempo presente.",
+  "example": "O contraste entre a tradição da aldeia e a ___ da capital é evidente.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"mo-\"",
+   "similar": "soa um pouco como \"liberdade\"",
+   "lastSound": "termina em \"-de\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "modernidade",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0079",
+  "lang": "pt-PT",
+  "target": "molho",
+  "accept": [
+   "molho"
+  ],
+  "pos": "noun",
+  "zipf": 4.17,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Preparação culinária líquida ou cremosa que se serve com carnes, peixes ou massas.",
+  "example": "O bacalhau vinha acompanhado de um ___ de azeite e alho.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"mo-\"",
+   "similar": "rima com \"olho\"",
+   "lastSound": "termina em \"-lho\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "molho",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0080",
+  "lang": "pt-PT",
+  "target": "motivação",
+  "accept": [
+   "motivação"
+  ],
+  "pos": "noun",
+  "zipf": 4.24,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Conjunto de razões ou incentivos que levam alguém a agir de determinada maneira.",
+  "example": "Faltou-lhe ___ para continuar o curso depois do primeiro ano.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"mo-\"",
+   "similar": "soa um pouco como \"observação\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "motivação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0081",
+  "lang": "pt-PT",
+  "target": "obesidade",
+  "accept": [
+   "obesidade"
+  ],
+  "pos": "noun",
+  "zipf": 3.6,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Doença em que o corpo acumula gordura em excesso, com riscos graves para a saúde.",
+  "example": "O médico avisou-o de que a ___ aumentava muito o risco de diabetes.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"o-\"",
+   "similar": "soa um pouco como \"felicidade\"",
+   "lastSound": "termina em \"-dade\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "obesidade",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0082",
+  "lang": "pt-PT",
+  "target": "património",
+  "accept": [
+   "património"
+  ],
+  "pos": "noun",
+  "zipf": 4.02,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Conjunto de bens materiais ou culturais herdados ou comuns a uma coletividade.",
+  "example": "A classificação do centro histórico como ___ Mundial trouxe muito mais turistas à cidade.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"pa-\"",
+   "similar": "soa um pouco como \"matrimónio\"",
+   "lastSound": "termina em \"-ónio\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "património",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0083",
+  "lang": "pt-PT",
+  "target": "regulamentação",
+  "accept": [
+   "regulamentação"
+  ],
+  "pos": "noun",
+  "zipf": 4.0,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Conjunto de normas oficiais que orientam uma atividade ou setor.",
+  "example": "A nova ___ do setor impõe limites mais rigorosos.",
+  "hints": {
+   "syllables": 6,
+   "stress": 6,
+   "firstSound": "começa por \"re-\"",
+   "similar": "soa um pouco como \"fundamentação\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "regulamentação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0084",
+  "lang": "pt-PT",
+  "target": "repercussão",
+  "accept": [
+   "repercussão"
+  ],
+  "pos": "noun",
+  "zipf": 4.11,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Efeito indireto ou consequência prolongada de um acontecimento, sobretudo negativo.",
+  "example": "O escândalo teve enorme ___ internacional.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"re-\"",
+   "similar": "soa um pouco como \"discussão\"",
+   "lastSound": "termina em \"-são\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "repercussão",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0085",
+  "lang": "pt-PT",
+  "target": "salvação",
+  "accept": [
+   "salvação"
+  ],
+  "pos": "noun",
+  "zipf": 4.11,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Ato de livrar alguém de um perigo extremo ou da perdição eterna; libertação definitiva e decisiva.",
+  "example": "Para os náufragos exaustos, aquele barco de pesca foi a ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"sal-\"",
+   "similar": "soa um pouco como \"vocação\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "salvação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0086",
+  "lang": "pt-PT",
+  "target": "selo",
+  "accept": [
+   "selo"
+  ],
+  "pos": "noun",
+  "zipf": 4.18,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Pequeno retângulo de papel com valor postal, colado em cartas para pagar o envio.",
+  "example": "Colei um ___ no envelope antes de o enviar.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"se-\"",
+   "similar": "soa um pouco como \"gelo\"",
+   "lastSound": "termina em \"-lo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "selo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0087",
+  "lang": "pt-PT",
+  "target": "seriedade",
+  "accept": [
+   "seriedade"
+  ],
+  "pos": "noun",
+  "zipf": 3.59,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Modo de agir marcado por compostura, responsabilidade e ausência de leviandade.",
+  "example": "A ___ com que tratou o assunto impressionou toda a equipa.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"se-\"",
+   "similar": "soa um pouco como \"sociedade\"",
+   "lastSound": "termina em \"-de\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "seriedade",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0088",
+  "lang": "pt-PT",
+  "target": "sorriso",
+  "accept": [
+   "sorriso"
+  ],
+  "pos": "noun",
+  "zipf": 4.46,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Expressão facial de alegria ou satisfação, feita com leve curvatura dos lábios.",
+  "example": "Recebeu a notícia com um ___ de alívio.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"sor-\"",
+   "similar": "soa um pouco como \"improviso\"",
+   "lastSound": "termina em \"-so\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "sorriso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0089",
+  "lang": "pt-PT",
+  "target": "sucessão",
+  "accept": [
+   "sucessão"
+  ],
+  "pos": "noun",
+  "zipf": 3.93,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Transmissão de um cargo, título ou trono a quem substitui o antecessor.",
+  "example": "A ___ ao trono ficou assegurada após o nascimento do príncipe.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"su-\"",
+   "similar": "soa um pouco como \"profissão\"",
+   "lastSound": "termina em \"-são\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "sucessão",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0090",
+  "lang": "pt-PT",
+  "target": "sódio",
+  "accept": [
+   "sódio"
+  ],
+  "pos": "noun",
+  "zipf": 3.81,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Elemento químico metálico, de símbolo Na, presente no sal comum.",
+  "example": "O médico aconselhou-o a reduzir o consumo de ___ para controlar a tensão.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"só-\"",
+   "similar": "rima com \"ódio\"",
+   "lastSound": "termina em \"-io\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "sódio",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0091",
+  "lang": "pt-PT",
+  "target": "teia",
+  "accept": [
+   "teia"
+  ],
+  "pos": "noun",
+  "zipf": 3.55,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Malha de fios sedosos que a aranha constrói para capturar insetos.",
+  "example": "A aranha construiu uma ___ entre os ramos da árvore.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"tei-\"",
+   "similar": "soa um pouco como \"cheia\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "teia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0092",
+  "lang": "pt-PT",
+  "target": "touro",
+  "accept": [
+   "touro"
+  ],
+  "pos": "noun",
+  "zipf": 3.96,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Bovino macho adulto e não castrado, criado para reprodução ou para as corridas.",
+  "example": "Na arena, o ___ investiu contra o cavaleiro assim que a porta se abriu.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"tou-\"",
+   "similar": "soa um pouco como \"mouro\"",
+   "lastSound": "termina em \"-ro\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "touro",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0093",
+  "lang": "pt-PT",
+  "target": "tutor",
+  "accept": [
+   "tutor"
+  ],
+  "pos": "noun",
+  "zipf": 3.51,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Pessoa encarregada de orientar, acompanhar e zelar pela formação ou pela integração de outra.",
+  "example": "Cada aluno estrangeiro tem um ___ que o ajuda a organizar o estudo e a integração.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"tu-\"",
+   "similar": "rima com \"motor\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "tutor",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0094",
+  "lang": "pt-PT",
+  "target": "veia",
+  "accept": [
+   "veia"
+  ],
+  "pos": "noun",
+  "zipf": 3.78,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Vaso sanguíneo que conduz o sangue dos tecidos de volta ao coração.",
+  "example": "O enfermeiro procurou uma ___ no braço para colocar a injeção.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"vei-\"",
+   "similar": "soa um pouco como \"meia\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "veia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0095",
+  "lang": "pt-PT",
+  "target": "vetor",
+  "accept": [
+   "vetor"
+  ],
+  "pos": "noun",
+  "zipf": 3.5,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Entidade matemática definida por um módulo, uma direção e um sentido.",
+  "example": "Para somar duas forças, desenhou cada uma como um ___ orientado.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"ve-\"",
+   "similar": "soa um pouco como \"motor\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "vetor",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0096",
+  "lang": "pt-PT",
+  "target": "véu",
+  "accept": [
+   "véu"
+  ],
+  "pos": "noun",
+  "zipf": 3.73,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Peça de tecido leve que cobre o rosto ou a cabeça, usada por noivas ou em certos trajes.",
+  "example": "A noiva levantou o ___ antes de beijar o noivo.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "começa por \"v-\"",
+   "similar": "rima com \"céu\"",
+   "lastSound": "termina em \"-éu\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "véu",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0097",
+  "lang": "pt-PT",
+  "target": "êxodo",
+  "accept": [
+   "êxodo"
+  ],
+  "pos": "noun",
+  "zipf": 3.61,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Saída em massa de pessoas de um lugar, geralmente por motivo de guerra, miséria ou perseguição.",
+  "example": "A guerra provocou um enorme ___ de refugiados para os países vizinhos.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"ê-\"",
+   "similar": "soa um pouco como \"método\"",
+   "lastSound": "termina em \"-do\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "êxodo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0098",
+  "lang": "pt-PT",
+  "target": "órbita",
+  "accept": [
+   "órbita"
+  ],
+  "pos": "noun",
+  "zipf": 3.8,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Trajetória curva que um corpo celeste ou satélite descreve em torno de outro.",
+  "example": "O satélite entrou em ___ estável depois de várias manobras.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"ór-\"",
+   "similar": "soa um pouco como \"óbito\"",
+   "lastSound": "termina em \"-ta\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "órbita",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0099",
+  "lang": "pt-PT",
+  "target": "acender",
+  "accept": [
+   "acender"
+  ],
+  "pos": "verb",
+  "zipf": 3.77,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Fazer começar a arder ou a dar luz, como uma vela, uma lareira ou uma lâmpada.",
+  "example": "É preciso ___ a lareira antes de o frio chegar.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"atender\"",
+   "lastSound": "termina em \"-er\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "acender",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0100",
+  "lang": "pt-PT",
+  "target": "acordar",
+  "accept": [
+   "acordar"
+  ],
+  "pos": "verb",
+  "zipf": 4.45,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Deixar de dormir ou fazer alguém sair do sono.",
+  "example": "É preciso ___ cedo para apanhar o comboio das sete.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"a-\"",
+   "similar": "rima com \"engordar\"",
+   "lastSound": "termina em \"-dar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "acordar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0101",
+  "lang": "pt-PT",
+  "target": "adicionar",
+  "accept": [
+   "adicionar"
+  ],
+  "pos": "verb",
+  "zipf": 4.08,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Juntar ou acrescentar algo a um conjunto, quantidade ou lista.",
+  "example": "Basta ___ uma colher de açúcar à mistura.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"condicionar\"",
+   "lastSound": "termina em \"-nar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "adicionar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0102",
+  "lang": "pt-PT",
+  "target": "agarrar",
+  "accept": [
+   "agarrar"
+  ],
+  "pos": "verb",
+  "zipf": 3.74,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Pegar com força e firmeza, apertando com as mãos ou os braços, para não deixar escapar.",
+  "example": "A criança estendeu a mão para ___ o braço da mãe.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"reparar\"",
+   "lastSound": "termina em \"-rar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "agarrar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0103",
+  "lang": "pt-PT",
+  "target": "clicar",
+  "accept": [
+   "clicar"
+  ],
+  "pos": "verb",
+  "zipf": 3.77,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Premir um botão do rato ou tocar num ícone para ativar uma função no computador.",
+  "example": "Para abrir a página, basta ___ no link.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"cli-\"",
+   "similar": "rima com \"ficar\"",
+   "lastSound": "termina em \"-car\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "clicar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0104",
+  "lang": "pt-PT",
+  "target": "colar",
+  "accept": [
+   "colar"
+  ],
+  "pos": "verb",
+  "zipf": 4.21,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Fixar algo a uma superfície usando um produto adesivo.",
+  "example": "A criança vai ___ o desenho no caderno.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"co-\"",
+   "similar": "rima com \"rolar\"",
+   "lastSound": "termina em \"-lar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "colar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0105",
+  "lang": "pt-PT",
+  "target": "comentar",
+  "accept": [
+   "comentar"
+  ],
+  "pos": "verb",
+  "zipf": 4.31,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Dizer ou escrever uma opinião breve sobre um assunto, texto ou acontecimento.",
+  "example": "O professor pediu aos alunos para ___ o poema.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"co-\"",
+   "similar": "rima com \"aumentar\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "comentar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0106",
+  "lang": "pt-PT",
+  "target": "corrigir",
+  "accept": [
+   "corrigir"
+  ],
+  "pos": "verb",
+  "zipf": 4.07,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Emendar os erros de um texto, prova ou trabalho, assinalando o que está mal.",
+  "example": "A professora prometeu ___ os testes durante o fim de semana.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"cor-\"",
+   "similar": "soa um pouco como \"dirigir\"",
+   "lastSound": "termina em \"-gir\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "corrigir",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0107",
+  "lang": "pt-PT",
+  "target": "cozinhar",
+  "accept": [
+   "cozinhar"
+  ],
+  "pos": "verb",
+  "zipf": 4.19,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Preparar alimentos aplicando-lhes calor, na panela, no forno ou no fogão.",
+  "example": "É preciso ___ as batatas durante vinte minutos.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"caminhar\"",
+   "lastSound": "termina em \"-nhar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "cozinhar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0108",
+  "lang": "pt-PT",
+  "target": "enfiar",
+  "accept": [
+   "enfiar"
+  ],
+  "pos": "verb",
+  "zipf": 3.85,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Fazer passar algo por um orifício ou por dentro de outra coisa, como a linha pela agulha.",
+  "example": "Não consigo ___ a linha na agulha com esta luz fraca.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"en-\"",
+   "similar": "soa um pouco como \"desafiar\"",
+   "lastSound": "termina em \"-iar\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "enfiar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0109",
+  "lang": "pt-PT",
+  "target": "furar",
+  "accept": [
+   "furar"
+  ],
+  "pos": "verb",
+  "zipf": 3.6,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Abrir um buraco numa superfície com um instrumento pontiagudo.",
+  "example": "Foi preciso ___ a parede para passar os cabos.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"fu-\"",
+   "similar": "soa um pouco como \"jurar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "furar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0110",
+  "lang": "pt-PT",
+  "target": "gravar",
+  "accept": [
+   "gravar"
+  ],
+  "pos": "verb",
+  "zipf": 4.39,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Fixar sons, imagens ou dados num suporte para que possam ser reproduzidos ou consultados.",
+  "example": "O músico vai ___ a nova canção no estúdio.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"gra-\"",
+   "similar": "rima com \"cravar\"",
+   "lastSound": "termina em \"-var\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "gravar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0111",
+  "lang": "pt-PT",
+  "target": "impor",
+  "accept": [
+   "impor"
+  ],
+  "pos": "verb",
+  "zipf": 3.98,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Fazer valer uma regra, decisão ou vontade, levando os outros a aceitá-la mesmo contra a sua vontade.",
+  "example": "A empresa tentou ___ novas regras de pontualidade aos funcionários.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"im-\"",
+   "similar": "soa um pouco como \"fulgor\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "impor",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0112",
+  "lang": "pt-PT",
+  "target": "impressionar",
+  "accept": [
+   "impressionar"
+  ],
+  "pos": "verb",
+  "zipf": 3.56,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Causar forte admiração ou espanto em alguém, deixando uma marca difícil de esquecer.",
+  "example": "O discurso do candidato conseguiu ___ toda a plateia.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"im-\"",
+   "similar": "soa um pouco como \"condicionar\"",
+   "lastSound": "termina em \"-nar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "impressionar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0113",
+  "lang": "pt-PT",
+  "target": "inventar",
+  "accept": [
+   "inventar"
+  ],
+  "pos": "verb",
+  "zipf": 3.96,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Contar como verdade algo que não aconteceu, imaginando factos falsos para justificar uma situação.",
+  "example": "Ele teve de ___ uma desculpa para justificar o atraso.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"in-\"",
+   "similar": "soa um pouco como \"levantar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "inventar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0114",
+  "lang": "pt-PT",
+  "target": "lavar",
+  "accept": [
+   "lavar"
+  ],
+  "pos": "verb",
+  "zipf": 4.42,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Limpar algo com água, eventualmente com sabão ou detergente.",
+  "example": "É preciso ___ as mãos antes da refeição.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"la-\"",
+   "similar": "rima com \"salvar\"",
+   "lastSound": "termina em \"-var\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "lavar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0115",
+  "lang": "pt-PT",
+  "target": "limpar",
+  "accept": [
+   "limpar"
+  ],
+  "pos": "verb",
+  "zipf": 4.4,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Retirar a sujidade, a poeira ou as manchas de uma superfície ou de um objeto.",
+  "example": "É preciso ___ bem o pó antes de pintar a parede.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"lim-\"",
+   "similar": "soa um pouco como \"ímpar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "limpar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0116",
+  "lang": "pt-PT",
+  "target": "marchar",
+  "accept": [
+   "marchar"
+  ],
+  "pos": "verb",
+  "zipf": 3.5,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Andar em passo cadenciado e em formação, como fazem os militares.",
+  "example": "Os soldados começaram a ___ em direção ao quartel.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"mar-\"",
+   "similar": "rima com \"manchar\"",
+   "lastSound": "termina em \"-char\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "marchar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0117",
+  "lang": "pt-PT",
+  "target": "misturar",
+  "accept": [
+   "misturar"
+  ],
+  "pos": "verb",
+  "zipf": 3.79,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Juntar duas ou mais substâncias ou ingredientes de modo a formar um todo único.",
+  "example": "Vai ___ a farinha com o açúcar numa tigela grande.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"mis-\"",
+   "similar": "soa um pouco como \"faturar\"",
+   "lastSound": "termina em \"-rar\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "misturar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0118",
+  "lang": "pt-PT",
+  "target": "morder",
+  "accept": [
+   "morder"
+  ],
+  "pos": "verb",
+  "zipf": 3.74,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Cravar os dentes em algo ou alguém, cortando ou apertando com força.",
+  "example": "O cão tentou ___ a mão do carteiro através do portão.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"mor-\"",
+   "similar": "soa um pouco como \"perder\"",
+   "lastSound": "termina em \"-er\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "morder",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0119",
+  "lang": "pt-PT",
+  "target": "nadar",
+  "accept": [
+   "nadar"
+  ],
+  "pos": "verb",
+  "zipf": 3.85,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Deslocar-se na água, movendo os braços e as pernas, sem tocar no fundo.",
+  "example": "Aprendeu a ___ nas aulas da piscina municipal.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"na-\"",
+   "similar": "soa um pouco como \"ladrar\"",
+   "lastSound": "termina em \"-dar\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "nadar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0120",
+  "lang": "pt-PT",
+  "target": "negociar",
+  "accept": [
+   "negociar"
+  ],
+  "pos": "verb",
+  "zipf": 4.19,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Discutir condições e propostas com outra parte até se chegar a um acordo vantajoso para ambos.",
+  "example": "Os dois países vão ___ um acordo de comércio.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"ne-\"",
+   "similar": "soa um pouco como \"apreciar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "negociar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0121",
+  "lang": "pt-PT",
+  "target": "perturbar",
+  "accept": [
+   "perturbar"
+  ],
+  "pos": "verb",
+  "zipf": 3.72,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Alterar o funcionamento ou o sossego de alguém ou algo, causando inquietação ou interrupção.",
+  "example": "O ruído contínuo veio ___ o sono dos vizinhos.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"per-\"",
+   "similar": "soa um pouco como \"curvar\"",
+   "lastSound": "termina em \"-bar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "perturbar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0122",
+  "lang": "pt-PT",
+  "target": "prejudicar",
+  "accept": [
+   "prejudicar"
+  ],
+  "pos": "verb",
+  "zipf": 3.98,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Causar dano, perda ou desvantagem a alguém ou a algo.",
+  "example": "Fumar pode ___ gravemente a saúde.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"pre-\"",
+   "similar": "soa um pouco como \"multiplicar\"",
+   "lastSound": "termina em \"-car\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "prejudicar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0123",
+  "lang": "pt-PT",
+  "target": "resumir",
+  "accept": [
+   "resumir"
+  ],
+  "pos": "verb",
+  "zipf": 3.58,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Apresentar ou escrever apenas o essencial de um texto ou assunto, encurtando-o.",
+  "example": "O aluno vai ___ o capítulo em dez linhas.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"re-\"",
+   "similar": "rima com \"consumir\"",
+   "lastSound": "termina em \"-mir\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "resumir",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0124",
+  "lang": "pt-PT",
+  "target": "secar",
+  "accept": [
+   "secar"
+  ],
+  "pos": "verb",
+  "zipf": 3.91,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Retirar a humidade de algo ou perder a água que continha, ficando enxuto.",
+  "example": "Depois da lavagem, pôs a roupa a ___ ao sol.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"se-\"",
+   "similar": "soa um pouco como \"pecar\"",
+   "lastSound": "termina em \"-car\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "secar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0125",
+  "lang": "pt-PT",
+  "target": "segurar",
+  "accept": [
+   "segurar"
+  ],
+  "pos": "verb",
+  "zipf": 4.3,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Manter algo firme com as mãos ou os braços para que não caia ou fuja.",
+  "example": "É preciso ___ bem a corda para não escorregar.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"se-\"",
+   "similar": "rima com \"procurar\"",
+   "lastSound": "termina em \"-rar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "segurar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0126",
+  "lang": "pt-PT",
+  "target": "sentar",
+  "accept": [
+   "sentar"
+  ],
+  "pos": "verb",
+  "zipf": 4.39,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Pôr o corpo ou alguém sobre uma cadeira, banco ou outra superfície, ficando apoiado.",
+  "example": "A mãe vai ___ o bebé na cadeira antes da refeição.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"sen-\"",
+   "similar": "rima com \"tentar\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "sentar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0127",
+  "lang": "pt-PT",
+  "target": "absurdo",
+  "accept": [
+   "absurdo"
+  ],
+  "pos": "adj",
+  "zipf": 4.36,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que contraria a razão e o bom senso; disparatado, sem sentido.",
+  "example": "Achei ___ o preço que pediam por aquele telemóvel usado.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"ab-\"",
+   "similar": "soa um pouco como \"absorto\"",
+   "lastSound": "termina em \"-do\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "absurdo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0128",
+  "lang": "pt-PT",
+  "target": "carinhoso",
+  "accept": [
+   "carinhoso"
+  ],
+  "pos": "adj",
+  "zipf": 3.51,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que trata os outros com ternura e afeto, mostrando meiguice nos gestos e nas palavras.",
+  "example": "O avô é muito ___ com os netos: leva-lhes sempre doces e conta-lhes histórias.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"ca-\"",
+   "similar": "soa um pouco como \"engenhoso\"",
+   "lastSound": "termina em \"-oso\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "carinhoso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0129",
+  "lang": "pt-PT",
+  "target": "clínico",
+  "accept": [
+   "clínico"
+  ],
+  "pos": "adj",
+  "zipf": 3.63,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Relativo à observação e tratamento direto dos doentes, por oposição ao trabalho cirúrgico ou laboratorial.",
+  "example": "O ensaio ___ demonstrou que o novo medicamento baixa a febre rapidamente.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"clí-\"",
+   "similar": "soa um pouco como \"técnico\"",
+   "lastSound": "termina em \"-ico\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "clínico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0130",
+  "lang": "pt-PT",
+  "target": "confidencial",
+  "accept": [
+   "confidencial"
+  ],
+  "pos": "adj",
+  "zipf": 3.5,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Diz-se de informação que só pode ser revelada a pessoas autorizadas.",
+  "example": "O advogado recebeu um documento ___ sobre o caso.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"con-\"",
+   "similar": "soa um pouco como \"essencial\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "confidencial",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0131",
+  "lang": "pt-PT",
+  "target": "desportivo",
+  "accept": [
+   "desportivo"
+  ],
+  "pos": "adj",
+  "zipf": 3.74,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Relativo a atividades físicas e a competições organizadas, como o futebol ou o atletismo.",
+  "example": "Compraram-lhe um equipamento ___ completo para a nova modalidade.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"des-\"",
+   "similar": "soa um pouco como \"motivo\"",
+   "lastSound": "termina em \"-vo\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "desportivo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0132",
+  "lang": "pt-PT",
+  "target": "evidente",
+  "accept": [
+   "evidente"
+  ],
+  "pos": "adj",
+  "zipf": 4.25,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que se impõe à razão ou aos sentidos pela clareza; impossível de negar.",
+  "example": "O erro era ___ para todos.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"e-\"",
+   "similar": "soa um pouco como \"presente\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "evidente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0133",
+  "lang": "pt-PT",
+  "target": "existente",
+  "accept": [
+   "existente"
+  ],
+  "pos": "adj",
+  "zipf": 4.3,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que está presente ou se verifica na realidade.",
+  "example": "O único exemplar ___ está no museu.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"e-\"",
+   "similar": "soa um pouco como \"resistente\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "existente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0134",
+  "lang": "pt-PT",
+  "target": "feio",
+  "accept": [
+   "feio"
+  ],
+  "pos": "adj",
+  "zipf": 4.24,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Que desagrada pela aparência; sem beleza.",
+  "example": "Aquele edifício novo é bastante ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"fei-\"",
+   "similar": "soa um pouco como \"cheio\"",
+   "lastSound": "termina em \"-o\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "feio",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0135",
+  "lang": "pt-PT",
+  "target": "fiscal",
+  "accept": [
+   "fiscal"
+  ],
+  "pos": "adj",
+  "zipf": 4.24,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Relativo à cobrança de impostos e ao controlo das obrigações tributárias.",
+  "example": "O Governo anunciou um novo pacote de benefícios ___ para as pequenas empresas.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"fis-\"",
+   "similar": "soa um pouco como \"fatal\"",
+   "lastSound": "termina em \"-cal\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fiscal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0136",
+  "lang": "pt-PT",
+  "target": "frito",
+  "accept": [
+   "frito"
+  ],
+  "pos": "adj",
+  "zipf": 3.58,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Cozinhado em óleo ou gordura bem quente, geralmente dentro de uma frigideira.",
+  "example": "Como prefere o ovo, ___ ou escalfado?",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"fri-\"",
+   "similar": "soa um pouco como \"grito\"",
+   "lastSound": "termina em \"-to\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "frito",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0137",
+  "lang": "pt-PT",
+  "target": "frontal",
+  "accept": [
+   "frontal"
+  ],
+  "pos": "adj",
+  "zipf": 3.92,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Relativo à parte dianteira ou que atua de modo direto contra algo.",
+  "example": "O carro sofreu um choque ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"fron-\"",
+   "similar": "soa um pouco como \"mental\"",
+   "lastSound": "termina em \"-tal\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "frontal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0138",
+  "lang": "pt-PT",
+  "target": "gradual",
+  "accept": [
+   "gradual"
+  ],
+  "pos": "adj",
+  "zipf": 3.56,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que avança pouco a pouco, por etapas sucessivas, sem alterações bruscas.",
+  "example": "O processo de recuperação foi lento e ___, ao longo de vários meses.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"gra-\"",
+   "similar": "soa um pouco como \"ritual\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "gradual",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0139",
+  "lang": "pt-PT",
+  "target": "hostil",
+  "accept": [
+   "hostil"
+  ],
+  "pos": "adj",
+  "zipf": 3.71,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que manifesta má vontade, agressividade ou oposição em relação a alguém.",
+  "example": "O ambiente naquela reunião era claramente ___ e ninguém se atrevia a falar.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"hos-\"",
+   "similar": "soa um pouco como \"funil\"",
+   "lastSound": "termina em \"-til\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "hostil",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0140",
+  "lang": "pt-PT",
+  "target": "implacável",
+  "accept": [
+   "implacável"
+  ],
+  "pos": "adj",
+  "zipf": 3.63,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que não se deixa convencer nem perdoa; que persegue um objetivo sem tréguas.",
+  "example": "É um crítico ___ de qualquer erro.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"im-\"",
+   "similar": "soa um pouco como \"notável\"",
+   "lastSound": "termina em \"-vel\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "implacável",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0141",
+  "lang": "pt-PT",
+  "target": "inesperado",
+  "accept": [
+   "inesperado"
+  ],
+  "pos": "adj",
+  "zipf": 3.83,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que acontece de repente, sem que ninguém pudesse prever ou contar com isso.",
+  "example": "A demissão do treinador foi ___, ninguém contava com ela.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"i-\"",
+   "similar": "soa um pouco como \"descuidado\"",
+   "lastSound": "termina em \"-do\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "inesperado",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0142",
+  "lang": "pt-PT",
+  "target": "iraniano",
+  "accept": [
+   "iraniano"
+  ],
+  "pos": "adj",
+  "zipf": 3.63,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Relativo ao país asiático cuja capital é Teerão.",
+  "example": "O realizador ___ venceu o festival de cinema.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"i-\"",
+   "similar": "soa um pouco como \"humano\"",
+   "lastSound": "termina em \"-no\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "iraniano",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0143",
+  "lang": "pt-PT",
+  "target": "lunar",
+  "accept": [
+   "lunar"
+  ],
+  "pos": "adj",
+  "zipf": 3.67,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Relativo ao satélite natural da Terra, o astro que brilha de noite.",
+  "example": "Os astronautas recolheram amostras do solo ___ para posterior análise.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"lu-\"",
+   "similar": "soa um pouco como \"lugar\"",
+   "lastSound": "termina em \"-nar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "lunar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0144",
+  "lang": "pt-PT",
+  "target": "marxista",
+  "accept": [
+   "marxista"
+  ],
+  "pos": "adj",
+  "zipf": 3.56,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que segue ou defende a doutrina política e económica fundada por um pensador alemão do século XIX, baseada na luta de classes.",
+  "example": "O partido adotou um programa ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"mar-\"",
+   "similar": "soa um pouco como \"artista\"",
+   "lastSound": "termina em \"-ta\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "marxista",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0145",
+  "lang": "pt-PT",
+  "target": "mentiroso",
+  "accept": [
+   "mentiroso"
+  ],
+  "pos": "adj",
+  "zipf": 3.79,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que tem por hábito faltar à verdade e enganar os outros com o que diz.",
+  "example": "Nunca acredites nele: é um rapaz ___ e sem escrúpulos.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"men-\"",
+   "similar": "soa um pouco como \"poderoso\"",
+   "lastSound": "termina em \"-so\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "mentiroso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0146",
+  "lang": "pt-PT",
+  "target": "monetário",
+  "accept": [
+   "monetário"
+  ],
+  "pos": "adj",
+  "zipf": 3.66,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Relativo ao dinheiro e às políticas ou instituições que o regulam.",
+  "example": "O governo anunciou um pacote de estímulo ___.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"mo-\"",
+   "similar": "soa um pouco como \"horário\"",
+   "lastSound": "termina em \"-o\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "monetário",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0147",
+  "lang": "pt-PT",
+  "target": "muscular",
+  "accept": [
+   "muscular"
+  ],
+  "pos": "adj",
+  "zipf": 3.8,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Relativo aos tecidos contráteis do corpo que produzem movimento.",
+  "example": "O atleta tem um físico ___ muito desenvolvido.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"mus-\"",
+   "similar": "soa um pouco como \"particular\"",
+   "lastSound": "termina em \"-lar\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "muscular",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0148",
+  "lang": "pt-PT",
+  "target": "ocular",
+  "accept": [
+   "ocular"
+  ],
+  "pos": "adj",
+  "zipf": 3.7,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Relativo ao órgão da visão.",
+  "example": "O médico receitou um exame ___ para avaliar a visão.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"o-\"",
+   "similar": "soa um pouco como \"particular\"",
+   "lastSound": "termina em \"-lar\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "ocular",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0149",
+  "lang": "pt-PT",
+  "target": "realista",
+  "accept": [
+   "realista"
+  ],
+  "pos": "adj",
+  "zipf": 3.91,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que encara as situações como elas são, sem se deixar levar por ilusões.",
+  "example": "Não sejas tão otimista; sê ___ e pensa nas dificuldades que aí vêm.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"re-\"",
+   "similar": "soa um pouco como \"turista\"",
+   "lastSound": "termina em \"-ta\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "realista",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0150",
+  "lang": "pt-PT",
+  "target": "repleto",
+  "accept": [
+   "repleto"
+  ],
+  "pos": "adj",
+  "zipf": 3.61,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Que está completamente cheio, sobretudo em registo formal e com ideia de abundância.",
+  "example": "O estádio estava ___ de adeptos.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"re-\"",
+   "similar": "soa um pouco como \"discreto\"",
+   "lastSound": "termina em \"-to\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "repleto",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0151",
+  "lang": "pt-PT",
+  "target": "resistente",
+  "accept": [
+   "resistente"
+  ],
+  "pos": "adj",
+  "zipf": 3.84,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Que suporta bem o desgaste, o esforço ou condições adversas sem se romper nem ceder.",
+  "example": "Este tecido é muito ___ e dura anos sem se rasgar.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"re-\"",
+   "similar": "soa um pouco como \"assistente\"",
+   "lastSound": "termina em \"-ente\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "resistente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0152",
+  "lang": "pt-PT",
+  "target": "tecnológico",
+  "accept": [
+   "tecnológico"
+  ],
+  "pos": "adj",
+  "zipf": 3.91,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Relativo ao conjunto de conhecimentos e instrumentos que permitem a inovação industrial e digital.",
+  "example": "A empresa investiu num parque ___ de última geração, junto à autoestrada.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"tec-\"",
+   "similar": "soa um pouco como \"geológico\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "tecnológico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0153",
+  "lang": "pt-PT",
+  "target": "tinto",
+  "accept": [
+   "tinto"
+  ],
+  "pos": "adj",
+  "zipf": 3.58,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Diz-se do vinho de cor rubi escura, fermentado com as cascas das uvas, por oposição ao branco.",
+  "example": "Ao jantar pedimos uma garrafa de vinho ___ do Douro.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"tin-\"",
+   "similar": "soa um pouco como \"cinto\"",
+   "lastSound": "termina em \"-to\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "tinto",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0154",
+  "lang": "pt-PT",
+  "target": "turístico",
+  "accept": [
+   "turístico"
+  ],
+  "pos": "adj",
+  "zipf": 4.1,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Relativo às viagens de lazer e aos serviços que as servem.",
+  "example": "A cidade vive sobretudo do setor ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "começa por \"tu-\"",
+   "similar": "soa um pouco como \"artístico\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "turístico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0155",
+  "lang": "pt-PT",
+  "target": "vergonhoso",
+  "accept": [
+   "vergonhoso"
+  ],
+  "pos": "adj",
+  "zipf": 3.76,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que é indigno e causa embaraço moral a quem o pratica ou presencia; escandaloso e censurável.",
+  "example": "Foi ___ ver como ele tratou os colegas diante de todos.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"ver-\"",
+   "similar": "soa um pouco como \"vantajoso\"",
+   "lastSound": "termina em \"-oso\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "vergonhoso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0156",
+  "lang": "pt-PT",
+  "target": "voador",
+  "accept": [
+   "voador"
+  ],
+  "pos": "adj",
+  "zipf": 3.68,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Que se desloca pelo ar com asas ou por meios mecânicos.",
+  "example": "O esquilo ___ planava entre os ramos.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"vo-\"",
+   "similar": "soa um pouco como \"andador\"",
+   "lastSound": "termina em \"-dor\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "voador",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0157",
+  "lang": "pt-PT",
+  "target": "vulnerável",
+  "accept": [
+   "vulnerável"
+  ],
+  "pos": "adj",
+  "zipf": 3.94,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Que está exposto a ser ferido, atacado ou prejudicado, por falta de proteção.",
+  "example": "Os idosos são especialmente ___ ao calor extremo do verão.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"vul-\"",
+   "similar": "soa um pouco como \"durável\"",
+   "lastSound": "termina em \"-vel\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "vulnerável",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0158",
+  "lang": "pt-PT",
+  "target": "absolvição",
+  "accept": [
+   "absolvição"
+  ],
+  "pos": "noun",
+  "zipf": 3.37,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Decisão judicial que declara o arguido inocente e o isenta de qualquer pena.",
+  "example": "O tribunal anunciou a ___ do réu por falta de provas.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"ab-\"",
+   "similar": "soa um pouco como \"revolução\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "absolvição",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0159",
+  "lang": "pt-PT",
+  "target": "afinco",
+  "accept": [
+   "afinco"
+  ],
+  "pos": "noun",
+  "zipf": 2.93,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Empenho persistente e teimoso com que se leva a cabo uma tarefa difícil ou morosa.",
+  "example": "Estudou a matéria com ___ durante toda a semana que antecedeu o exame.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"vinco\"",
+   "lastSound": "termina em \"-inco\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "afinco",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0160",
+  "lang": "pt-PT",
+  "target": "autobiografia",
+  "accept": [
+   "autobiografia"
+  ],
+  "pos": "noun",
+  "zipf": 3.14,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Obra em que alguém conta a história da sua própria vida.",
+  "example": "Publicou uma ___ onde revela episódios da infância.",
+  "hints": {
+   "syllables": 7,
+   "stress": 6,
+   "firstSound": "começa por \"au-\"",
+   "similar": "soa um pouco como \"melodia\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "autobiografia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0161",
+  "lang": "pt-PT",
+  "target": "batina",
+  "accept": [
+   "batina"
+  ],
+  "pos": "noun",
+  "zipf": 2.63,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Veste comprida, geralmente preta, usada por membros do clero em funções religiosas.",
+  "example": "O padre vestiu a ___ antes da missa.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"ba-\"",
+   "similar": "soa um pouco como \"rotina\"",
+   "lastSound": "termina em \"-na\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "batina",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0162",
+  "lang": "pt-PT",
+  "target": "biotecnologia",
+  "accept": [
+   "biotecnologia"
+  ],
+  "pos": "noun",
+  "zipf": 3.48,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Aplicação de organismos vivos ou das suas partes a processos industriais, na medicina e na agricultura.",
+  "example": "A empresa investiu milhões em ___ para produzir combustíveis a partir de microrganismos.",
+  "hints": {
+   "syllables": 7,
+   "stress": 6,
+   "firstSound": "começa por \"bi-o-\"",
+   "similar": "soa um pouco como \"mitologia\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "biotecnologia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0163",
+  "lang": "pt-PT",
+  "target": "calda",
+  "accept": [
+   "calda"
+  ],
+  "pos": "noun",
+  "zipf": 3.16,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Xarope de açúcar dissolvido em água e cozido, usado para regar doces ou conservar fruta.",
+  "example": "Depois de assar, pincelou os pastéis com uma ___ de açúcar e limão.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"cal-\"",
+   "similar": "rima com \"fralda\"",
+   "lastSound": "termina em \"-da\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "calda",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0164",
+  "lang": "pt-PT",
+  "target": "carbonato",
+  "accept": [
+   "carbonato"
+  ],
+  "pos": "noun",
+  "zipf": 2.8,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Sal que forma minerais como o calcário e o mármore e que entra na composição de cimentos e detergentes.",
+  "example": "A análise da água revelou um teor elevado de ___ de cálcio, o que explica a sua dureza.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"car-\"",
+   "similar": "soa um pouco como \"desbarato\"",
+   "lastSound": "termina em \"-to\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "carbonato",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0165",
+  "lang": "pt-PT",
+  "target": "chacina",
+  "accept": [
+   "chacina"
+  ],
+  "pos": "noun",
+  "zipf": 3.22,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Matança indiscriminada e cruel de pessoas ou animais indefesos.",
+  "example": "O jornal descrevia uma ___ de aldeões, abatidos sem qualquer julgamento.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"cha-\"",
+   "similar": "soa um pouco como \"máquina\"",
+   "lastSound": "termina em \"-na\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "chacina",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0166",
+  "lang": "pt-PT",
+  "target": "colecionador",
+  "accept": [
+   "colecionador"
+  ],
+  "pos": "noun",
+  "zipf": 3.42,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Pessoa que reúne e guarda, de forma sistemática, objetos do mesmo tipo, como selos, moedas ou relógios.",
+  "example": "Um ___ de relógios antigos pagou uma fortuna por aquele exemplar raro.",
+  "hints": {
+   "syllables": 6,
+   "stress": 6,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"administrador\"",
+   "lastSound": "termina em \"-dor\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "colecionador",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0167",
+  "lang": "pt-PT",
+  "target": "confidencialidade",
+  "accept": [
+   "confidencialidade"
+  ],
+  "pos": "noun",
+  "zipf": 3.34,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Qualidade ou dever de manter uma informação reservada e não a divulgar a terceiros.",
+  "example": "Assinou um acordo de ___ antes de aceder aos dados.",
+  "hints": {
+   "syllables": 8,
+   "stress": 7,
+   "firstSound": "começa por \"con-\"",
+   "similar": "soa um pouco como \"pontualidade\"",
+   "lastSound": "termina em \"-de\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "confidencialidade",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0168",
+  "lang": "pt-PT",
+  "target": "congelador",
+  "accept": [
+   "congelador"
+  ],
+  "pos": "noun",
+  "zipf": 3.34,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Eletrodoméstico ou compartimento que mantém os alimentos a temperatura inferior a zero graus.",
+  "example": "Guardou o gelado no ___ para não derreter.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"con-\"",
+   "similar": "soa um pouco como \"corredor\"",
+   "lastSound": "termina em \"-dor\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "congelador",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0169",
+  "lang": "pt-PT",
+  "target": "crematório",
+  "accept": [
+   "crematório"
+  ],
+  "pos": "noun",
+  "zipf": 2.66,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Instalação com forno destinado a incinerar cadáveres.",
+  "example": "A família recusou o funeral tradicional e dirigiu-se ao ___ da cidade.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"cre-\"",
+   "similar": "soa um pouco como \"auditório\"",
+   "lastSound": "termina em \"-o\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "crematório",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0170",
+  "lang": "pt-PT",
+  "target": "decapitação",
+  "accept": [
+   "decapitação"
+  ],
+  "pos": "noun",
+  "zipf": 2.75,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Ato de cortar a cabeça a alguém ou a um animal, em especial como forma de execução.",
+  "example": "O tribunal revolucionário condenou o nobre à ___ na guilhotina.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"de-\"",
+   "similar": "soa um pouco como \"civilização\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "decapitação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0171",
+  "lang": "pt-PT",
+  "target": "decote",
+  "accept": [
+   "decote"
+  ],
+  "pos": "noun",
+  "zipf": 3.29,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Abertura do vestuário no peito, geralmente em forma de V ou U, que deixa o colo descoberto.",
+  "example": "O vestido tinha um ___ profundo e chamou a atenção.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"de-\"",
+   "similar": "soa um pouco como \"pacote\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "decote",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0172",
+  "lang": "pt-PT",
+  "target": "degrau",
+  "accept": [
+   "degrau"
+  ],
+  "pos": "noun",
+  "zipf": 3.49,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Cada uma das superfícies horizontais que permitem subir ou descer uma escada.",
+  "example": "Subiu o primeiro ___ com cuidado para não tropeçar.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"de-\"",
+   "similar": "rima com \"bacalhau\"",
+   "lastSound": "termina em \"-au\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "degrau",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0173",
+  "lang": "pt-PT",
+  "target": "deslocação",
+  "accept": [
+   "deslocação"
+  ],
+  "pos": "noun",
+  "zipf": 3.28,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Movimento de um lugar para outro, sobretudo em viagem ou em serviço; mudança de posição.",
+  "example": "A ___ diária entre a casa e o trabalho consome-lhe duas horas.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"des-\"",
+   "similar": "soa um pouco como \"educação\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "deslocação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0174",
+  "lang": "pt-PT",
+  "target": "enzima",
+  "accept": [
+   "enzima"
+  ],
+  "pos": "noun",
+  "zipf": 3.34,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Proteína que acelera as reações químicas do organismo sem nelas se consumir.",
+  "example": "A amílase é uma ___ da saliva que começa a decompor o amido.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"en-\"",
+   "similar": "soa um pouco como \"estima\"",
+   "lastSound": "termina em \"-ma\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "enzima",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0175",
+  "lang": "pt-PT",
+  "target": "estreitamento",
+  "accept": [
+   "estreitamento"
+  ],
+  "pos": "noun",
+  "zipf": 2.68,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Redução da largura de uma via ou da abertura de um canal, tornando-o mais apertado.",
+  "example": "As obras provocaram o ___ da estrada junto à ponte.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"es-\"",
+   "similar": "soa um pouco como \"apartamento\"",
+   "lastSound": "termina em \"-to\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "estreitamento",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0176",
+  "lang": "pt-PT",
+  "target": "falsete",
+  "accept": [
+   "falsete"
+  ],
+  "pos": "noun",
+  "zipf": 2.68,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Voz mais aguda e fina do que a habitual, obtida por tensão forçada das cordas vocais.",
+  "example": "O tenor cantou o último verso em ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"fal-\"",
+   "similar": "soa um pouco como \"cassete\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "falsete",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0177",
+  "lang": "pt-PT",
+  "target": "fisco",
+  "accept": [
+   "fisco"
+  ],
+  "pos": "noun",
+  "zipf": 2.89,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Conjunto dos serviços do Estado encarregados de cobrar impostos e de verificar o cumprimento das obrigações tributárias.",
+  "example": "Ao fim de anos a fugir aos impostos, a empresa foi chamada a prestar contas ao ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"fis-\"",
+   "similar": "rima com \"risco\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fisco",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0178",
+  "lang": "pt-PT",
+  "target": "formalismo",
+  "accept": [
+   "formalismo"
+  ],
+  "pos": "noun",
+  "zipf": 2.67,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Tendência a dar mais importância às regras e às aparências do que ao conteúdo ou ao espírito.",
+  "example": "A crítica acusou o romance de puro ___, dizendo que as regras sufocavam a história.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"for-\"",
+   "similar": "soa um pouco como \"fatalismo\"",
+   "lastSound": "termina em \"-mo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "formalismo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0179",
+  "lang": "pt-PT",
+  "target": "generalidade",
+  "accept": [
+   "generalidade"
+  ],
+  "pos": "noun",
+  "zipf": 3.38,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Caráter do que abrange ou se aplica à maioria dos casos, sem considerar pormenores ou exceções.",
+  "example": "Falou apenas em ___ e não entrou em pormenores.",
+  "hints": {
+   "syllables": 6,
+   "stress": 5,
+   "firstSound": "começa por \"ge-\"",
+   "similar": "soa um pouco como \"formalidade\"",
+   "lastSound": "termina em \"-de\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "generalidade",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0180",
+  "lang": "pt-PT",
+  "target": "gorjeta",
+  "accept": [
+   "gorjeta"
+  ],
+  "pos": "noun",
+  "zipf": 2.81,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Quantia de dinheiro que se dá voluntariamente a quem presta um serviço, além do preço devido.",
+  "example": "Deixou uma ___ generosa ao empregado de mesa.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"gor-\"",
+   "similar": "soa um pouco como \"caneta\"",
+   "lastSound": "termina em \"-ta\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "gorjeta",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0181",
+  "lang": "pt-PT",
+  "target": "indução",
+  "accept": [
+   "indução"
+  ],
+  "pos": "noun",
+  "zipf": 3.41,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Processo de raciocínio que parte de casos particulares para chegar a uma conclusão de alcance geral.",
+  "example": "Depois de observar centenas de cisnes brancos, tirou uma ___ apressada.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"in-\"",
+   "similar": "soa um pouco como \"intenção\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "indução",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0182",
+  "lang": "pt-PT",
+  "target": "irreverência",
+  "accept": [
+   "irreverência"
+  ],
+  "pos": "noun",
+  "zipf": 2.64,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Falta de deferência para com autoridades, normas ou crenças consagradas, muitas vezes com humor.",
+  "example": "O humorista ficou célebre pela ___ com que falava dos políticos.",
+  "hints": {
+   "syllables": 6,
+   "stress": 4,
+   "firstSound": "começa por \"ir-\"",
+   "similar": "soa um pouco como \"concorrência\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "irreverência",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0183",
+  "lang": "pt-PT",
+  "target": "jurisprudência",
+  "accept": [
+   "jurisprudência"
+  ],
+  "pos": "noun",
+  "zipf": 3.44,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Conjunto das decisões dos tribunais que orientam a interpretação e a aplicação das leis.",
+  "example": "O advogado invocou a ___ do Supremo Tribunal de Justiça.",
+  "hints": {
+   "syllables": 6,
+   "stress": 4,
+   "firstSound": "começa por \"ju-\"",
+   "similar": "soa um pouco como \"audiência\"",
+   "lastSound": "termina em \"-cia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "jurisprudência",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0184",
+  "lang": "pt-PT",
+  "target": "laca",
+  "accept": [
+   "laca"
+  ],
+  "pos": "noun",
+  "zipf": 2.68,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Substância resinosa usada para dar brilho e proteção a superfícies ou ao cabelo.",
+  "example": "Aplicou ___ no cabelo para o manter firme.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"la-\"",
+   "similar": "soa um pouco como \"vaca\"",
+   "lastSound": "termina em \"-ca\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "laca",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0185",
+  "lang": "pt-PT",
+  "target": "lavatório",
+  "accept": [
+   "lavatório"
+  ],
+  "pos": "noun",
+  "zipf": 2.79,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Recipiente fixo com torneira e bacia, usado para higiene das mãos e do rosto.",
+  "example": "Depois de usar a casa de banho, enxaguou as mãos no ___.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"la-\"",
+   "similar": "soa um pouco como \"território\"",
+   "lastSound": "termina em \"-o\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "lavatório",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0186",
+  "lang": "pt-PT",
+  "target": "liquidez",
+  "accept": [
+   "liquidez"
+  ],
+  "pos": "noun",
+  "zipf": 3.0,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Qualidade de um bem que se converte facilmente em dinheiro, ou abundância de meios financeiros disponíveis.",
+  "example": "A empresa vendeu ativos para recuperar ___ e pagar aos fornecedores.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"li-\"",
+   "similar": "soa um pouco como \"rapidez\"",
+   "lastSound": "termina em \"-dez\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "liquidez",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0187",
+  "lang": "pt-PT",
+  "target": "lápide",
+  "accept": [
+   "lápide"
+  ],
+  "pos": "noun",
+  "zipf": 3.23,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Pedra colocada sobre uma sepultura, geralmente com o nome e as datas do falecido gravados.",
+  "example": "No cemitério da aldeia, ainda se lia na ___ o nome do avô, gravado há cem anos.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"lá-\"",
+   "similar": "soa um pouco como \"lâmpada\"",
+   "lastSound": "termina em \"-de\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "lápide",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0188",
+  "lang": "pt-PT",
+  "target": "mandatário",
+  "accept": [
+   "mandatário"
+  ],
+  "pos": "noun",
+  "zipf": 3.12,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Pessoa que recebe poderes de outra para a representar, sobretudo em atos eleitorais ou oficiais.",
+  "example": "Cada candidato apresentou o seu ___ junto do tribunal constitucional.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"man-\"",
+   "similar": "soa um pouco como \"comentário\"",
+   "lastSound": "termina em \"-rio\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "mandatário",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0189",
+  "lang": "pt-PT",
+  "target": "misticismo",
+  "accept": [
+   "misticismo"
+  ],
+  "pos": "noun",
+  "zipf": 3.01,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Atitude religiosa que procura a união íntima com o divino por meio da contemplação e do desprendimento do mundo.",
+  "example": "Nos poemas da maturidade nota-se um ___ profundo, de quem procura Deus no silêncio.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"mis-\"",
+   "similar": "soa um pouco como \"criticismo\"",
+   "lastSound": "termina em \"-mo\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "misticismo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0190",
+  "lang": "pt-PT",
+  "target": "mitose",
+  "accept": [
+   "mitose"
+  ],
+  "pos": "noun",
+  "zipf": 2.55,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Processo de divisão celular em que uma célula origina duas células geneticamente idênticas.",
+  "example": "Na aula de biologia estudámos as fases da ___, desde a prófase até à citocinese.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"mi-\"",
+   "similar": "soa um pouco como \"hipnose\"",
+   "lastSound": "termina em \"-ose\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "mitose",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0191",
+  "lang": "pt-PT",
+  "target": "morfina",
+  "accept": [
+   "morfina"
+  ],
+  "pos": "noun",
+  "zipf": 3.06,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Analgésico narcótico extraído do ópio, receitado para dores muito intensas.",
+  "example": "Após a cirurgia, o doente recebeu ___ para controlar a dor.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"mor-\"",
+   "similar": "soa um pouco como \"piscina\"",
+   "lastSound": "termina em \"-na\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "morfina",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0192",
+  "lang": "pt-PT",
+  "target": "opala",
+  "accept": [
+   "opala"
+  ],
+  "pos": "noun",
+  "zipf": 2.85,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Pedra preciosa translúcida, de aspeto leitoso, com reflexos coloridos que mudam conforme a luz.",
+  "example": "A joalharia expôs um anel com uma ___ branca de reflexos azuis.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"o-\"",
+   "similar": "soa um pouco como \"bengala\"",
+   "lastSound": "termina em \"-ala\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "opala",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0193",
+  "lang": "pt-PT",
+  "target": "penitência",
+  "accept": [
+   "penitência"
+  ],
+  "pos": "noun",
+  "zipf": 3.3,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Arrependimento pelos pecados, com prática de atos que os expiam, ou o sacramento da confissão.",
+  "example": "Como ___ pelos erros cometidos, passou um mês a servir refeições aos sem-abrigo.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"pe-\"",
+   "similar": "soa um pouco como \"paciência\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "penitência",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0194",
+  "lang": "pt-PT",
+  "target": "pepino",
+  "accept": [
+   "pepino"
+  ],
+  "pos": "noun",
+  "zipf": 3.44,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Legume alongado, de casca verde e polpa aquosa, muito usado em saladas e conservas.",
+  "example": "Cortou o ___ em rodelas finas para a salada.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"pe-\"",
+   "similar": "soa um pouco como \"destino\"",
+   "lastSound": "termina em \"-ino\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "pepino",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0195",
+  "lang": "pt-PT",
+  "target": "plâncton",
+  "accept": [
+   "plâncton"
+  ],
+  "pos": "noun",
+  "zipf": 2.66,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Conjunto de organismos minúsculos que flutuam nas águas e servem de alimento a muitos animais marinhos.",
+  "example": "As baleias filtram toneladas de ___ da água para se alimentarem.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"plân-\"",
+   "similar": "soa um pouco como \"cânone\"",
+   "lastSound": "termina em \"-on\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "plâncton",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0196",
+  "lang": "pt-PT",
+  "target": "pragmatismo",
+  "accept": [
+   "pragmatismo"
+  ],
+  "pos": "noun",
+  "zipf": 3.03,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Atitude de quem avalia as ideias pelos resultados concretos e úteis, sem se prender a teorias ou princípios.",
+  "example": "A diretora é conhecida pelo seu ___: quer resultados, não teorias.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"prag-\"",
+   "similar": "soa um pouco como \"automatismo\"",
+   "lastSound": "termina em \"-ismo\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "pragmatismo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0197",
+  "lang": "pt-PT",
+  "target": "prior",
+  "accept": [
+   "prior"
+  ],
+  "pos": "noun",
+  "zipf": 3.32,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Religioso que governa um convento ou mosteiro em certas ordens, abaixo do abade.",
+  "example": "O ___ do mosteiro recebeu os peregrinos à porta.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"pri-\"",
+   "similar": "soa um pouco como \"pior\"",
+   "lastSound": "termina em \"-or\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "prior",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0198",
+  "lang": "pt-PT",
+  "target": "proeminência",
+  "accept": [
+   "proeminência"
+  ],
+  "pos": "noun",
+  "zipf": 3.03,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Posição de destaque ou de superioridade em relação aos demais; também saliência elevada num terreno.",
+  "example": "A sua ___ na empresa deve-se a anos de resultados excecionais.",
+  "hints": {
+   "syllables": 6,
+   "stress": 4,
+   "firstSound": "começa por \"pro-\"",
+   "similar": "soa um pouco como \"conveniência\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "proeminência",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0199",
+  "lang": "pt-PT",
+  "target": "prognóstico",
+  "accept": [
+   "prognóstico"
+  ],
+  "pos": "noun",
+  "zipf": 3.28,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Previsão que os médicos fazem sobre a evolução de uma doença, ou juízo sobre o futuro de um acontecimento.",
+  "example": "O ___ dos médicos era reservado, embora o doente estivesse estável.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "começa por \"prog-\"",
+   "similar": "soa um pouco como \"doméstico\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "prognóstico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0200",
+  "lang": "pt-PT",
+  "target": "punhal",
+  "accept": [
+   "punhal"
+  ],
+  "pos": "noun",
+  "zipf": 2.95,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Arma branca de lâmina curta e pontiaguda, fácil de esconder, usada em ataques à traição.",
+  "example": "O criminoso escondeu um ___ debaixo do casaco.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"pu-\"",
+   "similar": "rima com \"sinal\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "punhal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0201",
+  "lang": "pt-PT",
+  "target": "relva",
+  "accept": [
+   "relva"
+  ],
+  "pos": "noun",
+  "zipf": 3.21,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Erva rasteira e densa que cobre o solo de prados e jardins, geralmente aparada.",
+  "example": "As crianças brincaram descalças na ___ molhada do jardim.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"rel-\"",
+   "similar": "soa um pouco como \"calva\"",
+   "lastSound": "termina em \"-va\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "relva",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0202",
+  "lang": "pt-PT",
+  "target": "repulsa",
+  "accept": [
+   "repulsa"
+  ],
+  "pos": "noun",
+  "zipf": 3.16,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Aversão intensa e imediata que algo indigno ou repugnante provoca em alguém.",
+  "example": "A crueldade do relato causou-lhe profunda ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"re-\"",
+   "similar": "soa um pouco como \"escusa\"",
+   "lastSound": "termina em \"-sa\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "repulsa",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0203",
+  "lang": "pt-PT",
+  "target": "régua",
+  "accept": [
+   "régua"
+  ],
+  "pos": "noun",
+  "zipf": 3.43,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Instrumento plano e graduado, geralmente de madeira ou plástico, para medir e traçar segmentos retos.",
+  "example": "Desenhou um quadrado perfeito com o lápis e a ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"ré-\"",
+   "similar": "rima com \"égua\"",
+   "lastSound": "termina em \"-gua\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "régua",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0204",
+  "lang": "pt-PT",
+  "target": "salmo",
+  "accept": [
+   "salmo"
+  ],
+  "pos": "noun",
+  "zipf": 3.42,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Composição poética e religiosa, cantada ou rezada, que faz parte do livro bíblico do Antigo Testamento.",
+  "example": "O coro entoou um ___ de David no início da celebração.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"sal-\"",
+   "similar": "rima com \"palmo\"",
+   "lastSound": "termina em \"-mo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "salmo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0205",
+  "lang": "pt-PT",
+  "target": "sensibilização",
+  "accept": [
+   "sensibilização"
+  ],
+  "pos": "noun",
+  "zipf": 3.48,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Ato de tornar alguém atento e consciente de um problema, causa ou tema social.",
+  "example": "A escola lançou uma campanha de ___ sobre a reciclagem.",
+  "hints": {
+   "syllables": 6,
+   "stress": 6,
+   "firstSound": "começa por \"sen-\"",
+   "similar": "soa um pouco como \"civilização\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "sensibilização",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0206",
+  "lang": "pt-PT",
+  "target": "sentinela",
+  "accept": [
+   "sentinela"
+  ],
+  "pos": "noun",
+  "zipf": 3.29,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Militar ou vigia que monta guarda num posto, atento a qualquer aproximação suspeita.",
+  "example": "Ficou de ___ à porta do quartel durante toda a noite.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"sen-\"",
+   "similar": "soa um pouco como \"panela\"",
+   "lastSound": "termina em \"-ela\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "sentinela",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0207",
+  "lang": "pt-PT",
+  "target": "solubilidade",
+  "accept": [
+   "solubilidade"
+  ],
+  "pos": "noun",
+  "zipf": 2.59,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Capacidade que uma substância tem de se dissolver noutra, em especial num líquido.",
+  "example": "A ___ do sal na água varia pouco com a temperatura.",
+  "hints": {
+   "syllables": 6,
+   "stress": 5,
+   "firstSound": "começa por \"so-\"",
+   "similar": "soa um pouco como \"velocidade\"",
+   "lastSound": "termina em \"-de\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "solubilidade",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0208",
+  "lang": "pt-PT",
+  "target": "titânio",
+  "accept": [
+   "titânio"
+  ],
+  "pos": "noun",
+  "zipf": 3.42,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Elemento químico metálico, leve e muito resistente à corrosão, usado em próteses, implantes e ligas de alta tecnologia.",
+  "example": "As próteses de anca mais duradouras são feitas de ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "começa por \"ti-\"",
+   "similar": "soa um pouco como \"tirano\"",
+   "lastSound": "termina em \"-nio\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "titânio",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0209",
+  "lang": "pt-PT",
+  "target": "torção",
+  "accept": [
+   "torção"
+  ],
+  "pos": "noun",
+  "zipf": 3.07,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Ato de rodar ou enrolar algo sobre si mesmo, forçando a sua forma; lesão causada por esse movimento brusco.",
+  "example": "O cabo de aço resistiu à ___ provocada pelo peso da carga.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"tor-\"",
+   "similar": "rima com \"lição\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "torção",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0210",
+  "lang": "pt-PT",
+  "target": "usurpação",
+  "accept": [
+   "usurpação"
+  ],
+  "pos": "noun",
+  "zipf": 2.91,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Ato de tomar para si, pela força ou com fraude, um poder, cargo ou bem que pertence a outrem.",
+  "example": "O tribunal condenou a ___ das terras que pertenciam à família.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"u-\"",
+   "similar": "soa um pouco como \"separação\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "usurpação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0211",
+  "lang": "pt-PT",
+  "target": "velhice",
+  "accept": [
+   "velhice"
+  ],
+  "pos": "noun",
+  "zipf": 3.47,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Período ou estado da vida humana caracterizado pela idade avançada.",
+  "example": "Na ___, passou a precisar de ajuda para as tarefas diárias.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"ve-\"",
+   "similar": "soa um pouco como \"meiguice\"",
+   "lastSound": "termina em \"-ce\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "velhice",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0212",
+  "lang": "pt-PT",
+  "target": "zoologia",
+  "accept": [
+   "zoologia"
+  ],
+  "pos": "noun",
+  "zipf": 2.99,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Ramo da biologia que estuda os animais, a sua estrutura, comportamento e classificação.",
+  "example": "Licenciou-se em ___ e dedica-se ao estudo das aves migratórias.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"zo-\"",
+   "similar": "soa um pouco como \"teologia\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "zoologia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0213",
+  "lang": "pt-PT",
+  "target": "ócio",
+  "accept": [
+   "ócio"
+  ],
+  "pos": "noun",
+  "zipf": 2.98,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Tempo livre de quem está sem trabalhar, gozado como repouso e sem qualquer ocupação produtiva.",
+  "example": "Depois de anos de trabalho intenso, passou finalmente a gozar o merecido ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "começa por \"ó-\"",
+   "similar": "soa um pouco como \"sócio\"",
+   "lastSound": "termina em \"-cio\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "ócio",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0214",
+  "lang": "pt-PT",
+  "target": "apitar",
+  "accept": [
+   "apitar"
+  ],
+  "pos": "verb",
+  "zipf": 2.94,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Fazer soar um sinal agudo e curto, para avisar, ordenar ou marcar um momento.",
+  "example": "O árbitro vai ___ para dar início à segunda parte.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"agitar\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "apitar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0215",
+  "lang": "pt-PT",
+  "target": "arregaçar",
+  "accept": [
+   "arregaçar"
+  ],
+  "pos": "verb",
+  "zipf": 2.67,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Dobrar para cima as mangas ou as pernas de uma peça de roupa, deixando parte do corpo à mostra.",
+  "example": "Antes de lavar a louça, teve de ___ as mangas da camisa.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"ar-\"",
+   "similar": "soa um pouco como \"abraçar\"",
+   "lastSound": "termina em \"-çar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "arregaçar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0216",
+  "lang": "pt-PT",
+  "target": "atormentar",
+  "accept": [
+   "atormentar"
+  ],
+  "pos": "verb",
+  "zipf": 3.09,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Causar sofrimento moral intenso e repetido a alguém; afligir sem descanso.",
+  "example": "Não me vais ___ com mais perguntas sobre o acidente.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"a-tor-\"",
+   "similar": "soa um pouco como \"argumentar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "atormentar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0217",
+  "lang": "pt-PT",
+  "target": "brotar",
+  "accept": [
+   "brotar"
+  ],
+  "pos": "verb",
+  "zipf": 3.05,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Sair da terra ou de um caule, como fazem as plantas novas quando começam a crescer.",
+  "example": "Com as chuvas de março, vai ___ erva nova em todo o prado.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"bro-\"",
+   "similar": "soa um pouco como \"votar\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "brotar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0218",
+  "lang": "pt-PT",
+  "target": "capotar",
+  "accept": [
+   "capotar"
+  ],
+  "pos": "verb",
+  "zipf": 2.53,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Virar-se de rodas para o ar, como acontece a um automóvel que sai da estrada e tomba.",
+  "example": "O carro derrapou na curva e acabou por ___ na vala.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"ca-\"",
+   "similar": "soa um pouco como \"adotar\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "capotar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0219",
+  "lang": "pt-PT",
+  "target": "depilar",
+  "accept": [
+   "depilar"
+  ],
+  "pos": "verb",
+  "zipf": 2.91,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Remover os pelos do corpo com lâmina, cera ou aparelho próprio.",
+  "example": "Vai ___ as pernas antes de ir à praia.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"de-\"",
+   "similar": "soa um pouco como \"desfilar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "depilar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0220",
+  "lang": "pt-PT",
+  "target": "deprimir",
+  "accept": [
+   "deprimir"
+  ],
+  "pos": "verb",
+  "zipf": 2.82,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Causar abatimento profundo no ânimo de alguém; deixar desanimado e triste.",
+  "example": "O inverno cinzento costuma ___ muita gente nesta cidade.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"de-\"",
+   "similar": "soa um pouco como \"discutir\"",
+   "lastSound": "termina em \"-ir\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "deprimir",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0221",
+  "lang": "pt-PT",
+  "target": "desarmar",
+  "accept": [
+   "desarmar"
+  ],
+  "pos": "verb",
+  "zipf": 3.07,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Retirar a um agressor o objeto com que ameaça, ou desmontar um engenho explosivo para o tornar inofensivo.",
+  "example": "Antes de o deixarem entrar na sala, tiveram de o ___ e revistá-lo.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"de-\"",
+   "similar": "soa um pouco como \"reformar\"",
+   "lastSound": "termina em \"-mar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "desarmar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0222",
+  "lang": "pt-PT",
+  "target": "desmascarar",
+  "accept": [
+   "desmascarar"
+  ],
+  "pos": "verb",
+  "zipf": 3.0,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Revelar publicamente a verdadeira identidade ou as intenções de quem se escondia atrás de uma aparência falsa.",
+  "example": "O jornalista conseguiu ___ o impostor que enganava os investidores há anos.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"des-\"",
+   "similar": "soa um pouco como \"desmarcar\"",
+   "lastSound": "termina em \"-rar\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "desmascarar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0223",
+  "lang": "pt-PT",
+  "target": "enquadrar",
+  "accept": [
+   "enquadrar"
+  ],
+  "pos": "verb",
+  "zipf": 3.15,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Inserir algo num conjunto de normas, regras ou categorias em que se integra.",
+  "example": "É preciso ___ esta proposta no plano estratégico da empresa.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"en-\"",
+   "similar": "soa um pouco como \"encontrar\"",
+   "lastSound": "termina em \"-drar\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "enquadrar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0224",
+  "lang": "pt-PT",
+  "target": "evaporar",
+  "accept": [
+   "evaporar"
+  ],
+  "pos": "verb",
+  "zipf": 2.71,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Passar do estado líquido ao gasoso, dissipando-se no ar.",
+  "example": "Com este calor, a água do tanque vai ___ em poucas horas.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"e-va-\"",
+   "similar": "soa um pouco como \"enamorar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "evaporar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0225",
+  "lang": "pt-PT",
+  "target": "fender",
+  "accept": [
+   "fender"
+  ],
+  "pos": "verb",
+  "zipf": 2.79,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Rachar ou abrir uma abertura estreita num material sólido, como a madeira ou a rocha.",
+  "example": "O raio conseguiu ___ o tronco do carvalho em duas metades.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"fen-\"",
+   "similar": "soa um pouco como \"entender\"",
+   "lastSound": "termina em \"-der\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fender",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0226",
+  "lang": "pt-PT",
+  "target": "fritar",
+  "accept": [
+   "fritar"
+  ],
+  "pos": "verb",
+  "zipf": 3.4,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Cozinhar um alimento em gordura quente, até ficar dourado e crocante.",
+  "example": "Vou ___ dois ovos na sertã para o pequeno-almoço.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"fri-\"",
+   "similar": "soa um pouco como \"gritar\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fritar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0227",
+  "lang": "pt-PT",
+  "target": "hibernar",
+  "accept": [
+   "hibernar"
+  ],
+  "pos": "verb",
+  "zipf": 2.5,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Passar a estação fria num estado de sono profundo, com o metabolismo muito reduzido, como fazem os ursos.",
+  "example": "Durante os meses de frio, os ursos recolhem à caverna para ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"hi-\"",
+   "similar": "soa um pouco como \"governar\"",
+   "lastSound": "termina em \"-nar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "hibernar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0228",
+  "lang": "pt-PT",
+  "target": "listar",
+  "accept": [
+   "listar"
+  ],
+  "pos": "verb",
+  "zipf": 3.32,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Enumerar de forma ordenada, uns a seguir aos outros, os elementos que compõem um conjunto.",
+  "example": "A secretária vai ___ os nomes de todos os convidados antes do fim da reunião.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"lis-\"",
+   "similar": "soa um pouco como \"avistar\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "listar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0229",
+  "lang": "pt-PT",
+  "target": "nevar",
+  "accept": [
+   "nevar"
+  ],
+  "pos": "verb",
+  "zipf": 2.86,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Cair do céu flocos brancos de gelo cristalizado que cobrem o solo.",
+  "example": "Costuma ___ na serra entre dezembro e fevereiro.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"ne-\"",
+   "similar": "soa um pouco como \"levar\"",
+   "lastSound": "termina em \"-var\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "nevar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0230",
+  "lang": "pt-PT",
+  "target": "perpetuar",
+  "accept": [
+   "perpetuar"
+  ],
+  "pos": "verb",
+  "zipf": 3.17,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Fazer durar algo indefinidamente, sobretudo uma memória, um costume ou um nome.",
+  "example": "O monumento foi erguido para ___ a memória dos navegadores.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"per-\"",
+   "similar": "soa um pouco como \"acentuar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "perpetuar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0231",
+  "lang": "pt-PT",
+  "target": "picar",
+  "accept": [
+   "picar"
+  ],
+  "pos": "verb",
+  "zipf": 3.19,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Ferir ou penetrar com objeto aguçado, como o ferrão de um inseto.",
+  "example": "Cuidado com aquele arbusto, que pode ___ as mãos.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"pi-\"",
+   "similar": "soa um pouco como \"ficar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "picar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0232",
+  "lang": "pt-PT",
+  "target": "reaparecer",
+  "accept": [
+   "reaparecer"
+  ],
+  "pos": "verb",
+  "zipf": 2.74,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Voltar a mostrar-se depois de ter estado ausente, escondido ou invisível.",
+  "example": "Depois de dias escondido, o gato acabou por ___ no jardim.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"re-a-\"",
+   "similar": "soa um pouco como \"reconhecer\"",
+   "lastSound": "termina em \"-cer\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "reaparecer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0233",
+  "lang": "pt-PT",
+  "target": "sobrecarregar",
+  "accept": [
+   "sobrecarregar"
+  ],
+  "pos": "verb",
+  "zipf": 2.88,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Impor a alguém ou a algo mais peso, trabalho ou responsabilidade do que pode aguentar.",
+  "example": "Não convém ___ o automóvel com bagagem a mais antes da viagem.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"so-\"",
+   "similar": "soa um pouco como \"entregar\"",
+   "lastSound": "termina em \"-gar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "sobrecarregar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0234",
+  "lang": "pt-PT",
+  "target": "soldar",
+  "accept": [
+   "soldar"
+  ],
+  "pos": "verb",
+  "zipf": 2.55,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Unir duas peças de metal aplicando calor até que as extremidades fundam e fiquem ligadas.",
+  "example": "O serralheiro teve de ___ as duas barras de ferro com um maçarico.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"sol-\"",
+   "similar": "soa um pouco como \"soltar\"",
+   "lastSound": "termina em \"-dar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "soldar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0235",
+  "lang": "pt-PT",
+  "target": "tricotar",
+  "accept": [
+   "tricotar"
+  ],
+  "pos": "verb",
+  "zipf": 2.57,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Fabricar peças de vestuário entrelaçando fio com duas agulhas compridas.",
+  "example": "A avó passava as tardes de inverno a ___ um cachecol de lã.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"tri-\"",
+   "similar": "soa um pouco como \"triciclo\"",
+   "lastSound": "termina em \"-tar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "tricotar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0236",
+  "lang": "pt-PT",
+  "target": "vasculhar",
+  "accept": [
+   "vasculhar"
+  ],
+  "pos": "verb",
+  "zipf": 2.8,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Procurar com insistência em todos os cantos de um lugar, revolvendo e desarrumando tudo.",
+  "example": "A polícia passou a noite a ___ a casa à procura de provas.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"vas-\"",
+   "similar": "soa um pouco como \"atrapalhar\"",
+   "lastSound": "termina em \"-lhar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "vasculhar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0237",
+  "lang": "pt-PT",
+  "target": "absorvente",
+  "accept": [
+   "absorvente"
+  ],
+  "pos": "adj",
+  "zipf": 3.25,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Que retém e suga líquidos com grande facilidade.",
+  "example": "Este pano é muito ___ e seca qualquer derrame num instante.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"ab-\"",
+   "similar": "rima com \"surpreendente\"",
+   "lastSound": "termina em \"-ente\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "absorvente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0238",
+  "lang": "pt-PT",
+  "target": "adotivo",
+  "accept": [
+   "adotivo"
+  ],
+  "pos": "adj",
+  "zipf": 3.24,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relativo ao vínculo legal que liga uma criança a quem a recebeu e criou como filho.",
+  "example": "O pai ___ tratou o menino como se fosse seu desde o primeiro dia.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"a-\"",
+   "similar": "soa um pouco como \"positivo\"",
+   "lastSound": "termina em \"-vo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "adotivo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0239",
+  "lang": "pt-PT",
+  "target": "alentejano",
+  "accept": [
+   "alentejano"
+  ],
+  "pos": "adj",
+  "zipf": 2.72,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Relativo à região de planícies do sul de Portugal, entre o Tejo e o Algarve, ou aí nascido.",
+  "example": "Aquele vinho tinto ___ acompanha bem a carne de porco.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"a-len-\"",
+   "similar": "soa um pouco como \"castelhano\"",
+   "lastSound": "termina em \"-ano\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "alentejano",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0240",
+  "lang": "pt-PT",
+  "target": "assíduo",
+  "accept": [
+   "assíduo"
+  ],
+  "pos": "adj",
+  "zipf": 2.73,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que comparece com regularidade e raramente falta aos compromissos ou obrigações que assume.",
+  "example": "É um aluno ___: nunca falta às aulas e entrega sempre os trabalhos a tempo.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "começa por \"as-\"",
+   "similar": "soa um pouco como \"resíduo\"",
+   "lastSound": "termina em \"-o\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "assíduo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0241",
+  "lang": "pt-PT",
+  "target": "banal",
+  "accept": [
+   "banal"
+  ],
+  "pos": "adj",
+  "zipf": 3.35,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que é vulgar, comum e sem qualquer traço de originalidade ou interesse.",
+  "example": "A conversa ao jantar era tão ___ que ninguém conseguiu manter-se atento.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"ba-\"",
+   "similar": "rima com \"canal\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "banal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0242",
+  "lang": "pt-PT",
+  "target": "conivente",
+  "accept": [
+   "conivente"
+  ],
+  "pos": "adj",
+  "zipf": 2.87,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que, podendo impedir ou denunciar, deixa passar em silêncio os atos reprováveis de outra pessoa.",
+  "example": "A direção foi acusada de ser ___ com as irregularidades cometidas no departamento.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"co-\"",
+   "similar": "soa um pouco como \"conveniente\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "conivente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0243",
+  "lang": "pt-PT",
+  "target": "corrosivo",
+  "accept": [
+   "corrosivo"
+  ],
+  "pos": "adj",
+  "zipf": 2.63,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Diz-se da substância que ataca e desgasta lentamente a superfície de um material, por reação química.",
+  "example": "Aquele ácido é tão ___ que abriu um buraco no metal do depósito.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"cor-\"",
+   "similar": "soa um pouco como \"decisivo\"",
+   "lastSound": "termina em \"-vo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "corrosivo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0244",
+  "lang": "pt-PT",
+  "target": "digestivo",
+  "accept": [
+   "digestivo"
+  ],
+  "pos": "adj",
+  "zipf": 3.3,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relativo ao aparelho e ao processo que transformam os alimentos para serem absorvidos pelo organismo.",
+  "example": "Fez uma endoscopia para investigar uma hemorragia no tubo ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"di-\"",
+   "similar": "soa um pouco como \"desportivo\"",
+   "lastSound": "termina em \"-vo\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "digestivo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0245",
+  "lang": "pt-PT",
+  "target": "divergente",
+  "accept": [
+   "divergente"
+  ],
+  "pos": "adj",
+  "zipf": 3.22,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que se separa de outro, seguindo caminho, rumo ou opinião diferente.",
+  "example": "O rumo escolhido era ___, afastando-se por completo do traçado inicial.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"di-\"",
+   "similar": "rima com \"urgente\"",
+   "lastSound": "termina em \"-ente\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "divergente",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0246",
+  "lang": "pt-PT",
+  "target": "empoeirado",
+  "accept": [
+   "empoeirado"
+  ],
+  "pos": "adj",
+  "zipf": 2.73,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Coberto por uma fina camada de sujidade acinzentada, por falta de uso ou de limpeza.",
+  "example": "Os livros da estante estavam ___, sem ninguém lhes tocar há anos.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"em-\"",
+   "similar": "soa um pouco como \"apaixonado\"",
+   "lastSound": "termina em \"-ado\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "empoeirado",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0247",
+  "lang": "pt-PT",
+  "target": "entediado",
+  "accept": [
+   "entediado"
+  ],
+  "pos": "adj",
+  "zipf": 3.26,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que se sente aborrecido e desinteressado, por falta de estímulo ou de ocupação.",
+  "example": "O aluno estava ___ e bocejava durante toda a aula.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"en-\"",
+   "similar": "soa um pouco como \"remediado\"",
+   "lastSound": "termina em \"-ado\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "entediado",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0248",
+  "lang": "pt-PT",
+  "target": "espaçoso",
+  "accept": [
+   "espaçoso"
+  ],
+  "pos": "adj",
+  "zipf": 2.88,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Que tem grandes dimensões interiores, com bastante área livre para se mover.",
+  "example": "Compraram um apartamento ___, com divisões enormes e muita luz natural.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"es-\"",
+   "similar": "rima com \"gracioso\"",
+   "lastSound": "termina em \"-oso\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "espaçoso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0249",
+  "lang": "pt-PT",
+  "target": "fraterno",
+  "accept": [
+   "fraterno"
+  ],
+  "pos": "adj",
+  "zipf": 2.54,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Diz-se do sentimento ou laço afetuoso próprio de irmãos ou semelhante ao que entre eles existe.",
+  "example": "Deram um abraço ___ e prometeram ajudar-se sempre que fosse preciso.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"fra-\"",
+   "similar": "soa um pouco como \"inverno\"",
+   "lastSound": "termina em \"-no\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fraterno",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0250",
+  "lang": "pt-PT",
+  "target": "gregoriano",
+  "accept": [
+   "gregoriano"
+  ],
+  "pos": "adj",
+  "zipf": 2.91,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relativo ao calendário solar hoje em vigor no Ocidente ou ao canto litúrgico medieval da Igreja.",
+  "example": "O coro entoou um canto ___ que encheu toda a nave da igreja.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"gre-\"",
+   "similar": "soa um pouco como \"grelhado\"",
+   "lastSound": "termina em \"-no\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "gregoriano",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0251",
+  "lang": "pt-PT",
+  "target": "ileso",
+  "accept": [
+   "ileso"
+  ],
+  "pos": "adj",
+  "zipf": 3.21,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que saiu de um acidente ou situação perigosa sem sofrer qualquer ferimento ou dano.",
+  "example": "O condutor saiu ___ do despiste aparatoso e recusou ir ao hospital.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"i-\"",
+   "similar": "soa um pouco como \"peso\"",
+   "lastSound": "termina em \"-so\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "ileso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0252",
+  "lang": "pt-PT",
+  "target": "inclusivo",
+  "accept": [
+   "inclusivo"
+  ],
+  "pos": "adj",
+  "zipf": 3.11,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que abrange ou integra todas as pessoas ou elementos, sem deixar nenhum grupo de fora.",
+  "example": "A escola adotou um projeto ___ para acolher alunos de todas as origens.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"in-\"",
+   "similar": "soa um pouco como \"sucessivo\"",
+   "lastSound": "termina em \"-vo\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "inclusivo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0253",
+  "lang": "pt-PT",
+  "target": "seleto",
+  "accept": [
+   "seleto"
+  ],
+  "pos": "adj",
+  "zipf": 3.12,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Formado apenas pelos melhores, com exclusão rigorosa dos restantes.",
+  "example": "O evento reuniu um público ___, composto por nomes sonantes da área.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"se-\"",
+   "similar": "soa um pouco como \"completo\"",
+   "lastSound": "termina em \"-eto\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "seleto",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0254",
+  "lang": "pt-PT",
+  "target": "tendencioso",
+  "accept": [
+   "tendencioso"
+  ],
+  "pos": "adj",
+  "zipf": 2.72,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que expressa uma parcialidade deliberada, procurando influenciar quem o lê ou ouve.",
+  "example": "O documentário foi considerado ___, favorecendo claramente um dos lados.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"ten-\"",
+   "similar": "rima com \"precioso\"",
+   "lastSound": "termina em \"-oso\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "tendencioso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0255",
+  "lang": "pt-PT",
+  "target": "topográfico",
+  "accept": [
+   "topográfico"
+  ],
+  "pos": "adj",
+  "zipf": 2.94,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relativo à representação do relevo e dos acidentes naturais de um terreno em mapas ou cartas.",
+  "example": "O engenheiro consultou o levantamento ___ antes de decidir o traçado da estrada.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"to-\"",
+   "similar": "soa um pouco como \"filosófico\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "topográfico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0256",
+  "lang": "pt-PT",
+  "target": "transcendental",
+  "accept": [
+   "transcendental"
+  ],
+  "pos": "adj",
+  "zipf": 3.0,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Que está acima dos limites da experiência comum, do mundo material ou do saber vulgar.",
+  "example": "Para ele, aquele momento teve um significado ___, quase sagrado e fora do comum.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"trans-\"",
+   "similar": "rima com \"acidental\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "transcendental",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0257",
+  "lang": "pt-PT",
+  "target": "xiita",
+  "accept": [
+   "xiita"
+  ],
+  "pos": "adj",
+  "zipf": 3.1,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relativo ao ramo do islão que considera Ali e os seus descendentes os legítimos sucessores de Maomé.",
+  "example": "A maioria da população do Irão segue a corrente ___ do islão.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"xi-\"",
+   "similar": "soa um pouco como \"fita\"",
+   "lastSound": "termina em \"-ta\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "xiita",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0258",
+  "lang": "pt-PT",
+  "target": "benfeitoria",
+  "accept": [
+   "benfeitoria"
+  ],
+  "pos": "noun",
+  "zipf": 2.24,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Obra ou investimento que aumenta o valor ou a utilidade de um prédio ou terreno.",
+  "example": "A Câmara classificou a construção do fontanário como uma ___ de interesse público.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"ben-\"",
+   "similar": "soa um pouco como \"categoria\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 2,
+  "validated": {
+   "solverAnswer": "benfeitoria",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0259",
+  "lang": "pt-PT",
+  "target": "centrifugação",
+  "accept": [
+   "centrifugação"
+  ],
+  "pos": "noun",
+  "zipf": 2.36,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Processo que separa substâncias de densidades diferentes sujeitando-as a rotação muito rápida.",
+  "example": "A ___ do sangue permitiu separar o plasma dos glóbulos vermelhos.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"cen-\"",
+   "similar": "soa um pouco como \"configuração\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "centrifugação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0260",
+  "lang": "pt-PT",
+  "target": "cineteatro",
+  "accept": [
+   "cineteatro"
+  ],
+  "pos": "noun",
+  "zipf": 2.16,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Sala ou edifício que serve tanto para projeção de filmes como para espetáculos ao vivo.",
+  "example": "O antigo ___ da vila passou a acolher filmes e peças de grupos locais.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"ci-\"",
+   "similar": "soa um pouco como \"cimento\"",
+   "lastSound": "termina em \"-tro\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "cineteatro",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0261",
+  "lang": "pt-PT",
+  "target": "desbaste",
+  "accept": [
+   "desbaste"
+  ],
+  "pos": "noun",
+  "zipf": 2.02,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Corte ou eliminação do que é excesso, sobretudo em árvores ou rebanhos, para os tornar mais fortes e produtivos.",
+  "example": "O engenheiro florestal mandou fazer um ___ das árvores mais fracas do pinhal.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"des-\"",
+   "similar": "soa um pouco como \"contraste\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "desbaste",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0262",
+  "lang": "pt-PT",
+  "target": "dobrador",
+  "accept": [
+   "dobrador"
+  ],
+  "pos": "noun",
+  "zipf": 2.19,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Ator de voz que substitui, numa língua, o diálogo original de filmes, séries ou desenhos animados.",
+  "example": "Na versão portuguesa do filme, o ___ deu voz ao protagonista.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"do-\"",
+   "similar": "soa um pouco como \"treinador\"",
+   "lastSound": "termina em \"-dor\""
+  },
+  "parallelSet": 1,
+  "validated": {
+   "solverAnswer": "dobrador",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0263",
+  "lang": "pt-PT",
+  "target": "dromedário",
+  "accept": [
+   "dromedário"
+  ],
+  "pos": "noun",
+  "zipf": 1.99,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Mamífero do deserto, semelhante ao camelo mas com uma só corcova.",
+  "example": "Atravessaram o deserto montados num ___ carregado de mantimentos.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"dro-\"",
+   "similar": "soa um pouco como \"aniversário\"",
+   "lastSound": "termina em \"-o\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "dromedário",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0264",
+  "lang": "pt-PT",
+  "target": "especiação",
+  "accept": [
+   "especiação"
+  ],
+  "pos": "noun",
+  "zipf": 1.97,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Processo evolutivo pelo qual se formam novos grupos de seres vivos reprodutivamente isolados de outros.",
+  "example": "A separação geográfica das populações pode favorecer a ___.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"es-\"",
+   "similar": "soa um pouco como \"apreciação\"",
+   "lastSound": "termina em \"-ção\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "especiação",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0265",
+  "lang": "pt-PT",
+  "target": "gastroenterite",
+  "accept": [
+   "gastroenterite"
+  ],
+  "pos": "noun",
+  "zipf": 2.34,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Inflamação simultânea do estômago e do intestino, que provoca vómitos, dores e diarreia.",
+  "example": "Comeu marisco em mau estado e apanhou uma ___ que o deixou de cama dois dias.",
+  "hints": {
+   "syllables": 6,
+   "stress": 5,
+   "firstSound": "começa por \"gas-\"",
+   "similar": "soa um pouco como \"apetite\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "gastroenterite",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0266",
+  "lang": "pt-PT",
+  "target": "haiku",
+  "accept": [
+   "haiku",
+   "haicai"
+  ],
+  "pos": "noun",
+  "zipf": 2.34,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Poema japonês de três versos breves, com cinco, sete e cinco sílabas.",
+  "example": "Escreveu um ___ sobre a chuva de outono e as folhas caídas.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"hai-\"",
+   "similar": "soa um pouco como \"baú\"",
+   "lastSound": "termina em \"-ku\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "haiku",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0267",
+  "lang": "pt-PT",
+  "target": "holografia",
+  "accept": [
+   "holografia"
+  ],
+  "pos": "noun",
+  "zipf": 1.93,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Técnica que permite registar e reproduzir imagens tridimensionais através da luz de um laser.",
+  "example": "A exposição usava ___ para projetar esculturas tridimensionais no ar.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"ho-\"",
+   "similar": "soa um pouco como \"fotografia\"",
+   "lastSound": "termina em \"-a\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "holografia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0268",
+  "lang": "pt-PT",
+  "target": "libreto",
+  "accept": [
+   "libreto"
+  ],
+  "pos": "noun",
+  "zipf": 2.21,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Texto completo de uma ópera, opereta ou musical, com falas e letras das partes cantadas.",
+  "example": "Antes do ensaio, o maestro pediu aos cantores que sublinhassem as passagens do ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"li-\"",
+   "similar": "soa um pouco como \"secreto\"",
+   "lastSound": "termina em \"-to\""
+  },
+  "parallelSet": 4,
+  "validated": {
+   "solverAnswer": "libreto",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0269",
+  "lang": "pt-PT",
+  "target": "licantropia",
+  "accept": [
+   "licantropia"
+  ],
+  "pos": "noun",
+  "zipf": 2.04,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Crença ou perturbação em que alguém se imagina transformado em lobo, sobretudo em lendas antigas.",
+  "example": "Naquela lenda medieval, a ___ explicava os crimes cometidos durante a lua cheia.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"li-\"",
+   "similar": "soa um pouco como \"licenciatura\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "licantropia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0270",
+  "lang": "pt-PT",
+  "target": "lingote",
+  "accept": [
+   "lingote"
+  ],
+  "pos": "noun",
+  "zipf": 1.91,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Massa de metal fundido e solidificado, geralmente em forma de paralelepípedo, pronta a ser trabalhada.",
+  "example": "A fundição produziu um ___ de ouro com cerca de doze quilos.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "começa por \"lin-\"",
+   "similar": "soa um pouco como \"pacote\"",
+   "lastSound": "termina em \"-te\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "lingote",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0271",
+  "lang": "pt-PT",
+  "target": "ortodontista",
+  "accept": [
+   "ortodontista"
+  ],
+  "pos": "noun",
+  "zipf": 2.21,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Especialista médico que corrige a posição dos maxilares e dos órgãos da mastigação.",
+  "example": "A minha irmã vai ao ___ para lhe corrigirem a posição do maxilar.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"or-\"",
+   "similar": "soa um pouco como \"motorista\"",
+   "lastSound": "termina em \"-ista\""
+  },
+  "parallelSet": 3,
+  "validated": {
+   "solverAnswer": "ortodontista",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0272",
+  "lang": "pt-PT",
+  "target": "ralador",
+  "accept": [
+   "ralador"
+  ],
+  "pos": "noun",
+  "zipf": 2.27,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Utensílio de cozinha com superfície áspera e cheia de pequenos furos, usado para reduzir alimentos a fragmentos finos.",
+  "example": "Passou a cenoura pelo ___ e juntou-a depois à massa do bolo.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"ra-\"",
+   "similar": "soa um pouco como \"lavrador\"",
+   "lastSound": "termina em \"-dor\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "ralador",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0273",
+  "lang": "pt-PT",
+  "target": "serigrafia",
+  "accept": [
+   "serigrafia"
+  ],
+  "pos": "noun",
+  "zipf": 2.4,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Técnica de impressão em que a tinta atravessa uma tela esticada, usada em T-shirts e cartazes.",
+  "example": "Encomendámos camisolas com o logótipo feito por ___.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"se-\"",
+   "similar": "soa um pouco como \"cerimónia\"",
+   "lastSound": "termina em \"-ia\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "serigrafia",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0274",
+  "lang": "pt-PT",
+  "target": "suserano",
+  "accept": [
+   "suserano"
+  ],
+  "pos": "noun",
+  "zipf": 2.07,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Senhor feudal a quem outro nobre devia vassalagem.",
+  "example": "O duque prestou homenagem ao seu ___ em troca de proteção.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "começa por \"su-\"",
+   "similar": "soa um pouco como \"serrano\"",
+   "lastSound": "termina em \"-no\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "suserano",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0275",
+  "lang": "pt-PT",
+  "target": "violoncelista",
+  "accept": [
+   "violoncelista"
+  ],
+  "pos": "noun",
+  "zipf": 2.49,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Músico que toca o instrumento de cordas e arco, de som grave, que se segura entre os joelhos.",
+  "example": "A orquestra contratou um novo ___ para reforçar a secção das cordas graves.",
+  "hints": {
+   "syllables": 6,
+   "stress": 5,
+   "firstSound": "começa por \"vi-o-\"",
+   "similar": "soa um pouco como \"futebolista\"",
+   "lastSound": "termina em \"-ta\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "violoncelista",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0276",
+  "lang": "pt-PT",
+  "target": "ónus",
+  "accept": [
+   "ónus"
+  ],
+  "pos": "noun",
+  "zipf": 1.93,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Encargo, peso ou obrigação gravosa que recai sobre alguém.",
+  "example": "Em processo civil, o ___ da prova cabe a quem alega os factos.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "começa por \"ó-\"",
+   "similar": "soa um pouco como \"bónus\"",
+   "lastSound": "termina em \"-nus\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "ónus",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0277",
+  "lang": "pt-PT",
+  "target": "destilar",
+  "accept": [
+   "destilar"
+  ],
+  "pos": "verb",
+  "zipf": 2.45,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Separar líquidos por vaporização e condensação, ou produzir bebida alcoólica por esse processo.",
+  "example": "O alambique vai ___ o vinho para produzir aguardente.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"des-\"",
+   "similar": "soa um pouco como \"instalar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "destilar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0278",
+  "lang": "pt-PT",
+  "target": "encalhar",
+  "accept": [
+   "encalhar"
+  ],
+  "pos": "verb",
+  "zipf": 2.21,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Ficar uma embarcação presa no fundo por falta de água, ou parar por completo um processo ou negócio.",
+  "example": "O navio bateu num banco de areia e acabou por ___ à entrada do porto.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"en-\"",
+   "similar": "soa um pouco como \"trabalhar\"",
+   "lastSound": "termina em \"-alhar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "encalhar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0279",
+  "lang": "pt-PT",
+  "target": "fermentar",
+  "accept": [
+   "fermentar"
+  ],
+  "pos": "verb",
+  "zipf": 2.38,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Sofrer alteração química por ação de leveduras ou bactérias, como acontece ao mosto que se torna vinho.",
+  "example": "Deixaram o mosto num tonel de carvalho a ___ durante semanas, até ganhar teor alcoólico.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"fer-\"",
+   "similar": "soa um pouco como \"aumentar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "fermentar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0280",
+  "lang": "pt-PT",
+  "target": "garimpar",
+  "accept": [
+   "garimpar"
+  ],
+  "pos": "verb",
+  "zipf": 2.11,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Procurar ouro, diamantes ou outras pedras preciosas em cascalho de rios, de forma artesanal.",
+  "example": "Durante anos subiu ao rio com uma bateia para ___ pepitas de ouro nas areias.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"ga-\"",
+   "similar": "soa um pouco como \"limpar\"",
+   "lastSound": "termina em \"-impar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "garimpar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0281",
+  "lang": "pt-PT",
+  "target": "infundir",
+  "accept": [
+   "infundir"
+  ],
+  "pos": "verb",
+  "zipf": 2.13,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Fazer nascer num ânimo um sentimento, como o medo ou a coragem, de modo gradual.",
+  "example": "Aquele discurso calmo acabou por ___ coragem aos jogadores, que voltaram ao campo mais confiantes.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"in-\"",
+   "similar": "soa um pouco como \"sacudir\"",
+   "lastSound": "termina em \"-undir\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "infundir",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0282",
+  "lang": "pt-PT",
+  "target": "intrigar",
+  "accept": [
+   "intrigar"
+  ],
+  "pos": "verb",
+  "zipf": 1.95,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Despertar a curiosidade ou a desconfiança de alguém, por haver um mistério difícil de entender.",
+  "example": "O comportamento estranho da vizinha começou a ___ toda a gente da rua.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"in-\"",
+   "similar": "soa um pouco como \"castigar\"",
+   "lastSound": "termina em \"-igar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "intrigar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0283",
+  "lang": "pt-PT",
+  "target": "ladrar",
+  "accept": [
+   "ladrar"
+  ],
+  "pos": "verb",
+  "zipf": 2.39,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Emitir o cão o seu som característico, normalmente repetido e estridente.",
+  "example": "O cão começou a ___ assim que ouviu passos no corredor.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"la-\"",
+   "similar": "soa um pouco como \"lavrar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "ladrar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0284",
+  "lang": "pt-PT",
+  "target": "limar",
+  "accept": [
+   "limar"
+  ],
+  "pos": "verb",
+  "zipf": 2.15,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Desgastar ou alisar uma superfície com uma ferramenta áspera.",
+  "example": "O artesão vai ___ as rebarbas da peça de metal.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "começa por \"li-\"",
+   "similar": "soa um pouco como \"rimar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "limar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0285",
+  "lang": "pt-PT",
+  "target": "metralhar",
+  "accept": [
+   "metralhar"
+  ],
+  "pos": "verb",
+  "zipf": 2.0,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Disparar rajadas contínuas com uma arma automática, ou atingir algo dessa forma.",
+  "example": "Os soldados escondidos na vala começaram a ___ a colina assim que viram movimento inimigo.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"me-\"",
+   "similar": "soa um pouco como \"atrapalhar\"",
+   "lastSound": "termina em \"-alhar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "metralhar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0286",
+  "lang": "pt-PT",
+  "target": "recapturar",
+  "accept": [
+   "recapturar"
+  ],
+  "pos": "verb",
+  "zipf": 2.24,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Voltar a apanhar algo ou alguém que tinha escapado, ficando de novo com ele sob controlo.",
+  "example": "O fugitivo escapou-se da prisão, mas a polícia acabou por ___ o homem três dias depois.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"re-\"",
+   "similar": "soa um pouco como \"inaugurar\"",
+   "lastSound": "termina em \"-urar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "recapturar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0287",
+  "lang": "pt-PT",
+  "target": "reiterar",
+  "accept": [
+   "reiterar"
+  ],
+  "pos": "verb",
+  "zipf": 2.31,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Dizer ou fazer algo de novo, insistindo no que já foi afirmado.",
+  "example": "O ministro voltou a ___ o compromisso do Governo com a saúde.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"rei-\"",
+   "similar": "soa um pouco como \"deitar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "reiterar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0288",
+  "lang": "pt-PT",
+  "target": "tilintar",
+  "accept": [
+   "tilintar"
+  ],
+  "pos": "verb",
+  "zipf": 2.05,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Produzir som agudo e repetido, como pequenas peças de metal a chocar.",
+  "example": "As chaves começaram a ___ no bolso do casaco enquanto ele corria.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "começa por \"ti-\"",
+   "similar": "soa um pouco como \"saltitar\"",
+   "lastSound": "termina em \"-ar\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "tilintar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0289",
+  "lang": "pt-PT",
+  "target": "bacteriano",
+  "accept": [
+   "bacteriano"
+  ],
+  "pos": "adj",
+  "zipf": 2.44,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Relativo aos microrganismos procariontes, ou provocado por eles, como certas infeções.",
+  "example": "O laboratório confirmou que se tratava de uma infeção ___, pelo que foi preciso receitar antibióticos.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"bac-\"",
+   "similar": "soa um pouco como \"quotidiano\"",
+   "lastSound": "termina em \"-ano\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "bacteriano",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0290",
+  "lang": "pt-PT",
+  "target": "bielorrusso",
+  "accept": [
+   "bielorrusso"
+  ],
+  "pos": "adj",
+  "zipf": 2.18,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Relativo ao país do leste da Europa cuja capital é Minsk, ou aos seus naturais.",
+  "example": "O atleta ___ ganhou a medalha de bronze no lançamento do peso.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"bi-\"",
+   "similar": "soa um pouco como \"recurso\"",
+   "lastSound": "termina em \"-usso\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "bielorrusso",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0291",
+  "lang": "pt-PT",
+  "target": "calorífico",
+  "accept": [
+   "calorífico"
+  ],
+  "pos": "adj",
+  "zipf": 1.96,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Que produz energia térmica ou se refere à quantidade de energia que um combustível liberta ao arder.",
+  "example": "O valor ___ do combustível indica quanta energia térmica ele liberta ao arder.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"ca-\"",
+   "similar": "soa um pouco como \"científico\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "calorífico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0292",
+  "lang": "pt-PT",
+  "target": "censitário",
+  "accept": [
+   "censitário"
+  ],
+  "pos": "adj",
+  "zipf": 2.06,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Relativo ao recenseamento da população ou ao direito de voto condicionado a certos bens.",
+  "example": "O historiador estudou o sistema ___ do século XIX, em que só votava quem possuísse terras.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"cen-\"",
+   "similar": "soa um pouco como \"salário\"",
+   "lastSound": "termina em \"-ário\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "censitário",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0293",
+  "lang": "pt-PT",
+  "target": "dogmático",
+  "accept": [
+   "dogmático"
+  ],
+  "pos": "adj",
+  "zipf": 2.33,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Que afirma ou aceita ideias como verdades absolutas, sem admitir dúvida ou discussão.",
+  "example": "O professor tinha um discurso ___ e não tolerava perguntas críticas.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "começa por \"dog-\"",
+   "similar": "soa um pouco como \"pragmático\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "dogmático",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0294",
+  "lang": "pt-PT",
+  "target": "endógeno",
+  "accept": [
+   "endógeno"
+  ],
+  "pos": "adj",
+  "zipf": 2.04,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Que se origina ou desenvolve no interior de um organismo, sistema ou território, e não por influência externa.",
+  "example": "O fator ___ da doença explica-se por alterações internas do próprio organismo.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "começa por \"en-\"",
+   "similar": "soa um pouco como \"terreno\"",
+   "lastSound": "termina em \"-no\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "endógeno",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0295",
+  "lang": "pt-PT",
+  "target": "epistemológico",
+  "accept": [
+   "epistemológico"
+  ],
+  "pos": "adj",
+  "zipf": 2.28,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Relativo ao estudo crítico da natureza, origem e limites do conhecimento humano.",
+  "example": "O debate ___ sobre a objetividade científica prolongou-se pela noite.",
+  "hints": {
+   "syllables": 7,
+   "stress": 5,
+   "firstSound": "começa por \"e-\"",
+   "similar": "soa um pouco como \"psicológico\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "epistemológico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0296",
+  "lang": "pt-PT",
+  "target": "geodésico",
+  "accept": [
+   "geodésico"
+  ],
+  "pos": "adj",
+  "zipf": 2.09,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Relativo à determinação da forma e dimensões da Terra e à medição de grandes áreas à sua superfície.",
+  "example": "O engenheiro usou um aparelho ___ para calcular coordenadas exatas numa área montanhosa.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"ge-\"",
+   "similar": "soa um pouco como \"académico\"",
+   "lastSound": "termina em \"-co\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "geodésico",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0297",
+  "lang": "pt-PT",
+  "target": "indistinguível",
+  "accept": [
+   "indistinguível"
+  ],
+  "pos": "adj",
+  "zipf": 2.06,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Que não se consegue diferenciar de outro, por não haver marcas que os separem.",
+  "example": "Tinha um sotaque tão perfeito que se tornava ___ de um nativo da região.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "começa por \"in-\"",
+   "similar": "soa um pouco como \"invencível\"",
+   "lastSound": "termina em \"-ível\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "indistinguível",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0298",
+  "lang": "pt-PT",
+  "target": "ortogonal",
+  "accept": [
+   "ortogonal"
+  ],
+  "pos": "adj",
+  "zipf": 2.04,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Relativo a um sistema de projeções ou coordenadas em que os eixos formam entre si ângulos retos.",
+  "example": "No desenho técnico, o sistema ___ de projeções representa o objeto em vistas separadas.",
+  "hints": {
+   "syllables": 4,
+   "stress": 4,
+   "firstSound": "começa por \"or-\"",
+   "similar": "soa um pouco como \"original\"",
+   "lastSound": "termina em \"-nal\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "ortogonal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0299",
+  "lang": "pt-PT",
+  "target": "pancreático",
+  "accept": [
+   "pancreático"
+  ],
+  "pos": "adj",
+  "zipf": 2.4,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Relativo à glândula situada atrás do estômago que produz insulina e enzimas digestivas.",
+  "example": "Os médicos detetaram um tumor ___ durante os exames de rotina.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "começa por \"pan-\"",
+   "similar": "soa um pouco como \"burocrático\"",
+   "lastSound": "termina em \"-ático\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "pancreático",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1-pt-PT-0300",
+  "lang": "pt-PT",
+  "target": "providencial",
+  "accept": [
+   "providencial"
+  ],
+  "pos": "adj",
+  "zipf": 2.38,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Que ocorre no momento certo para resolver uma dificuldade, como que enviado por uma intervenção superior.",
+  "example": "O apoio foi ___ e chegou no momento exato.",
+  "hints": {
+   "syllables": 5,
+   "stress": 5,
+   "firstSound": "começa por \"pro-\"",
+   "similar": "soa um pouco como \"confidencial\"",
+   "lastSound": "termina em \"-al\""
+  },
+  "parallelSet": 0,
+  "validated": {
+   "solverAnswer": "providencial",
+   "model": "deepseek-flash"
+  }
+ }
+]

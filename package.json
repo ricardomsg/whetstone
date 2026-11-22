@@ -1,0 +1,53 @@
+{
+	"name": "whetstone",
+	"private": true,
+	"version": "0.1.0",
+	"license": "MIT",
+	"type": "module",
+	"engines": {
+		"node": ">=24"
+	},
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"start": "node build/index.js",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"test": "vitest run",
+		"db:generate": "drizzle-kit generate",
+		"seed": "node seed/load.mjs",
+		"lexicon": "uv run --no-project --with wordfreq==3.1.1 python seed/scripts/lexicon.py",
+		"hash-passphrase": "node cli/hash-passphrase.mjs"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-node": "^5.5.7",
+		"@sveltejs/kit": "^2.70.3",
+		"@sveltejs/vite-plugin-svelte": "^7.3.1",
+		"@types/better-sqlite3": "^9.6.0",
+		"@types/node": "^24.0.0",
+		"drizzle-kit": "^0.31.11",
+		"svelte": "^5.57.1",
+		"svelte-check": "^4.7.6",
+		"typescript": "^6.0.3",
+		"vite": "^8.3.0",
+		"vitest": "^5.0.1"
+	},
+	"dependencies": {
+		"@fontsource-variable/inter": "^5.3.0",
+		"@lucide/svelte": "^1.48.0",
+		"@node-rs/argon2": "^2.2.1",
+		"better-sqlite3": "^13.0.3",
+		"diff": "^9.0.0",
+		"drizzle-orm": "^0.45.3",
+		"fflate": "^0.8.3",
+		"ts-fsrs": "^5.4.2",
+		"yaml": "^2.9.1",
+		"zod": "^4.6.7"
+	},
+	"allowScripts": {
+		"esbuild@0.28.2": true,
+		"esbuild@0.25.12": true,
+		"esbuild@0.18.20": true
+	}
+}

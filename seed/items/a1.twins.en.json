@@ -1,0 +1,6411 @@
+[
+ {
+  "id": "a1t-en-0001",
+  "lang": "en",
+  "target": "art",
+  "accept": [
+   "art"
+  ],
+  "pos": "noun",
+  "zipf": 5.29,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Paintings, sculpture, and similar works valued for their beauty or emotional power rather than practical use.",
+  "example": "The gallery's collection of modern ___ drew crowds from all over the city.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"a-\"",
+   "similar": "rhymes with \"heart\"",
+   "lastSound": "ends in \"-rt\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0001",
+  "validated": {
+   "solverAnswer": "art",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0002",
+  "lang": "en",
+  "target": "citizen",
+  "accept": [
+   "citizen"
+  ],
+  "pos": "noun",
+  "zipf": 4.39,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A legally recognized member of a country, entitled to its rights and protection.",
+  "example": "After ten years of living there, she finally became a ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"cit-\"",
+   "similar": "sounds a little like \"prison\"",
+   "lastSound": "ends in \"-zen\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0005",
+  "validated": {
+   "solverAnswer": "citizen",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0003",
+  "lang": "en",
+  "target": "advice",
+  "accept": [
+   "advice"
+  ],
+  "pos": "noun",
+  "zipf": 4.88,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "An opinion offered to someone about what they should do, typically from someone more experienced.",
+  "example": "My grandfather gave me some useful ___ about saving money.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"ad-\"",
+   "similar": "rhymes with \"device\"",
+   "lastSound": "ends in \"-vice\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0007",
+  "validated": {
+   "solverAnswer": "advice",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0004",
+  "lang": "en",
+  "target": "creation",
+  "accept": [
+   "creation"
+  ],
+  "pos": "noun",
+  "zipf": 4.56,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "The act of bringing something new into existence.",
+  "example": "The ___ of the national park took years of lobbying.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"cre-\"",
+   "similar": "rhymes with \"vacation\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0008",
+  "validated": {
+   "solverAnswer": "creation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0005",
+  "lang": "en",
+  "target": "cure",
+  "accept": [
+   "cure"
+  ],
+  "pos": "noun",
+  "zipf": 4.32,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A treatment that ends a disease or restores a sick person to health.",
+  "example": "Scientists have not yet found a ___ for the common cold.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"c-\"",
+   "similar": "rhymes with \"pure\"",
+   "lastSound": "ends in \"-ure\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0009",
+  "validated": {
+   "solverAnswer": "cure",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0006",
+  "lang": "en",
+  "target": "school",
+  "accept": [
+   "school"
+  ],
+  "pos": "noun",
+  "zipf": 5.71,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "An institution where children or students are taught, or the building housing it.",
+  "example": "The children walk to ___ together every morning.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sch-\"",
+   "similar": "rhymes with \"pool\"",
+   "lastSound": "ends in \"-ool\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0010",
+  "validated": {
+   "solverAnswer": "school",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0007",
+  "lang": "en",
+  "target": "experience",
+  "accept": [
+   "experience"
+  ],
+  "pos": "noun",
+  "zipf": 5.27,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "Knowledge or skill gained from doing or seeing something over a period of time.",
+  "example": "The job requires at least three years of ___ in a similar role.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ex-\"",
+   "similar": "sounds a little like \"convenience\"",
+   "lastSound": "ends in \"-ence\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0011",
+  "validated": {
+   "solverAnswer": "experience",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0008",
+  "lang": "en",
+  "target": "influence",
+  "accept": [
+   "influence"
+  ],
+  "pos": "noun",
+  "zipf": 4.78,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "The power to affect how someone or something develops or behaves.",
+  "example": "Her teachers had a lasting ___ on her decision to study medicine.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"in-\"",
+   "similar": "sounds a little like \"insolence\"",
+   "lastSound": "ends in \"-ence\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0013",
+  "validated": {
+   "solverAnswer": "influence",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0009",
+  "lang": "en",
+  "target": "text",
+  "accept": [
+   "text"
+  ],
+  "pos": "noun",
+  "zipf": 5.01,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "The written or printed words of a book, document, or message.",
+  "example": "He sent me a short ___ saying he'd be late.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"t-\"",
+   "similar": "rhymes with \"next\"",
+   "lastSound": "ends in \"-xt\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0020",
+  "validated": {
+   "solverAnswer": "text",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0010",
+  "lang": "en",
+  "target": "speed",
+  "accept": [
+   "speed"
+  ],
+  "pos": "noun",
+  "zipf": 5.0,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "The rate at which something moves or operates.",
+  "example": "The car's ___ was well above the legal limit.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sp-\"",
+   "similar": "rhymes with \"need\"",
+   "lastSound": "ends in \"-eed\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0021",
+  "validated": {
+   "solverAnswer": "speed",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0011",
+  "lang": "en",
+  "target": "season",
+  "accept": [
+   "season"
+  ],
+  "pos": "noun",
+  "zipf": 5.48,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "One of the four main periods of the year, each marked by typical weather.",
+  "example": "Spring is my favorite ___, when everything starts to bloom.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sea-\"",
+   "similar": "rhymes with \"reason\"",
+   "lastSound": "ends in \"-son\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0022",
+  "validated": {
+   "solverAnswer": "season",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0012",
+  "lang": "en",
+  "target": "act",
+  "accept": [
+   "act"
+  ],
+  "pos": "verb",
+  "zipf": 5.3,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "To do something, especially to deal with a problem, rather than merely wait or talk.",
+  "example": "When the alarm rang, we had to ___ fast.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"a-\"",
+   "similar": "rhymes with \"fact\"",
+   "lastSound": "ends in \"-ct\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0023",
+  "validated": {
+   "solverAnswer": "act",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0013",
+  "lang": "en",
+  "target": "arrive",
+  "accept": [
+   "arrive"
+  ],
+  "pos": "verb",
+  "zipf": 4.38,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To reach a place at the end of a journey or trip.",
+  "example": "The train is scheduled to ___ at nine o'clock.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"ar-\"",
+   "similar": "rhymes with \"five\"",
+   "lastSound": "ends in \"-ive\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0024",
+  "validated": {
+   "solverAnswer": "arrive",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0014",
+  "lang": "en",
+  "target": "let",
+  "accept": [
+   "let"
+  ],
+  "pos": "verb",
+  "zipf": 5.6,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "to give permission for an action, used with a bare infinitive and often implying no active assistance",
+  "example": "I'll ___ you borrow my car if you drive carefully.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"l-\"",
+   "similar": "rhymes with \"get\"",
+   "lastSound": "ends in \"-et\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0027",
+  "validated": {
+   "solverAnswer": "let",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0015",
+  "lang": "en",
+  "target": "sleep",
+  "accept": [
+   "sleep"
+  ],
+  "pos": "verb",
+  "zipf": 5.05,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to rest naturally with eyes closed and consciousness suspended, typically for several hours at night",
+  "example": "Most people need to ___ seven to eight hours a night.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sl-\"",
+   "similar": "rhymes with \"keep\"",
+   "lastSound": "ends in \"-eep\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0028",
+  "validated": {
+   "solverAnswer": "sleep",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0016",
+  "lang": "en",
+  "target": "sell",
+  "accept": [
+   "sell"
+  ],
+  "pos": "verb",
+  "zipf": 4.98,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "to exchange goods or services for money; to offer something for purchase",
+  "example": "They decided to ___ their old furniture online.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"s-\"",
+   "similar": "rhymes with \"bell\"",
+   "lastSound": "ends in \"-ell\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0034",
+  "validated": {
+   "solverAnswer": "sell",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0017",
+  "lang": "en",
+  "target": "annual",
+  "accept": [
+   "annual"
+  ],
+  "pos": "adj",
+  "zipf": 4.94,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "relating to a period of one year; occurring once every year, especially in official or financial contexts",
+  "example": "The company's ___ report summarizes its performance over the past twelve months.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"an-\"",
+   "similar": "rhymes with \"manual\"",
+   "lastSound": "ends in \"-al\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0035",
+  "validated": {
+   "solverAnswer": "annual",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0018",
+  "lang": "en",
+  "target": "digital",
+  "accept": [
+   "digital"
+  ],
+  "pos": "adj",
+  "zipf": 4.83,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "involving computer technology or electronic data represented as numerical values rather than physical forms",
+  "example": "Many readers now prefer ___ editions of newspapers.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"dig-\"",
+   "similar": "sounds a little like \"capital\"",
+   "lastSound": "ends in \"-tal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0036",
+  "validated": {
+   "solverAnswer": "digital",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0019",
+  "lang": "en",
+  "target": "musical",
+  "accept": [
+   "musical"
+  ],
+  "pos": "adj",
+  "zipf": 4.51,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "relating to organized sounds, melody, or harmony, or naturally pleasing to the ear",
+  "example": "She showed remarkable ___ talent from a young age.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"mu-\"",
+   "similar": "sounds a little like \"mystical\"",
+   "lastSound": "ends in \"-cal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0038",
+  "validated": {
+   "solverAnswer": "musical",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0020",
+  "lang": "en",
+  "target": "maximum",
+  "accept": [
+   "maximum"
+  ],
+  "pos": "adj",
+  "zipf": 4.6,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "highest possible, allowed, or reached amount, degree, or limit",
+  "example": "The ___ speed on this highway is sixty-five miles per hour.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"max-\"",
+   "similar": "sounds a little like \"mum\"",
+   "lastSound": "ends in \"-mum\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0039",
+  "validated": {
+   "solverAnswer": "maximum",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0021",
+  "lang": "en",
+  "target": "worst",
+  "accept": [
+   "worst"
+  ],
+  "pos": "adj",
+  "zipf": 4.93,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "of the lowest quality, most unfavorable, or most severe among all others",
+  "example": "That was the ___ meal I have ever eaten.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"w-\"",
+   "similar": "rhymes with \"thirst\"",
+   "lastSound": "ends in \"-st\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0040",
+  "validated": {
+   "solverAnswer": "worst",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0022",
+  "lang": "en",
+  "target": "public",
+  "accept": [
+   "public"
+  ],
+  "pos": "adj",
+  "zipf": 5.57,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "open to, shared by, or concerning all members of a community rather than a restricted group",
+  "example": "The mayor promised to make the documents ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"pub-\"",
+   "similar": "sounds a little like \"garlic\"",
+   "lastSound": "ends in \"-lic\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0042",
+  "validated": {
+   "solverAnswer": "public",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0023",
+  "lang": "en",
+  "target": "sad",
+  "accept": [
+   "sad"
+  ],
+  "pos": "adj",
+  "zipf": 4.84,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "feeling or showing sorrow; unhappy or causing sorrow",
+  "example": "She felt ___ after her best friend moved away.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"s-\"",
+   "similar": "rhymes with \"dad\"",
+   "lastSound": "ends in \"-ad\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0044",
+  "validated": {
+   "solverAnswer": "sad",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0024",
+  "lang": "en",
+  "target": "universal",
+  "accept": [
+   "universal"
+  ],
+  "pos": "adj",
+  "zipf": 4.49,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "applying to or affecting all people, things, or cases without exception",
+  "example": "The desire for freedom is often considered ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"u-\"",
+   "similar": "sounds a little like \"controversial\"",
+   "lastSound": "ends in \"-sal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0045",
+  "validated": {
+   "solverAnswer": "universal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0025",
+  "lang": "en",
+  "target": "camp",
+  "accept": [
+   "camp"
+  ],
+  "pos": "noun",
+  "zipf": 4.79,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "a place with tents or temporary shelters where people stay outdoors for recreation or training",
+  "example": "The scouts set up their tents at the ___ near the lake.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"c-\"",
+   "similar": "rhymes with \"lamp\"",
+   "lastSound": "ends in \"-mp\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0046",
+  "validated": {
+   "solverAnswer": "camp",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0026",
+  "lang": "en",
+  "target": "cushion",
+  "accept": [
+   "cushion"
+  ],
+  "pos": "noun",
+  "zipf": 3.58,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a soft pad or pillow used to sit, lie, or kneel on, or to soften impact",
+  "example": "She placed a soft ___ on the wooden chair.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"cush-\"",
+   "similar": "sounds a little like \"cushy\"",
+   "lastSound": "ends in \"-ion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0047",
+  "validated": {
+   "solverAnswer": "cushion",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0027",
+  "lang": "en",
+  "target": "bow",
+  "accept": [
+   "bow"
+  ],
+  "pos": "noun",
+  "zipf": 4.3,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a weapon made of a curved strip of wood with a tight string, used to launch arrows.",
+  "example": "The archer drew the ___ and aimed at the distant target.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"b-\"",
+   "similar": "rhymes with \"low\"",
+   "lastSound": "ends in \"-ow\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0048",
+  "validated": {
+   "solverAnswer": "bow",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0028",
+  "lang": "en",
+  "target": "shooter",
+  "accept": [
+   "shooter"
+  ],
+  "pos": "noun",
+  "zipf": 4.05,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a person who fires a gun, especially one being sought for firing at people.",
+  "example": "Police are still looking for the ___ who fired into the crowd.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"shoo-\"",
+   "similar": "sounds a little like \"scooter\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0049",
+  "validated": {
+   "solverAnswer": "shooter",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0029",
+  "lang": "en",
+  "target": "cod",
+  "accept": [
+   "cod"
+  ],
+  "pos": "noun",
+  "zipf": 3.89,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a large food fish of cold northern seas with soft white flesh.",
+  "example": "We ate baked ___ with lemon and potatoes for dinner.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"c-\"",
+   "similar": "rhymes with \"rod\"",
+   "lastSound": "ends in \"-od\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0050",
+  "validated": {
+   "solverAnswer": "cod",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0030",
+  "lang": "en",
+  "target": "bingo",
+  "accept": [
+   "bingo"
+  ],
+  "pos": "noun",
+  "zipf": 3.71,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a game of chance in which players mark numbered squares on a card as numbers are called out.",
+  "example": "She won fifty pounds playing ___ at the community hall.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"bin-\"",
+   "similar": "rhymes with \"lingo\"",
+   "lastSound": "ends in \"-go\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0051",
+  "validated": {
+   "solverAnswer": "bingo",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0031",
+  "lang": "en",
+  "target": "lime",
+  "accept": [
+   "lime"
+  ],
+  "pos": "noun",
+  "zipf": 3.86,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a small green citrus fruit with a very sour juicy pulp.",
+  "example": "He squeezed a wedge of ___ into his gin and tonic.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"l-\"",
+   "similar": "rhymes with \"time\"",
+   "lastSound": "ends in \"-ime\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0052",
+  "validated": {
+   "solverAnswer": "lime",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0032",
+  "lang": "en",
+  "target": "scar",
+  "accept": [
+   "scar"
+  ],
+  "pos": "noun",
+  "zipf": 3.77,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "the mark left on the skin after a wound or cut has healed.",
+  "example": "She has a small ___ above her eyebrow from a childhood fall.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"s-\"",
+   "similar": "rhymes with \"far\"",
+   "lastSound": "ends in \"-ar\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0054",
+  "validated": {
+   "solverAnswer": "scar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0033",
+  "lang": "en",
+  "target": "communist",
+  "accept": [
+   "communist",
+   "Communist"
+  ],
+  "pos": "noun",
+  "zipf": 4.32,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a supporter of a radical left-wing system in which the state owns all property and wealth is shared.",
+  "example": "During the Cold War, anyone with such views was branded a ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"com-\"",
+   "similar": "sounds a little like \"columnist\"",
+   "lastSound": "ends in \"-ist\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0057",
+  "validated": {
+   "solverAnswer": "communist",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0034",
+  "lang": "en",
+  "target": "continuation",
+  "accept": [
+   "continuation"
+  ],
+  "pos": "noun",
+  "zipf": 3.71,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the act of resuming or keeping something going after it has stopped, or the part that follows.",
+  "example": "The second meeting was simply a ___ of the first.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "starts with \"con-\"",
+   "similar": "sounds a little like \"situation\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0058",
+  "validated": {
+   "solverAnswer": "continuation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0035",
+  "lang": "en",
+  "target": "tooth",
+  "accept": [
+   "tooth"
+  ],
+  "pos": "noun",
+  "zipf": 4.08,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "one of the hard white bony structures in the jaws, used for biting and chewing food.",
+  "example": "The dentist said the cracked ___ would have to come out.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"t-\"",
+   "similar": "rhymes with \"truth\"",
+   "lastSound": "ends in \"-ooth\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0059",
+  "validated": {
+   "solverAnswer": "tooth",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0036",
+  "lang": "en",
+  "target": "disembarkation",
+  "accept": [
+   "disembarkation"
+  ],
+  "pos": "noun",
+  "zipf": 1.98,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "the act of getting off a ship or aircraft after a voyage or flight.",
+  "example": "Passengers waited on deck for ___ once the ferry had docked.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "starts with \"dis-\"",
+   "similar": "rhymes with \"vacation\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0060",
+  "validated": {
+   "solverAnswer": "disembarkation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0037",
+  "lang": "en",
+  "target": "detective",
+  "accept": [
+   "detective"
+  ],
+  "pos": "noun",
+  "zipf": 4.21,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a person, especially a police officer, whose job is to solve crimes by gathering evidence.",
+  "example": "The ___ spent weeks interviewing everyone who knew the victim.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"de-\"",
+   "similar": "rhymes with \"respective\"",
+   "lastSound": "ends in \"-tive\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0061",
+  "validated": {
+   "solverAnswer": "detective",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0038",
+  "lang": "en",
+  "target": "donation",
+  "accept": [
+   "donation"
+  ],
+  "pos": "noun",
+  "zipf": 4.0,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "money or goods given to a charity or organization to help support its work.",
+  "example": "She made a generous ___ to the local animal shelter.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"do-\"",
+   "similar": "rhymes with \"nation\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0062",
+  "validated": {
+   "solverAnswer": "donation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0039",
+  "lang": "en",
+  "target": "dollar",
+  "accept": [
+   "dollar"
+  ],
+  "pos": "noun",
+  "zipf": 4.59,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "the basic unit of money in the United States and several other countries.",
+  "example": "He found a crumpled ___ in the pocket of his old coat.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"dol-\"",
+   "similar": "sounds a little like \"collar\"",
+   "lastSound": "ends in \"-ar\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0064",
+  "validated": {
+   "solverAnswer": "dollar",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0040",
+  "lang": "en",
+  "target": "ego",
+  "accept": [
+   "ego"
+  ],
+  "pos": "noun",
+  "zipf": 4.02,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "a person's sense of their own importance and worth, often considered too great.",
+  "example": "His enormous ___ was bruised when his rival got the promotion.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"e-\"",
+   "similar": "sounds a little like \"echo\"",
+   "lastSound": "ends in \"-go\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0065",
+  "validated": {
+   "solverAnswer": "ego",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0041",
+  "lang": "en",
+  "target": "elite",
+  "accept": [
+   "elite"
+  ],
+  "pos": "noun",
+  "zipf": 4.4,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "the most powerful, wealthy, or highly skilled group within a society.",
+  "example": "Only the ___ could afford seats in the front row.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"e-\"",
+   "similar": "rhymes with \"delete\"",
+   "lastSound": "ends in \"-lite\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0066",
+  "validated": {
+   "solverAnswer": "elite",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0042",
+  "lang": "en",
+  "target": "filter",
+  "accept": [
+   "filter"
+  ],
+  "pos": "noun",
+  "zipf": 4.28,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a device or material that removes unwanted particles from air or liquid passing through it.",
+  "example": "The water tastes odd because the ___ in the jug needs changing.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"fil-\"",
+   "similar": "sounds a little like \"filler\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0067",
+  "validated": {
+   "solverAnswer": "filter",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0043",
+  "lang": "en",
+  "target": "geography",
+  "accept": [
+   "geography"
+  ],
+  "pos": "noun",
+  "zipf": 3.98,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the study of the earth's countries, peoples, and natural features.",
+  "example": "In ___ class we memorized the capitals of every country in Europe.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ge-\"",
+   "similar": "sounds a little like \"democracy\"",
+   "lastSound": "ends in \"-phy\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0069",
+  "validated": {
+   "solverAnswer": "geography",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0044",
+  "lang": "en",
+  "target": "inheritance",
+  "accept": [
+   "inheritance"
+  ],
+  "pos": "noun",
+  "zipf": 3.8,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "money, property, or possessions passed to someone after the previous owner has died.",
+  "example": "With her ___ she bought a small cottage by the sea.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"in-\"",
+   "similar": "sounds a little like \"inhabitant\"",
+   "lastSound": "ends in \"-tance\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0070",
+  "validated": {
+   "solverAnswer": "inheritance",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0045",
+  "lang": "en",
+  "target": "uncertainty",
+  "accept": [
+   "uncertainty"
+  ],
+  "pos": "noun",
+  "zipf": 4.03,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the state of not being sure what will happen or whether something is true.",
+  "example": "There is still a lot of ___ about the company's future.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"un-\"",
+   "similar": "sounds a little like \"eternity\"",
+   "lastSound": "ends in \"-ty\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0071",
+  "validated": {
+   "solverAnswer": "uncertainty",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0046",
+  "lang": "en",
+  "target": "knee",
+  "accept": [
+   "knee"
+  ],
+  "pos": "noun",
+  "zipf": 4.33,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "the joint in the middle of the leg, where the thigh bone meets the lower leg.",
+  "example": "He fell off his bike and scraped his ___ on the gravel.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with a silent \"k-\"",
+   "similar": "rhymes with \"sea\"",
+   "lastSound": "ends in \"-ee\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0072",
+  "validated": {
+   "solverAnswer": "knee",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0047",
+  "lang": "en",
+  "target": "play",
+  "accept": [
+   "play"
+  ],
+  "pos": "noun",
+  "zipf": 5.61,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "a written dramatic work performed by actors on a stage in a theatre.",
+  "example": "The critic praised the new ___ for its sharp dialogue and three acts.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"pl-\"",
+   "similar": "rhymes with \"day\"",
+   "lastSound": "ends in \"-ay\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0073",
+  "validated": {
+   "solverAnswer": "play",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0048",
+  "lang": "en",
+  "target": "announcer",
+  "accept": [
+   "announcer"
+  ],
+  "pos": "noun",
+  "zipf": 3.58,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a person who introduces performers or reads news and commentary on radio or television.",
+  "example": "The ___ told the crowd that the concert would begin in ten minutes.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"an-\"",
+   "similar": "rhymes with \"bouncer\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0074",
+  "validated": {
+   "solverAnswer": "announcer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0049",
+  "lang": "en",
+  "target": "medal",
+  "accept": [
+   "medal"
+  ],
+  "pos": "noun",
+  "zipf": 4.39,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a small metal disc bearing a design, awarded to a victor or for an act of bravery.",
+  "example": "She won a gold ___ in the 400-meter race.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"med-\"",
+   "similar": "rhymes with \"pedal\"",
+   "lastSound": "ends in \"-al\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0075",
+  "validated": {
+   "solverAnswer": "medal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0050",
+  "lang": "en",
+  "target": "melody",
+  "accept": [
+   "melody"
+  ],
+  "pos": "noun",
+  "zipf": 3.81,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "the sequence of single notes forming the main musical line of a song, distinct from harmony and rhythm.",
+  "example": "The song's opening ___ is so catchy that everyone hums along.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"mel-\"",
+   "similar": "sounds a little like \"remedy\"",
+   "lastSound": "ends in \"-dy\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0076",
+  "validated": {
+   "solverAnswer": "melody",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0051",
+  "lang": "en",
+  "target": "miner",
+  "accept": [
+   "miner"
+  ],
+  "pos": "noun",
+  "zipf": 3.58,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a worker who digs coal or ore out of the ground, often far below the surface.",
+  "example": "The ___ emerged from the shaft covered in coal dust.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"min-\"",
+   "similar": "rhymes with \"diner\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0077",
+  "validated": {
+   "solverAnswer": "miner",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0052",
+  "lang": "en",
+  "target": "modernity",
+  "accept": [
+   "modernity"
+  ],
+  "pos": "noun",
+  "zipf": 3.25,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "the quality or state of belonging to the present age, especially in style, technology, or outlook.",
+  "example": "Critics admired the sleek ___ of the new gallery, so unlike the city's old stone churches.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"mo-\"",
+   "similar": "sounds a little like \"fraternity\"",
+   "lastSound": "ends in \"-ty\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0078",
+  "validated": {
+   "solverAnswer": "modernity",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0053",
+  "lang": "en",
+  "target": "sauce",
+  "accept": [
+   "sauce"
+  ],
+  "pos": "noun",
+  "zipf": 4.3,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a thickened liquid, often served with or over food, that adds flavor or moisture.",
+  "example": "He poured a rich tomato ___ over the pasta.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sa-\"",
+   "similar": "sounds a little like \"source\"",
+   "lastSound": "ends in \"-ce\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0079",
+  "validated": {
+   "solverAnswer": "sauce",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0054",
+  "lang": "en",
+  "target": "motivation",
+  "accept": [
+   "motivation"
+  ],
+  "pos": "noun",
+  "zipf": 4.22,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the inner drive or reason that makes a person want to act or work toward a goal.",
+  "example": "Without any ___, he sat staring at the blank page for hours.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"mo-\"",
+   "similar": "sounds a little like \"navigation\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0080",
+  "validated": {
+   "solverAnswer": "motivation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0055",
+  "lang": "en",
+  "target": "obesity",
+  "accept": [
+   "obesity"
+  ],
+  "pos": "noun",
+  "zipf": 3.81,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the medical condition of being extremely overweight, often measured by body mass index.",
+  "example": "Doctors warn that childhood ___ has risen sharply in recent decades.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"o-\"",
+   "similar": "sounds a little like \"capacity\"",
+   "lastSound": "ends in \"-ty\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0081",
+  "validated": {
+   "solverAnswer": "obesity",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0056",
+  "lang": "en",
+  "target": "repercussion",
+  "accept": [
+   "repercussion"
+  ],
+  "pos": "noun",
+  "zipf": 2.25,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "an unintended, often unpleasant consequence that follows some time after an action or event.",
+  "example": "The new tax had an unexpected ___ on rural employment.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds a little like \"repetition\"",
+   "lastSound": "ends in \"-sion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0084",
+  "validated": {
+   "solverAnswer": "repercussion",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0057",
+  "lang": "en",
+  "target": "salvation",
+  "accept": [
+   "salvation"
+  ],
+  "pos": "noun",
+  "zipf": 3.95,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "deliverance from ruin, sin, or a desperate situation; the state of being rescued from loss or destruction.",
+  "example": "The unexpected loan was the company's ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"sal-\"",
+   "similar": "sounds a little like \"sensation\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0085",
+  "validated": {
+   "solverAnswer": "salvation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0058",
+  "lang": "en",
+  "target": "stamp",
+  "accept": [
+   "stamp"
+  ],
+  "pos": "noun",
+  "zipf": 4.11,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a small, gummed piece of paper sold by a post office and stuck on mail to show payment has been made.",
+  "example": "She licked the ___ and pressed it onto the corner of the envelope.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"st-\"",
+   "similar": "rhymes with \"lamp\"",
+   "lastSound": "ends in \"-amp\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0086",
+  "validated": {
+   "solverAnswer": "stamp",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0059",
+  "lang": "en",
+  "target": "smile",
+  "accept": [
+   "smile"
+  ],
+  "pos": "noun",
+  "zipf": 4.64,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "an upward curving of the corners of the mouth that shows pleasure, amusement, or friendliness.",
+  "example": "A faint ___ crossed his face when he heard the joke.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sm-\"",
+   "similar": "rhymes with \"tile\"",
+   "lastSound": "ends in \"-ile\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0088",
+  "validated": {
+   "solverAnswer": "smile",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0060",
+  "lang": "en",
+  "target": "succession",
+  "accept": [
+   "succession"
+  ],
+  "pos": "noun",
+  "zipf": 3.97,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the right or order by which one person takes over a throne, title, or office from the one holding it.",
+  "example": "After the king's death, the nobles argued over the ___ to the throne.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"suc-\"",
+   "similar": "rhymes with \"confession\"",
+   "lastSound": "ends in \"-sion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0089",
+  "validated": {
+   "solverAnswer": "succession",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0061",
+  "lang": "en",
+  "target": "sodium",
+  "accept": [
+   "sodium"
+  ],
+  "pos": "noun",
+  "zipf": 3.87,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a soft, silvery-white metallic element that combines with chlorine to make common table salt.",
+  "example": "The nutrition label says the soup contains 800 milligrams of ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"so-\"",
+   "similar": "sounds a little like \"premium\"",
+   "lastSound": "ends in \"-um\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0090",
+  "validated": {
+   "solverAnswer": "sodium",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0062",
+  "lang": "en",
+  "target": "web",
+  "accept": [
+   "web"
+  ],
+  "pos": "noun",
+  "zipf": 4.74,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "a net of fine, sticky threads spun by a spider to trap insects.",
+  "example": "A fly struggled in the delicate ___ strung between the branches.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"w-\"",
+   "similar": "rhymes with \"ebb\"",
+   "lastSound": "ends in \"-eb\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0091",
+  "validated": {
+   "solverAnswer": "web",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0063",
+  "lang": "en",
+  "target": "bull",
+  "accept": [
+   "bull"
+  ],
+  "pos": "noun",
+  "zipf": 4.34,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "the adult male of cattle, typically large, heavy, and horned.",
+  "example": "The farmer kept a massive ___ in the pasture apart from the cows.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"bu-\"",
+   "similar": "rhymes with \"pull\"",
+   "lastSound": "ends in \"-ull\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0092",
+  "validated": {
+   "solverAnswer": "bull",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0064",
+  "lang": "en",
+  "target": "tutor",
+  "accept": [
+   "tutor"
+  ],
+  "pos": "noun",
+  "zipf": 3.67,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a person who teaches one pupil or a small group privately, often to help with a school subject.",
+  "example": "She hired a math ___ to help her son prepare for the exam.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"tu-\"",
+   "similar": "rhymes with \"scooter\"",
+   "lastSound": "ends in \"-or\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0093",
+  "validated": {
+   "solverAnswer": "tutor",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0065",
+  "lang": "en",
+  "target": "vein",
+  "accept": [
+   "vein"
+  ],
+  "pos": "noun",
+  "zipf": 3.77,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "any of the tubes that carry blood back toward the heart from the body's tissues.",
+  "example": "The nurse searched for a ___ in the crook of his elbow.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"ve-\"",
+   "similar": "rhymes with \"rain\"",
+   "lastSound": "ends in \"-ein\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0094",
+  "validated": {
+   "solverAnswer": "vein",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0066",
+  "lang": "en",
+  "target": "vector",
+  "accept": [
+   "vector"
+  ],
+  "pos": "noun",
+  "zipf": 3.99,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "In mathematics and physics, a quantity having both magnitude and direction, often represented by an arrow.",
+  "example": "In physics, force is a ___ because it has both size and direction.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"vec-\"",
+   "similar": "rhymes with \"hector\"",
+   "lastSound": "ends in \"-tor\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0095",
+  "validated": {
+   "solverAnswer": "vector",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0067",
+  "lang": "en",
+  "target": "veil",
+  "accept": [
+   "veil"
+  ],
+  "pos": "noun",
+  "zipf": 3.66,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A piece of light fabric worn over the face or head, often to conceal or protect.",
+  "example": "The bride lifted her ___ to kiss the groom.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"v-\"",
+   "similar": "rhymes with \"sale\"",
+   "lastSound": "ends in \"-eil\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0096",
+  "validated": {
+   "solverAnswer": "veil",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0068",
+  "lang": "en",
+  "target": "exodus",
+  "accept": [
+   "exodus"
+  ],
+  "pos": "noun",
+  "zipf": 3.69,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "A mass departure of many people, especially from a place or country.",
+  "example": "The famine caused an ___ of thousands from the region.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"ex-\"",
+   "similar": "sounds a little like \"hexagon\"",
+   "lastSound": "ends in \"-dus\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0097",
+  "validated": {
+   "solverAnswer": "exodus",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0069",
+  "lang": "en",
+  "target": "orbit",
+  "accept": [
+   "orbit"
+  ],
+  "pos": "noun",
+  "zipf": 4.03,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "The curved, usually elliptical path of one body around another in space.",
+  "example": "The satellite settled into a stable ___ around Earth.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"or-\"",
+   "similar": "sounds a little like \"order\"",
+   "lastSound": "ends in \"-bit\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0098",
+  "validated": {
+   "solverAnswer": "orbit",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0070",
+  "lang": "en",
+  "target": "light",
+  "accept": [
+   "light"
+  ],
+  "pos": "verb",
+  "zipf": 5.33,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "To set something burning, especially a fire, candle, or cigarette.",
+  "example": "She used a match to ___ the candle.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"l-\"",
+   "similar": "rhymes with \"white\"",
+   "lastSound": "ends in \"-ight\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0099",
+  "validated": {
+   "solverAnswer": "light",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0071",
+  "lang": "en",
+  "target": "wake",
+  "accept": [
+   "wake"
+  ],
+  "pos": "verb",
+  "zipf": 4.76,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "To stop sleeping or cause someone to stop sleeping.",
+  "example": "I usually ___ at six o'clock on weekdays.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"w-\"",
+   "similar": "rhymes with \"bake\"",
+   "lastSound": "ends in \"-ake\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0100",
+  "validated": {
+   "solverAnswer": "wake",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0072",
+  "lang": "en",
+  "target": "add",
+  "accept": [
+   "add"
+  ],
+  "pos": "verb",
+  "zipf": 5.09,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "To find the sum of two or more numbers or quantities.",
+  "example": "If you ___ seven and five, you get twelve.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"a-\"",
+   "similar": "rhymes with \"mad\"",
+   "lastSound": "ends in \"-add\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0101",
+  "validated": {
+   "solverAnswer": "add",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0073",
+  "lang": "en",
+  "target": "click",
+  "accept": [
+   "click"
+  ],
+  "pos": "verb",
+  "zipf": 4.82,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "To make a short, sharp sound, often by pressing a button or latch.",
+  "example": "The camera will ___ when you press the shutter.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"cl-\"",
+   "similar": "rhymes with \"pick\"",
+   "lastSound": "ends in \"-ick\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0103",
+  "validated": {
+   "solverAnswer": "click",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0074",
+  "lang": "en",
+  "target": "glue",
+  "accept": [
+   "glue"
+  ],
+  "pos": "verb",
+  "zipf": 3.8,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To fasten or join things together using a sticky substance.",
+  "example": "Please ___ the broken pieces back together.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"gl-\"",
+   "similar": "rhymes with \"blue\"",
+   "lastSound": "ends in \"-ue\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0104",
+  "validated": {
+   "solverAnswer": "glue",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0075",
+  "lang": "en",
+  "target": "record",
+  "accept": [
+   "record"
+  ],
+  "pos": "verb",
+  "zipf": 5.21,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "To set down sound, images, or data so that they can be heard or seen later.",
+  "example": "The band will ___ their new album next month.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "rhymes with \"chord\"",
+   "lastSound": "ends in \"-cord\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0110",
+  "validated": {
+   "solverAnswer": "record",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0076",
+  "lang": "en",
+  "target": "impress",
+  "accept": [
+   "impress"
+  ],
+  "pos": "verb",
+  "zipf": 3.93,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "To make someone feel admiration and approval by an outstanding quality or achievement.",
+  "example": "Her speech will ___ even the most skeptical audience.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"im-\"",
+   "similar": "rhymes with \"dress\"",
+   "lastSound": "ends in \"-press\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0112",
+  "validated": {
+   "solverAnswer": "impress",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0077",
+  "lang": "en",
+  "target": "wash",
+  "accept": [
+   "wash"
+  ],
+  "pos": "verb",
+  "zipf": 4.46,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To clean something by using water and usually soap.",
+  "example": "You should ___ your hands with soap and water before eating.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"w-\"",
+   "similar": "rhymes with \"posh\"",
+   "lastSound": "ends in \"-ash\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0114",
+  "validated": {
+   "solverAnswer": "wash",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0078",
+  "lang": "en",
+  "target": "clean",
+  "accept": [
+   "clean"
+  ],
+  "pos": "verb",
+  "zipf": 4.97,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "To remove dirt, marks, or unwanted matter from something.",
+  "example": "He had to ___ the kitchen after cooking.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"cl-\"",
+   "similar": "rhymes with \"mean\"",
+   "lastSound": "ends in \"-ean\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0115",
+  "validated": {
+   "solverAnswer": "clean",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0079",
+  "lang": "en",
+  "target": "march",
+  "accept": [
+   "march"
+  ],
+  "pos": "verb",
+  "zipf": 5.26,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "To walk with regular, measured steps, especially in a group or as soldiers.",
+  "example": "The soldiers will ___ through the square at dawn.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"m-\"",
+   "similar": "rhymes with \"arch\"",
+   "lastSound": "ends in \"-arch\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0116",
+  "validated": {
+   "solverAnswer": "march",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0080",
+  "lang": "en",
+  "target": "bite",
+  "accept": [
+   "bite"
+  ],
+  "pos": "verb",
+  "zipf": 4.31,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To cut or tear something with the teeth.",
+  "example": "She was afraid the dog might ___ her.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"b-\"",
+   "similar": "rhymes with \"kite\"",
+   "lastSound": "ends in \"-ite\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0118",
+  "validated": {
+   "solverAnswer": "bite",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0081",
+  "lang": "en",
+  "target": "negotiate",
+  "accept": [
+   "negotiate"
+  ],
+  "pos": "verb",
+  "zipf": 3.99,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "To discuss something with others in order to reach an agreement.",
+  "example": "The two sides will ___ a ceasefire tomorrow.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ne-\"",
+   "similar": "sounds a little like \"associate\"",
+   "lastSound": "ends in \"-ate\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0120",
+  "validated": {
+   "solverAnswer": "negotiate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0082",
+  "lang": "en",
+  "target": "disturb",
+  "accept": [
+   "disturb"
+  ],
+  "pos": "verb",
+  "zipf": 3.56,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "To interrupt someone's quiet, rest, or concentration.",
+  "example": "Please do not ___ your sister while she is studying.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"dis-\"",
+   "similar": "sounds a little like \"suburb\"",
+   "lastSound": "ends in \"-turb\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0121",
+  "validated": {
+   "solverAnswer": "disturb",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0083",
+  "lang": "en",
+  "target": "hold",
+  "accept": [
+   "hold"
+  ],
+  "pos": "verb",
+  "zipf": 5.19,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to keep something in one's hands or arms, supporting it there for a time rather than seizing it briefly",
+  "example": "She asked me to ___ the ladder steady while she climbed.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"h-\"",
+   "similar": "rhymes with \"told\"",
+   "lastSound": "ends in \"-old\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0125",
+  "validated": {
+   "solverAnswer": "hold",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0084",
+  "lang": "en",
+  "target": "sit",
+  "accept": [
+   "sit"
+  ],
+  "pos": "verb",
+  "zipf": 4.9,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to rest with one's weight on the buttocks, typically on a chair, bench, or the ground",
+  "example": "Please ___ down; the doctor will call your name shortly.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"s-\"",
+   "similar": "rhymes with \"fit\"",
+   "lastSound": "ends in \"-it\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0126",
+  "validated": {
+   "solverAnswer": "sit",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0085",
+  "lang": "en",
+  "target": "affectionate",
+  "accept": [
+   "affectionate"
+  ],
+  "pos": "adj",
+  "zipf": 3.35,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "showing warm fondness or tender liking, especially through hugs, kind words, or gentle touches",
+  "example": "She gave her grandson an ___ pat on the cheek.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"af-\"",
+   "similar": "sounds a little like \"affirmative\"",
+   "lastSound": "ends in \"-ate\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0128",
+  "validated": {
+   "solverAnswer": "affectionate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0086",
+  "lang": "en",
+  "target": "clinical",
+  "accept": [
+   "clinical"
+  ],
+  "pos": "adj",
+  "zipf": 4.51,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "unemotional and detached in a way that suggests a laboratory or hospital rather than personal feeling",
+  "example": "She described the crash in a ___ tone, as if reading from a report.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"clin-\"",
+   "similar": "rhymes with \"cynical\"",
+   "lastSound": "ends in \"-al\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0129",
+  "validated": {
+   "solverAnswer": "clinical",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0087",
+  "lang": "en",
+  "target": "confidential",
+  "accept": [
+   "confidential"
+  ],
+  "pos": "adj",
+  "zipf": 3.9,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "meant to be kept secret and shared only with a few trusted people, not for public disclosure",
+  "example": "The lawyer refused to discuss the ___ settlement with reporters.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"con-\"",
+   "similar": "rhymes with \"residential\"",
+   "lastSound": "ends in \"-tial\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0130",
+  "validated": {
+   "solverAnswer": "confidential",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0088",
+  "lang": "en",
+  "target": "existing",
+  "accept": [
+   "existing"
+  ],
+  "pos": "adj",
+  "zipf": 4.75,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "already in place or in use now, as opposed to something planned or newly made",
+  "example": "Rather than build new plants, the company upgraded its ___ ones.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"ex-\"",
+   "similar": "rhymes with \"listing\"",
+   "lastSound": "ends in \"-ing\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0133",
+  "validated": {
+   "solverAnswer": "existing",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0089",
+  "lang": "en",
+  "target": "ugly",
+  "accept": [
+   "ugly"
+  ],
+  "pos": "adj",
+  "zipf": 4.42,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "unpleasant or repulsive in appearance; offensive and disagreeable to look at",
+  "example": "The old factory is so ___ that the city wants it demolished.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"ug-\"",
+   "similar": "sounds a little like \"rugby\"",
+   "lastSound": "ends in \"-ly\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0134",
+  "validated": {
+   "solverAnswer": "ugly",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0090",
+  "lang": "en",
+  "target": "fiscal",
+  "accept": [
+   "fiscal"
+  ],
+  "pos": "adj",
+  "zipf": 4.26,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "relating to a government's raising and spending of money, especially taxes and budgets",
+  "example": "The mayor blamed the deficit on years of careless ___ policy.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"fis-\"",
+   "similar": "sounds a little like \"physical\"",
+   "lastSound": "ends in \"-cal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0135",
+  "validated": {
+   "solverAnswer": "fiscal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0091",
+  "lang": "en",
+  "target": "fried",
+  "accept": [
+   "fried"
+  ],
+  "pos": "adj",
+  "zipf": 4.06,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "cooked in hot fat or oil until browned, often until the outside turns crisp",
+  "example": "For breakfast he ordered ___ eggs, bacon, and coffee.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"f-\"",
+   "similar": "rhymes with \"bride\"",
+   "lastSound": "ends in \"-ied\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0136",
+  "validated": {
+   "solverAnswer": "fried",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0092",
+  "lang": "en",
+  "target": "gradual",
+  "accept": [
+   "gradual"
+  ],
+  "pos": "adj",
+  "zipf": 3.67,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "happening or changing slowly by small degrees over time, rather than all at once",
+  "example": "The change was so ___ that no one noticed until years later.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"gr-\"",
+   "similar": "sounds a little like \"actual\"",
+   "lastSound": "ends in \"-al\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0138",
+  "validated": {
+   "solverAnswer": "gradual",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0093",
+  "lang": "en",
+  "target": "hostile",
+  "accept": [
+   "hostile"
+  ],
+  "pos": "adj",
+  "zipf": 4.07,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "unfriendly and showing strong opposition or a readiness to fight or attack",
+  "example": "The audience grew ___ when the speaker mocked their hometown.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"hos-\"",
+   "similar": "sounds a little like \"hostel\"",
+   "lastSound": "ends in \"-ile\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0139",
+  "validated": {
+   "solverAnswer": "hostile",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0094",
+  "lang": "en",
+  "target": "implacable",
+  "accept": [
+   "implacable"
+  ],
+  "pos": "adj",
+  "zipf": 2.61,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "impossible to appease or satisfy; relentlessly unforgiving and unwilling to be softened",
+  "example": "Her ___ opposition to the merger blocked every compromise.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"im-\"",
+   "similar": "sounds a little like \"impeccable\"",
+   "lastSound": "ends in \"-able\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0140",
+  "validated": {
+   "solverAnswer": "implacable",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0095",
+  "lang": "en",
+  "target": "unexpected",
+  "accept": [
+   "unexpected"
+  ],
+  "pos": "adj",
+  "zipf": 4.23,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "not foreseen or anticipated; arriving without warning and causing surprise",
+  "example": "An ___ knock at midnight sent the dogs into a frenzy.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"un-\"",
+   "similar": "rhymes with \"unprotected\"",
+   "lastSound": "ends in \"-ted\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0141",
+  "validated": {
+   "solverAnswer": "unexpected",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0096",
+  "lang": "en",
+  "target": "mendacious",
+  "accept": [
+   "mendacious"
+  ],
+  "pos": "adj",
+  "zipf": 2.06,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "given to telling deliberate untruths; habitually false in a cool, plausible manner",
+  "example": "The con man's ___ claims fooled even seasoned investors.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"men-\"",
+   "similar": "rhymes with \"audacious\"",
+   "lastSound": "ends in \"-cious\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0145",
+  "validated": {
+   "solverAnswer": "mendacious",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0097",
+  "lang": "en",
+  "target": "monetary",
+  "accept": [
+   "monetary"
+  ],
+  "pos": "adj",
+  "zipf": 4.1,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "relating to money and currency, especially a nation's supply of it and its official value",
+  "example": "The central bank raised rates to tighten ___ policy.",
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"mon-\"",
+   "similar": "sounds a little like \"monastery\"",
+   "lastSound": "ends in \"-ary\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0146",
+  "validated": {
+   "solverAnswer": "monetary",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0098",
+  "lang": "en",
+  "target": "realistic",
+  "accept": [
+   "realistic"
+  ],
+  "pos": "adj",
+  "zipf": 4.16,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Showing a sensible and practical idea of what can be achieved or expected; not idealized.",
+  "example": "His goal of becoming a millionaire by next month wasn't ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds a little like \"artistic\"",
+   "lastSound": "ends in \"-tic\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0149",
+  "validated": {
+   "solverAnswer": "realistic",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0099",
+  "lang": "en",
+  "target": "replete",
+  "accept": [
+   "replete"
+  ],
+  "pos": "adj",
+  "zipf": 2.91,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Fully supplied or abundantly filled, often with something specified.",
+  "example": "The old library was ___ with rare maps and first editions.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds a little like \"repeat\"",
+   "lastSound": "ends in \"-plete\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0150",
+  "validated": {
+   "solverAnswer": "replete",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0100",
+  "lang": "en",
+  "target": "resistant",
+  "accept": [
+   "resistant"
+  ],
+  "pos": "adj",
+  "zipf": 3.99,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Not easily harmed, affected, or changed by a particular force or condition.",
+  "example": "This fabric is ___ to water and stains.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds a little like \"persistent\"",
+   "lastSound": "ends in \"-tant\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0151",
+  "validated": {
+   "solverAnswer": "resistant",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0101",
+  "lang": "en",
+  "target": "technological",
+  "accept": [
+   "technological"
+  ],
+  "pos": "adj",
+  "zipf": 4.06,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Relating to the application of scientific knowledge for practical purposes, especially in industry.",
+  "example": "The museum's new wing displays ___ advances from the past century.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "starts with \"tech-\"",
+   "similar": "sounds a little like \"economical\"",
+   "lastSound": "ends in \"-cal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0152",
+  "validated": {
+   "solverAnswer": "technological",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0102",
+  "lang": "en",
+  "target": "red",
+  "accept": [
+   "red"
+  ],
+  "pos": "adj",
+  "zipf": 5.32,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "Having the color of blood, fire, or a ripe tomato.",
+  "example": "She painted the barn a bright ___.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"r-\"",
+   "similar": "rhymes with \"bed\"",
+   "lastSound": "ends in \"-ed\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0153",
+  "validated": {
+   "solverAnswer": "red",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0103",
+  "lang": "en",
+  "target": "tourist",
+  "accept": [
+   "tourist"
+  ],
+  "pos": "adj",
+  "zipf": 4.2,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Relating to leisure travel or to visitors who sightsee.",
+  "example": "The city's ___ season peaks in July and August.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"t-\"",
+   "similar": "sounds a little like \"florist\"",
+   "lastSound": "ends in \"-ist\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0154",
+  "validated": {
+   "solverAnswer": "tourist",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0104",
+  "lang": "en",
+  "target": "vulnerable",
+  "accept": [
+   "vulnerable"
+  ],
+  "pos": "adj",
+  "zipf": 4.21,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Easily harmed, attacked, or affected because of a lack of protection.",
+  "example": "Without a password, the account is ___ to hackers.",
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"vul-\"",
+   "similar": "sounds a little like \"venerable\"",
+   "lastSound": "ends in \"-ble\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0157",
+  "validated": {
+   "solverAnswer": "vulnerable",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0105",
+  "lang": "en",
+  "target": "acquittal",
+  "accept": [
+   "acquittal"
+  ],
+  "pos": "noun",
+  "zipf": 3.04,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "A formal judgment that a person accused of a crime is not guilty.",
+  "example": "The jury's verdict was an ___ of all charges.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"ac-\"",
+   "similar": "sounds a little like \"acquired\"",
+   "lastSound": "ends in \"-tal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0158",
+  "validated": {
+   "solverAnswer": "acquittal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0106",
+  "lang": "en",
+  "target": "diligence",
+  "accept": [
+   "diligence"
+  ],
+  "pos": "noun",
+  "zipf": 3.51,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Careful, persistent effort and attention to one's work or duties.",
+  "example": "Her ___ in studying paid off with a top score.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"dil-\"",
+   "similar": "sounds a little like \"indulgence\"",
+   "lastSound": "ends in \"-gence\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0159",
+  "validated": {
+   "solverAnswer": "diligence",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0107",
+  "lang": "en",
+  "target": "biotechnology",
+  "accept": [
+   "biotechnology"
+  ],
+  "pos": "noun",
+  "zipf": 3.42,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "The use of living organisms or their parts to make products or solve problems.",
+  "example": "The company invests heavily in ___ to develop new medicines.",
+  "hints": {
+   "syllables": 6,
+   "stress": 4,
+   "firstSound": "starts with \"bi-\"",
+   "similar": "sounds a little like \"binary\"",
+   "lastSound": "ends in \"-gy\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0162",
+  "validated": {
+   "solverAnswer": "biotechnology",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0108",
+  "lang": "en",
+  "target": "carbonate",
+  "accept": [
+   "carbonate"
+  ],
+  "pos": "noun",
+  "zipf": 3.22,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "A salt or mineral containing the group CO3, such as calcite or chalk.",
+  "example": "The rock was mostly calcium ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"car-\"",
+   "similar": "sounds a little like \"concentrate\"",
+   "lastSound": "ends in \"-ate\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0164",
+  "validated": {
+   "solverAnswer": "carbonate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0109",
+  "lang": "en",
+  "target": "collector",
+  "accept": [
+   "collector"
+  ],
+  "pos": "noun",
+  "zipf": 3.91,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A person who gathers and keeps items of a particular kind as a hobby or for study.",
+  "example": "The antique ___ paid a fortune for the rare coin.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"col-\"",
+   "similar": "sounds a little like \"inspector\"",
+   "lastSound": "ends in \"-tor\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0166",
+  "validated": {
+   "solverAnswer": "collector",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0110",
+  "lang": "en",
+  "target": "confidentiality",
+  "accept": [
+   "confidentiality"
+  ],
+  "pos": "noun",
+  "zipf": 3.45,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "The state of keeping private information secret and not sharing it with others.",
+  "example": "Doctors are bound by ___ when discussing patients' records.",
+  "hints": {
+   "syllables": 7,
+   "stress": 5,
+   "firstSound": "starts with \"con-\"",
+   "similar": "sounds a little like \"mentality\"",
+   "lastSound": "ends in \"-ty\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0167",
+  "validated": {
+   "solverAnswer": "confidentiality",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0111",
+  "lang": "en",
+  "target": "crematorium",
+  "accept": [
+   "crematorium"
+  ],
+  "pos": "noun",
+  "zipf": 2.78,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "A building or facility where dead bodies are burned as part of funeral rites.",
+  "example": "The family gathered at the ___ for the final service.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "starts with \"cre-\"",
+   "similar": "sounds a little like \"auditorium\"",
+   "lastSound": "ends in \"-um\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0169",
+  "validated": {
+   "solverAnswer": "crematorium",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0112",
+  "lang": "en",
+  "target": "neckline",
+  "accept": [
+   "neckline"
+  ],
+  "pos": "noun",
+  "zipf": 2.7,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "The upper edge or shape of a dress or top around the throat and shoulders.",
+  "example": "The dress has a low ___ trimmed with lace.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"neck-\"",
+   "similar": "rhymes with \"headline\"",
+   "lastSound": "ends in \"-line\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0171",
+  "validated": {
+   "solverAnswer": "neckline",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0113",
+  "lang": "en",
+  "target": "step",
+  "accept": [
+   "step"
+  ],
+  "pos": "noun",
+  "zipf": 5.13,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "a flat horizontal board or ledge in a staircase, one of a series climbed to change floor level",
+  "example": "She paused on the third ___ to catch her breath.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"s-\"",
+   "similar": "rhymes with \"prep\"",
+   "lastSound": "ends in \"-ep\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0172",
+  "validated": {
+   "solverAnswer": "step",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0114",
+  "lang": "en",
+  "target": "displacement",
+  "accept": [
+   "displacement"
+  ],
+  "pos": "noun",
+  "zipf": 3.63,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the act of shifting something out of the position it normally holds, or the distance it is shifted",
+  "example": "The war caused the ___ of thousands of families from their homes.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"dis-\"",
+   "similar": "sounds a little like \"advancement\"",
+   "lastSound": "ends in \"-ment\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0173",
+  "validated": {
+   "solverAnswer": "displacement",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0115",
+  "lang": "en",
+  "target": "enzyme",
+  "accept": [
+   "enzyme"
+  ],
+  "pos": "noun",
+  "zipf": 3.82,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a protein made by a living cell that speeds up a particular chemical reaction without being consumed by it",
+  "example": "Lactase is the ___ that breaks down lactose in milk.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"en-\"",
+   "similar": "the ending rhymes with \"time\"",
+   "lastSound": "ends in \"-zyme\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0174",
+  "validated": {
+   "solverAnswer": "enzyme",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0116",
+  "lang": "en",
+  "target": "falsetto",
+  "accept": [
+   "falsetto"
+  ],
+  "pos": "noun",
+  "zipf": 2.69,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "a manner of singing very high notes, especially by men, using a register above the natural speaking range",
+  "example": "He sang the high chorus in a breathy ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"fal-\"",
+   "similar": "rhymes with \"stiletto\"",
+   "lastSound": "ends in \"-etto\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0176",
+  "validated": {
+   "solverAnswer": "falsetto",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0117",
+  "lang": "en",
+  "target": "taxman",
+  "accept": [
+   "taxman",
+   "tax man"
+  ],
+  "pos": "noun",
+  "zipf": 2.31,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "the government official who collects money owed by people and businesses, viewed as an unwelcome visitor (informal)",
+  "example": "Every April the ___ comes looking for his share.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"tax-\"",
+   "similar": "sounds a little like \"axeman\"",
+   "lastSound": "ends in \"-man\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0177",
+  "validated": {
+   "solverAnswer": "taxman",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0118",
+  "lang": "en",
+  "target": "formalism",
+  "accept": [
+   "formalism"
+  ],
+  "pos": "noun",
+  "zipf": 2.68,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "strict attachment to outward rules and procedures, often at the expense of substance or spirit",
+  "example": "Critics said the ceremony had become empty ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"for-\"",
+   "similar": "rhymes with \"journalism\"",
+   "lastSound": "ends in \"-ism\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0178",
+  "validated": {
+   "solverAnswer": "formalism",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0119",
+  "lang": "en",
+  "target": "tip",
+  "accept": [
+   "tip"
+  ],
+  "pos": "noun",
+  "zipf": 4.55,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "the small pointed or rounded end of a long thin object",
+  "example": "She touched the ___ of the pencil to her tongue.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"t-\"",
+   "similar": "rhymes with \"clip\"",
+   "lastSound": "ends in \"-ip\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0180",
+  "validated": {
+   "solverAnswer": "tip",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0120",
+  "lang": "en",
+  "target": "induction",
+  "accept": [
+   "induction"
+  ],
+  "pos": "noun",
+  "zipf": 3.71,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "a method of reasoning that moves from particular examples to a broad rule, unlike deduction",
+  "example": "Scientists reach broad laws by ___ from many individual observations.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"in-\"",
+   "similar": "rhymes with \"conduction\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0181",
+  "validated": {
+   "solverAnswer": "induction",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0121",
+  "lang": "en",
+  "target": "irreverence",
+  "accept": [
+   "irreverence"
+  ],
+  "pos": "noun",
+  "zipf": 2.27,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "a lack of respect shown toward people or things normally treated as sacred or solemn",
+  "example": "His ___ toward the old bishop shocked the whole congregation.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ir-\"",
+   "similar": "sounds a little like \"difference\"",
+   "lastSound": "ends in \"-ence\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0182",
+  "validated": {
+   "solverAnswer": "irreverence",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0122",
+  "lang": "en",
+  "target": "jurisprudence",
+  "accept": [
+   "jurisprudence"
+  ],
+  "pos": "noun",
+  "zipf": 3.14,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "the theory or philosophy of law, and the body of principles behind court rulings",
+  "example": "The ruling reshaped American ___ for decades.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"ju-\"",
+   "similar": "sounds a little like \"credence\"",
+   "lastSound": "ends in \"-dence\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0183",
+  "validated": {
+   "solverAnswer": "jurisprudence",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0123",
+  "lang": "en",
+  "target": "lacquer",
+  "accept": [
+   "lacquer"
+  ],
+  "pos": "noun",
+  "zipf": 2.92,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "a clear or coloured resin-based liquid that dries to a hard, glossy coating on wood or metal",
+  "example": "The cabinet was finished with several coats of black ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"lac-\"",
+   "similar": "rhymes with \"cracker\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0184",
+  "validated": {
+   "solverAnswer": "lacquer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0124",
+  "lang": "en",
+  "target": "mitosis",
+  "accept": [
+   "mitosis"
+  ],
+  "pos": "noun",
+  "zipf": 2.62,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "the division of a cell nucleus that produces two genetically identical daughter cells",
+  "example": "The onion-root slides showed cells at every stage of ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"mi-\"",
+   "similar": "sounds a little like \"osmosis\"",
+   "lastSound": "ends in \"-sis\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0190",
+  "validated": {
+   "solverAnswer": "mitosis",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0125",
+  "lang": "en",
+  "target": "morphine",
+  "accept": [
+   "morphine"
+  ],
+  "pos": "noun",
+  "zipf": 3.37,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "a powerful, addictive painkilling drug obtained from opium",
+  "example": "The wounded soldier was given ___ to ease the pain.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"mor-\"",
+   "similar": "sounds a little like \"marine\"",
+   "lastSound": "ends in \"-phine\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0191",
+  "validated": {
+   "solverAnswer": "morphine",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0126",
+  "lang": "en",
+  "target": "opal",
+  "accept": [
+   "opal"
+  ],
+  "pos": "noun",
+  "zipf": 3.2,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "a translucent gemstone, usually milky white, that flashes shifting rainbow colours in the light",
+  "example": "Her pendant held a fiery black ___ from Australia.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"o-\"",
+   "similar": "sounds a little like \"open\"",
+   "lastSound": "ends in \"-al\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0192",
+  "validated": {
+   "solverAnswer": "opal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0127",
+  "lang": "en",
+  "target": "penance",
+  "accept": [
+   "penance"
+  ],
+  "pos": "noun",
+  "zipf": 3.13,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "an act or punishment undertaken to show sorrow for a wrong one has done",
+  "example": "As ___ for his betrayal, he walked barefoot to the shrine.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"pen-\"",
+   "similar": "sounds a little like \"pennants\"",
+   "lastSound": "ends in \"-ance\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0193",
+  "validated": {
+   "solverAnswer": "penance",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0128",
+  "lang": "en",
+  "target": "cucumber",
+  "accept": [
+   "cucumber"
+  ],
+  "pos": "noun",
+  "zipf": 3.41,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "a long, green, fleshy vegetable with many seeds, usually eaten raw in salads",
+  "example": "She sliced a cool ___ into the salad bowl.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"cu-\"",
+   "similar": "rhymes with \"encumber\"",
+   "lastSound": "ends in \"-ber\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0194",
+  "validated": {
+   "solverAnswer": "cucumber",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0129",
+  "lang": "en",
+  "target": "prior",
+  "accept": [
+   "prior"
+  ],
+  "pos": "noun",
+  "zipf": 4.85,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "The monastic superior who ranks below an abbot and heads a small monastery.",
+  "example": "The abbey was governed by a ___ rather than a full abbot.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"pri-\"",
+   "similar": "rhymes with \"flyer\"",
+   "lastSound": "ends in \"-or\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0197",
+  "validated": {
+   "solverAnswer": "prior",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0130",
+  "lang": "en",
+  "target": "prognosis",
+  "accept": [
+   "prognosis"
+  ],
+  "pos": "noun",
+  "zipf": 3.33,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "A medical forecast of the likely course and outcome of an illness.",
+  "example": "The specialist offered a cautious ___ saying that full recovery was unlikely.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"prog-\"",
+   "similar": "sounds a little like \"hypnosis\"",
+   "lastSound": "ends in \"-sis\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0199",
+  "validated": {
+   "solverAnswer": "prognosis",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0131",
+  "lang": "en",
+  "target": "dagger",
+  "accept": [
+   "dagger"
+  ],
+  "pos": "noun",
+  "zipf": 3.54,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A short, pointed weapon with a sharp blade, made for stabbing rather than cutting.",
+  "example": "She slipped a small ___ into her boot before leaving the castle.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"dag-\"",
+   "similar": "rhymes with \"swagger\"",
+   "lastSound": "ends in \"-ger\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0200",
+  "validated": {
+   "solverAnswer": "dagger",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0132",
+  "lang": "en",
+  "target": "revulsion",
+  "accept": [
+   "revulsion"
+  ],
+  "pos": "noun",
+  "zipf": 2.71,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "A strong feeling of disgust and loathing aroused by something offensive or repellent.",
+  "example": "He stepped back in ___ when the smell of decay hit him.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds a little like \"compulsion\"",
+   "lastSound": "ends in \"-sion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0202",
+  "validated": {
+   "solverAnswer": "revulsion",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0133",
+  "lang": "en",
+  "target": "ruler",
+  "accept": [
+   "ruler"
+  ],
+  "pos": "noun",
+  "zipf": 3.84,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A flat strip marked with units, used for measuring lengths and drawing straight lines.",
+  "example": "She laid a ___ along the edge of the paper before drawing the border.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"ru-\"",
+   "similar": "sounds a little like \"roller\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0203",
+  "validated": {
+   "solverAnswer": "ruler",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0134",
+  "lang": "en",
+  "target": "sensitization",
+  "accept": [
+   "sensitization",
+   "sensitisation"
+  ],
+  "pos": "noun",
+  "zipf": 2.39,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "The process of becoming, or being made, unusually responsive to a substance or stimulus.",
+  "example": "Repeated exposure to the pollen caused ___ of her airways.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "starts with \"sen-\"",
+   "similar": "sounds a little like \"civilization\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0205",
+  "validated": {
+   "solverAnswer": "sensitisation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0135",
+  "lang": "en",
+  "target": "solubility",
+  "accept": [
+   "solubility"
+  ],
+  "pos": "noun",
+  "zipf": 2.96,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "The extent to which a substance can be dissolved in a particular liquid.",
+  "example": "Chemists measured the ___ of the compound in water at room temperature.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "starts with \"sol-\"",
+   "similar": "sounds a little like \"possibility\"",
+   "lastSound": "ends in \"-ity\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0207",
+  "validated": {
+   "solverAnswer": "solubility",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0136",
+  "lang": "en",
+  "target": "titanium",
+  "accept": [
+   "titanium"
+  ],
+  "pos": "noun",
+  "zipf": 3.55,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A light, strong, corrosion-resistant silvery metal used in aircraft, joint replacements, and white paint.",
+  "example": "The aircraft frame is built from ___ because it is light and rustproof.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ti-\"",
+   "similar": "sounds a little like \"pandemonium\"",
+   "lastSound": "ends in \"-ium\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0208",
+  "validated": {
+   "solverAnswer": "titanium",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0137",
+  "lang": "en",
+  "target": "twist",
+  "accept": [
+   "twist"
+  ],
+  "pos": "noun",
+  "zipf": 4.22,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "An unexpected turn of events or revelation, especially near the end of a story.",
+  "example": "The story's final ___ revealed that the narrator had been dead all along.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"tw-\"",
+   "similar": "rhymes with \"wrist\"",
+   "lastSound": "ends in \"-st\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0209",
+  "validated": {
+   "solverAnswer": "twist",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0138",
+  "lang": "en",
+  "target": "usurpation",
+  "accept": [
+   "usurpation"
+  ],
+  "pos": "noun",
+  "zipf": 2.33,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "The act of wrongfully seizing power, authority, or another's position by force.",
+  "example": "The barons condemned the general's ___ of the throne.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"u-\"",
+   "similar": "sounds a little like \"occupation\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0210",
+  "validated": {
+   "solverAnswer": "usurpation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0139",
+  "lang": "en",
+  "target": "zoology",
+  "accept": [
+   "zoology",
+   "zoölogy"
+  ],
+  "pos": "noun",
+  "zipf": 3.19,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "The branch of biology that studies animals, including their structure, classification, and behaviour.",
+  "example": "She read ___ at university and spent her summers observing primates.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"zo-\"",
+   "similar": "sounds a little like \"theology\"",
+   "lastSound": "ends in \"-gy\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0212",
+  "validated": {
+   "solverAnswer": "zoology",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0140",
+  "lang": "en",
+  "target": "leisure",
+  "accept": [
+   "leisure"
+  ],
+  "pos": "noun",
+  "zipf": 3.92,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Time free from work or duties, spent as one wishes for rest or enjoyment.",
+  "example": "He spends his ___ cycling and reading novels.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"lei-\"",
+   "similar": "rhymes with \"treasure\"",
+   "lastSound": "ends in \"-ure\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0213",
+  "validated": {
+   "solverAnswer": "leisure",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0141",
+  "lang": "en",
+  "target": "whistle",
+  "accept": [
+   "whistle"
+  ],
+  "pos": "verb",
+  "zipf": 3.88,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To make a high, clear musical sound by forcing breath through pursed lips or a small opening.",
+  "example": "He began to ___ a cheerful tune as he walked to work.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"whi-\"",
+   "similar": "rhymes with \"thistle\"",
+   "lastSound": "ends in \"-tle\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0214",
+  "validated": {
+   "solverAnswer": "whistle",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0142",
+  "lang": "en",
+  "target": "overturn",
+  "accept": [
+   "overturn"
+  ],
+  "pos": "verb",
+  "zipf": 3.22,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "To officially reverse or cancel a ruling, verdict, or law.",
+  "example": "The appeals court voted to ___ the earlier conviction.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"o-\"",
+   "similar": "rhymes with \"concern\"",
+   "lastSound": "ends in \"-turn\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0218",
+  "validated": {
+   "solverAnswer": "overturn",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0143",
+  "lang": "en",
+  "target": "depilate",
+  "accept": [
+   "depilate"
+  ],
+  "pos": "verb",
+  "zipf": 0.0,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "To remove hair from a part of the body, especially by chemical or mechanical means.",
+  "example": "The nurse will ___ the skin around the incision before surgery.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"dep-\"",
+   "similar": "sounds a little like \"deflate\"",
+   "lastSound": "ends in \"-late\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0219",
+  "validated": {
+   "solverAnswer": "depilate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0144",
+  "lang": "en",
+  "target": "depress",
+  "accept": [
+   "depress"
+  ],
+  "pos": "verb",
+  "zipf": 2.86,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "To make someone feel sad, gloomy, and lacking in energy.",
+  "example": "The grey winter weather tends to ___ everyone in the office.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"de-\"",
+   "similar": "rhymes with \"digress\"",
+   "lastSound": "ends in \"-press\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0220",
+  "validated": {
+   "solverAnswer": "depress",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0145",
+  "lang": "en",
+  "target": "disarm",
+  "accept": [
+   "disarm"
+  ],
+  "pos": "verb",
+  "zipf": 3.21,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "to take away the weapons of a person or group, or make them unable to fight",
+  "example": "The treaty required the rebels to ___ before any elections could be held.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"dis-\"",
+   "similar": "rhymes with \"alarm\"",
+   "lastSound": "ends in \"-arm\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0221",
+  "validated": {
+   "solverAnswer": "disarm",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0146",
+  "lang": "en",
+  "target": "evaporate",
+  "accept": [
+   "evaporate"
+  ],
+  "pos": "verb",
+  "zipf": 3.01,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "to change from a liquid into a gas, as water does when left in the sun",
+  "example": "Leave the puddle in the sun and the water will ___ before noon.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"e-\"",
+   "similar": "sounds a little like \"evacuate\"",
+   "lastSound": "ends in \"-rate\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0224",
+  "validated": {
+   "solverAnswer": "evaporate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0147",
+  "lang": "en",
+  "target": "split",
+  "accept": [
+   "split"
+  ],
+  "pos": "verb",
+  "zipf": 4.65,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to divide or break something into two or more parts, often along a line",
+  "example": "She used an axe to ___ the log down the middle.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sp-\"",
+   "similar": "rhymes with \"quit\"",
+   "lastSound": "ends in \"-it\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0225",
+  "validated": {
+   "solverAnswer": "split",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0148",
+  "lang": "en",
+  "target": "fry",
+  "accept": [
+   "fry"
+  ],
+  "pos": "verb",
+  "zipf": 3.89,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "to cook food in hot oil or fat over direct heat",
+  "example": "Heat the oil in the pan, then ___ the onions until golden.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"f-\"",
+   "similar": "rhymes with \"cry\"",
+   "lastSound": "ends in \"-ry\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0226",
+  "validated": {
+   "solverAnswer": "fry",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0149",
+  "lang": "en",
+  "target": "hibernate",
+  "accept": [
+   "hibernate"
+  ],
+  "pos": "verb",
+  "zipf": 2.7,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "to pass the winter in a dormant, sleep-like state, as bears and hedgehogs do",
+  "example": "In late autumn the hedgehog will ___ in a burrow until spring.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"hi-\"",
+   "similar": "sounds a little like \"terminate\"",
+   "lastSound": "ends in \"-nate\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0227",
+  "validated": {
+   "solverAnswer": "hibernate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0150",
+  "lang": "en",
+  "target": "list",
+  "accept": [
+   "list"
+  ],
+  "pos": "verb",
+  "zipf": 5.28,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to name or write down items one after another, typically as a series",
+  "example": "Please ___ every ingredient you used in the sauce.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"l-\"",
+   "similar": "rhymes with \"mist\"",
+   "lastSound": "ends in \"-ist\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0228",
+  "validated": {
+   "solverAnswer": "list",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0151",
+  "lang": "en",
+  "target": "snow",
+  "accept": [
+   "snow"
+  ],
+  "pos": "verb",
+  "zipf": 4.66,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to fall from the sky as soft white ice crystals",
+  "example": "The forecast says it will ___ all night, so school may be cancelled.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sn-\"",
+   "similar": "rhymes with \"grow\"",
+   "lastSound": "ends in \"-ow\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0229",
+  "validated": {
+   "solverAnswer": "snow",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0152",
+  "lang": "en",
+  "target": "reappear",
+  "accept": [
+   "reappear"
+  ],
+  "pos": "verb",
+  "zipf": 3.01,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "to come into view again after being absent or hidden",
+  "example": "The sun vanished behind a cloud and then began to ___ minutes later.",
+  "hints": {
+   "syllables": 3,
+   "stress": 3,
+   "firstSound": "starts with \"re-\"",
+   "similar": "rhymes with \"career\"",
+   "lastSound": "ends in \"-ear\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0232",
+  "validated": {
+   "solverAnswer": "reappear",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0153",
+  "lang": "en",
+  "target": "overload",
+  "accept": [
+   "overload"
+  ],
+  "pos": "verb",
+  "zipf": 3.5,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "to put too great a weight, burden, or demand on something",
+  "example": "Don't ___ the circuit by plugging in every appliance at once.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"o-\"",
+   "similar": "sounds a little like \"overcoat\"",
+   "lastSound": "ends in \"-load\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0233",
+  "validated": {
+   "solverAnswer": "overload",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0154",
+  "lang": "en",
+  "target": "ransack",
+  "accept": [
+   "ransack"
+  ],
+  "pos": "verb",
+  "zipf": 2.07,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "to search a place roughly and thoroughly, leaving it in disorder",
+  "example": "The officers threatened to ___ the apartment until they found the stolen goods.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"ran-\"",
+   "similar": "sounds a little like \"ransom\"",
+   "lastSound": "ends in \"-ack\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0236",
+  "validated": {
+   "solverAnswer": "ransack",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0155",
+  "lang": "en",
+  "target": "absorbent",
+  "accept": [
+   "absorbent"
+  ],
+  "pos": "adj",
+  "zipf": 2.81,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "able to soak up liquid easily",
+  "example": "Use an ___ towel to blot the spilled wine.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"ab-\"",
+   "similar": "sounds a little like \"detergent\"",
+   "lastSound": "ends in \"-ent\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0237",
+  "validated": {
+   "solverAnswer": "absorbent",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0156",
+  "lang": "en",
+  "target": "adoptive",
+  "accept": [
+   "adoptive"
+  ],
+  "pos": "adj",
+  "zipf": 3.22,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "describing a parent who has legally taken another's child into the family",
+  "example": "Her ___ parents flew to Seoul to bring her home.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"a-\"",
+   "similar": "sounds a little like \"adaptive\"",
+   "lastSound": "ends in \"-ive\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0238",
+  "validated": {
+   "solverAnswer": "adoptive",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0157",
+  "lang": "en",
+  "target": "assiduous",
+  "accept": [
+   "assiduous"
+  ],
+  "pos": "adj",
+  "zipf": 2.15,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "showing great care, effort, and persistence over a long period",
+  "example": "She was ___ in her research, checking every footnote twice.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"as-\"",
+   "similar": "sounds a little like \"ambiguous\"",
+   "lastSound": "ends in \"-ous\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0240",
+  "validated": {
+   "solverAnswer": "assiduous",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0158",
+  "lang": "en",
+  "target": "corrosive",
+  "accept": [
+   "corrosive"
+  ],
+  "pos": "adj",
+  "zipf": 3.11,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "able to eat away or destroy a material by chemical action",
+  "example": "Wear gloves, because the acid is highly ___ to metal.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"cor-\"",
+   "similar": "sounds a little like \"explosive\"",
+   "lastSound": "ends in \"-sive\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0243",
+  "validated": {
+   "solverAnswer": "corrosive",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0159",
+  "lang": "en",
+  "target": "digestive",
+  "accept": [
+   "digestive"
+  ],
+  "pos": "adj",
+  "zipf": 3.46,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "relating to the bodily process that breaks down food after a meal",
+  "example": "Spicy food upsets her ___ system, so she avoids chili.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"di-\"",
+   "similar": "sounds a little like \"festive\"",
+   "lastSound": "ends in \"-tive\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0244",
+  "validated": {
+   "solverAnswer": "digestive",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0160",
+  "lang": "en",
+  "target": "divergent",
+  "accept": [
+   "divergent"
+  ],
+  "pos": "adj",
+  "zipf": 3.38,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "moving or developing in different directions from a common point",
+  "example": "After graduate school the two scholars took ___ paths, rarely agreeing again.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"di-\"",
+   "similar": "sounds a little like \"urgent\"",
+   "lastSound": "ends in \"-gent\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0245",
+  "validated": {
+   "solverAnswer": "divergent",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0161",
+  "lang": "en",
+  "target": "dusty",
+  "accept": [
+   "dusty"
+  ],
+  "pos": "adj",
+  "zipf": 3.67,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "covered with or full of fine dry particles of dirt",
+  "example": "The attic was hot and ___, and every box left a film on her hands.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"d-\"",
+   "similar": "rhymes with \"trusty\"",
+   "lastSound": "ends in \"-y\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0246",
+  "validated": {
+   "solverAnswer": "dusty",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0162",
+  "lang": "en",
+  "target": "bored",
+  "accept": [
+   "bored"
+  ],
+  "pos": "adj",
+  "zipf": 4.2,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Weary and restless because one has nothing interesting to do or watch.",
+  "example": "Halfway through the lecture, the students looked ___ and started checking their phones.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"b-\"",
+   "similar": "sounds exactly like \"board\"",
+   "lastSound": "ends in \"-ed\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0247",
+  "validated": {
+   "solverAnswer": "bored",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0163",
+  "lang": "en",
+  "target": "Gregorian",
+  "accept": [
+   "Gregorian"
+  ],
+  "pos": "adj",
+  "zipf": 2.74,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relating to the 16th-century papal calendar reform, or to the traditional unaccompanied Latin chant of the Western Church.",
+  "example": "The choir performed a piece of ___ chant during the Christmas service.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"Gre-\"",
+   "similar": "sounds a little like \"Georgian\"",
+   "lastSound": "ends in \"-ian\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0250",
+  "validated": {
+   "solverAnswer": "Gregorian",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0164",
+  "lang": "en",
+  "target": "thinning",
+  "accept": [
+   "thinning"
+  ],
+  "pos": "noun",
+  "zipf": 3.14,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "A gradual reduction in density, number, or thickness, as of hair or a forest.",
+  "example": "The forester blamed the ___ of the canopy on a beetle infestation.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"thi-\"",
+   "similar": "sounds a little like \"winning\"",
+   "lastSound": "ends in \"-ning\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0261",
+  "validated": {
+   "solverAnswer": "thinning",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0165",
+  "lang": "en",
+  "target": "dromedary",
+  "accept": [
+   "dromedary"
+  ],
+  "pos": "noun",
+  "zipf": 2.06,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "The swift, single-humped camel of Arabia and North Africa, used chiefly for riding.",
+  "example": "Unlike the two-humped Bactrian, the ___ has a single hump.",
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"drom-\"",
+   "similar": "sounds a little like \"rosemary\"",
+   "lastSound": "ends in \"-ary\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0263",
+  "validated": {
+   "solverAnswer": "dromedary",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0166",
+  "lang": "en",
+  "target": "speciation",
+  "accept": [
+   "speciation"
+  ],
+  "pos": "noun",
+  "zipf": 2.63,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "The evolutionary process by which one lineage splits into reproductively isolated populations.",
+  "example": "The finches of the Galápagos are a textbook case of ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"spe-\"",
+   "similar": "sounds a little like \"radiation\"",
+   "lastSound": "ends in \"-ation\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0264",
+  "validated": {
+   "solverAnswer": "speciation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0167",
+  "lang": "en",
+  "target": "gastroenteritis",
+  "accept": [
+   "gastroenteritis"
+  ],
+  "pos": "noun",
+  "zipf": 2.39,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Inflammation of the stomach and intestines, typically causing vomiting, cramps, and diarrhoea.",
+  "example": "After drinking contaminated water, she came down with ___.",
+  "hints": {
+   "syllables": 6,
+   "stress": 5,
+   "firstSound": "starts with \"gas-\"",
+   "similar": "sounds a little like \"arthritis\"",
+   "lastSound": "ends in \"-itis\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0265",
+  "validated": {
+   "solverAnswer": "gastroenteritis",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0168",
+  "lang": "en",
+  "target": "haiku",
+  "accept": [
+   "haiku"
+  ],
+  "pos": "noun",
+  "zipf": 3.08,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "A Japanese poem of three lines with five, seven, and five syllables, often about nature.",
+  "example": "For homework we had to write a ___ about a falling leaf.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"hai-\"",
+   "similar": "rhymes with \"bamboo\"",
+   "lastSound": "ends in \"-ku\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0266",
+  "validated": {
+   "solverAnswer": "haiku",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0169",
+  "lang": "en",
+  "target": "holography",
+  "accept": [
+   "holography"
+  ],
+  "pos": "noun",
+  "zipf": 2.17,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "A technique for recording and reconstructing three-dimensional images using laser light.",
+  "example": "Banknote security labels are produced by ___.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ho-\"",
+   "similar": "sounds a little like \"philosophy\"",
+   "lastSound": "ends in \"-phy\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0267",
+  "validated": {
+   "solverAnswer": "holography",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0170",
+  "lang": "en",
+  "target": "lycanthropy",
+  "accept": [
+   "lycanthropy"
+  ],
+  "pos": "noun",
+  "zipf": 1.96,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "The mythical transformation of a person into a wolf, or the delusion of such a change.",
+  "example": "In folklore, a curse of ___ forced him to roam the woods as a beast each full moon.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ly-\"",
+   "similar": "sounds a little like \"entropy\"",
+   "lastSound": "ends in \"-py\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0269",
+  "validated": {
+   "solverAnswer": "lycanthropy",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0171",
+  "lang": "en",
+  "target": "ingot",
+  "accept": [
+   "ingot"
+  ],
+  "pos": "noun",
+  "zipf": 2.38,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "A block of cast metal, usually shaped for convenient storage, shipping, or further working.",
+  "example": "Workers loaded the heavy gold ___ onto the truck.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"in-\"",
+   "similar": "sounds a little like \"bigot\"",
+   "lastSound": "ends in \"-got\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0270",
+  "validated": {
+   "solverAnswer": "ingot",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0172",
+  "lang": "en",
+  "target": "grater",
+  "accept": [
+   "grater"
+  ],
+  "pos": "noun",
+  "zipf": 2.51,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "A kitchen tool with a rough, perforated surface for shredding food into small pieces.",
+  "example": "She used a ___ to shred cheese for the pasta.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"gra-\"",
+   "similar": "sounds exactly like \"greater\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0272",
+  "validated": {
+   "solverAnswer": "grater",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0173",
+  "lang": "en",
+  "target": "suzerain",
+  "accept": [
+   "suzerain"
+  ],
+  "pos": "noun",
+  "zipf": 1.87,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "A sovereign or state controlling a dependent territory's foreign affairs while it governs its own internal matters.",
+  "example": "The treaty left the small kingdom internally autonomous but subject to its ___.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"su-\"",
+   "similar": "rhymes with \"moraine\"",
+   "lastSound": "ends in \"-ain\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0274",
+  "validated": {
+   "solverAnswer": "suzerain",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0174",
+  "lang": "en",
+  "target": "cellist",
+  "accept": [
+   "cellist"
+  ],
+  "pos": "noun",
+  "zipf": 2.71,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "A musician who plays the large, four-stringed bowed instrument held between the knees.",
+  "example": "The orchestra's principal ___ tuned her instrument before the solo.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"cel-\"",
+   "similar": "sounds a little like \"chalice\"",
+   "lastSound": "ends in \"-ist\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0275",
+  "validated": {
+   "solverAnswer": "cellist",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0175",
+  "lang": "en",
+  "target": "burden",
+  "accept": [
+   "burden"
+  ],
+  "pos": "noun",
+  "zipf": 4.23,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "A lasting obligation, duty or worry that weighs heavily on someone and is hard to bear.",
+  "example": "Caring for three elderly relatives became a heavy ___ she bore alone.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"bur-\"",
+   "similar": "sounds a little like \"bourbon\"",
+   "lastSound": "ends in \"-den\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0276",
+  "validated": {
+   "solverAnswer": "burden",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0176",
+  "lang": "en",
+  "target": "distill",
+  "accept": [
+   "distill",
+   "distil"
+  ],
+  "pos": "verb",
+  "zipf": 2.47,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "To purify a liquid by heating it into vapor and then cooling it back into liquid.",
+  "example": "The recipe says to ___ the liquid slowly to remove all impurities.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"dis-\"",
+   "similar": "rhymes with \"until\"",
+   "lastSound": "ends in \"-ill\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0277",
+  "validated": {
+   "solverAnswer": "distil",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0177",
+  "lang": "en",
+  "target": "ferment",
+  "accept": [
+   "ferment"
+  ],
+  "pos": "verb",
+  "zipf": 2.85,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "To undergo or cause the breakdown of sugars by yeast or bacteria, producing alcohol or acid.",
+  "example": "Leave the salted cabbage in a crock to ___ for a week.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"fer-\"",
+   "similar": "rhymes with \"cement\"",
+   "lastSound": "ends in \"-ment\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0279",
+  "validated": {
+   "solverAnswer": "ferment",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0178",
+  "lang": "en",
+  "target": "prospect",
+  "accept": [
+   "prospect"
+  ],
+  "pos": "verb",
+  "zipf": 4.13,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To search an area for deposits of valuable minerals, especially by digging or washing gravel.",
+  "example": "In 1849 thousands rushed west to ___ for gold.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"pros-\"",
+   "similar": "sounds a little like \"project\"",
+   "lastSound": "ends in \"-ect\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0280",
+  "validated": {
+   "solverAnswer": "prospect",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0179",
+  "lang": "en",
+  "target": "instill",
+  "accept": [
+   "instill",
+   "instil"
+  ],
+  "pos": "verb",
+  "zipf": 3.0,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "To gradually put an idea, attitude or feeling into someone's mind through persistent effort.",
+  "example": "Her parents worked hard to ___ a love of books in her.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"in-\"",
+   "similar": "rhymes with \"fulfill\"",
+   "lastSound": "ends in \"-ill\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0281",
+  "validated": {
+   "solverAnswer": "instil",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0180",
+  "lang": "en",
+  "target": "intrigue",
+  "accept": [
+   "intrigue"
+  ],
+  "pos": "verb",
+  "zipf": 3.36,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "To arouse curiosity or fascination in someone, especially by seeming strange or mysterious.",
+  "example": "The odd symbols carved into the wall began to ___ her.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"in-\"",
+   "similar": "rhymes with \"fatigue\"",
+   "lastSound": "ends in \"-igue\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0282",
+  "validated": {
+   "solverAnswer": "intrigue",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0181",
+  "lang": "en",
+  "target": "bark",
+  "accept": [
+   "bark"
+  ],
+  "pos": "verb",
+  "zipf": 3.85,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To make the short, loud, harsh cry of a dog or fox.",
+  "example": "The neighbour's dog would ___ at every passing car.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"ba-\"",
+   "similar": "rhymes with \"spark\"",
+   "lastSound": "ends in \"-ark\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0283",
+  "validated": {
+   "solverAnswer": "bark",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0182",
+  "lang": "en",
+  "target": "file",
+  "accept": [
+   "file"
+  ],
+  "pos": "verb",
+  "zipf": 4.75,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "To submit a document or claim formally to an authority, such as a court or council.",
+  "example": "She plans to ___ a formal complaint with the city council.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"fi-\"",
+   "similar": "rhymes with \"smile\"",
+   "lastSound": "ends in \"-ile\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0284",
+  "validated": {
+   "solverAnswer": "file",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0183",
+  "lang": "en",
+  "target": "recapture",
+  "accept": [
+   "recapture"
+  ],
+  "pos": "verb",
+  "zipf": 3.2,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "To experience again or bring back a past feeling, quality or moment.",
+  "example": "The sequel tries to ___ the excitement of the original film.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds a little like \"rapture\"",
+   "lastSound": "ends in \"-ture\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0286",
+  "validated": {
+   "solverAnswer": "recapture",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0184",
+  "lang": "en",
+  "target": "jingle",
+  "accept": [
+   "jingle"
+  ],
+  "pos": "verb",
+  "zipf": 3.21,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "To make a light, repeated ringing sound like small bells or loose coins in a pocket.",
+  "example": "The loose coins began to ___ in his coat pocket.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"jin-\"",
+   "similar": "sounds a little like \"single\"",
+   "lastSound": "ends in \"-gle\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0288",
+  "validated": {
+   "solverAnswer": "jingle",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0185",
+  "lang": "en",
+  "target": "bacterial",
+  "accept": [
+   "bacterial"
+  ],
+  "pos": "adj",
+  "zipf": 3.73,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Relating to or caused by microscopic single-celled organisms that reproduce by splitting and can cause disease.",
+  "example": "The doctor prescribed antibiotics for a stubborn ___ infection.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"bac-\"",
+   "similar": "sounds a little like \"imperial\"",
+   "lastSound": "ends in \"-ial\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0289",
+  "validated": {
+   "solverAnswer": "bacterial",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0186",
+  "lang": "en",
+  "target": "calorific",
+  "accept": [
+   "calorific"
+  ],
+  "pos": "adj",
+  "zipf": 2.2,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "Relating to heat production, or (of food) high in energy value.",
+  "example": "Nutritionists warn that this ___ dessert should be only an occasional treat.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"cal-\"",
+   "similar": "sounds a little like \"scientific\"",
+   "lastSound": "ends in \"-ic\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0291",
+  "validated": {
+   "solverAnswer": "calorific",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0187",
+  "lang": "en",
+  "target": "dogmatic",
+  "accept": [
+   "dogmatic"
+  ],
+  "pos": "adj",
+  "zipf": 2.93,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Asserting personal opinions as absolutely true and refusing to consider contrary evidence or views.",
+  "example": "He was so ___ about his diet that he dismissed every contrary study.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"dog-\"",
+   "similar": "sounds a little like \"dramatic\"",
+   "lastSound": "ends in \"-ic\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0293",
+  "validated": {
+   "solverAnswer": "dogmatic",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0188",
+  "lang": "en",
+  "target": "endogenous",
+  "accept": [
+   "endogenous"
+  ],
+  "pos": "adj",
+  "zipf": 2.99,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Originating or produced from within an organism, system or institution rather than from outside it.",
+  "example": "The economists argued the crisis was ___ rather than imported from abroad.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"en-\"",
+   "similar": "sounds a little like \"androgynous\"",
+   "lastSound": "ends in \"-ous\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0294",
+  "validated": {
+   "solverAnswer": "endogenous",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0189",
+  "lang": "en",
+  "target": "epistemological",
+  "accept": [
+   "epistemological"
+  ],
+  "pos": "adj",
+  "zipf": 2.61,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relating to the branch of philosophy that studies knowledge, its nature, sources and limits.",
+  "example": "Their quarrel was ___ rather than empirical, about what can be known at all.",
+  "hints": {
+   "syllables": 7,
+   "stress": 5,
+   "firstSound": "starts with \"e-\"",
+   "similar": "sounds a little like \"biological\"",
+   "lastSound": "ends in \"-ical\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0295",
+  "validated": {
+   "solverAnswer": "epistemological",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0190",
+  "lang": "en",
+  "target": "geodetic",
+  "accept": [
+   "geodetic"
+  ],
+  "pos": "adj",
+  "zipf": 2.58,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Relating to the measurement of the earth's exact shape, size and positions on its surface.",
+  "example": "Surveyors used ___ instruments to map the coastline with great precision.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"ge-\"",
+   "similar": "sounds a little like \"genetic\"",
+   "lastSound": "ends in \"-ic\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0296",
+  "validated": {
+   "solverAnswer": "geodetic",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0191",
+  "lang": "en",
+  "target": "indistinguishable",
+  "accept": [
+   "indistinguishable"
+  ],
+  "pos": "adj",
+  "zipf": 3.16,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "so alike that no difference can be noticed or told apart",
+  "example": "The counterfeit bills were ___ from the genuine ones.",
+  "hints": {
+   "syllables": 6,
+   "stress": 3,
+   "firstSound": "starts with \"in-\"",
+   "similar": "sounds a little like \"indestructible\"",
+   "lastSound": "ends in \"-ble\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0297",
+  "validated": {
+   "solverAnswer": "indistinguishable",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0192",
+  "lang": "en",
+  "target": "orthogonal",
+  "accept": [
+   "orthogonal"
+  ],
+  "pos": "adj",
+  "zipf": 2.98,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "In mathematics, of two vectors: having an inner product of zero, corresponding to a right angle.",
+  "example": "The two vectors are ___ because their dot product is zero.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"or-\"",
+   "similar": "sounds a little like \"phenomenal\"",
+   "lastSound": "ends in \"-nal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0298",
+  "validated": {
+   "solverAnswer": "orthogonal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0193",
+  "lang": "en",
+  "target": "pancreatic",
+  "accept": [
+   "pancreatic"
+  ],
+  "pos": "adj",
+  "zipf": 3.34,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "relating to the large gland behind the stomach that secretes digestive enzymes and insulin",
+  "example": "___ cancer is often diagnosed too late because symptoms are vague.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"pan-\"",
+   "similar": "sounds a little like \"pandemic\"",
+   "lastSound": "ends in \"-ic\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0299",
+  "validated": {
+   "solverAnswer": "pancreatic",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0194",
+  "lang": "en",
+  "target": "providential",
+  "accept": [
+   "providential"
+  ],
+  "pos": "adj",
+  "zipf": 2.09,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "resulting from or seeming to result from divine intervention; remarkably lucky and opportune",
+  "example": "Their meeting at the airport seemed ___, as if fate had arranged it.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"prov-\"",
+   "similar": "sounds a little like \"confidential\"",
+   "lastSound": "ends in \"-tial\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0300",
+  "validated": {
+   "solverAnswer": "providential",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0195",
+  "lang": "en",
+  "target": "Brazilian",
+  "accept": [
+   "Brazilian"
+  ],
+  "pos": "noun",
+  "zipf": 4.23,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "a person born in or native to the largest country in South America, whose official language is Portuguese",
+  "example": "He is a ___ who grew up in São Paulo and speaks Portuguese at home.",
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"Bra-\"",
+   "similar": "sounds a little like \"civilian\"",
+   "lastSound": "ends in \"-ian\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0002",
+  "validated": {
+   "solverAnswer": "Brazilian",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0196",
+  "lang": "en",
+  "target": "singer",
+  "accept": [
+   "singer"
+  ],
+  "pos": "noun",
+  "zipf": 4.52,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "the everyday word for a person who performs songs with the voice, rather than the formal term \"vocalist\"",
+  "example": "She's the lead ___ in a rock band and can hold a high note for ages.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sing-\"",
+   "similar": "sounds a little like \"ringer\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0003",
+  "validated": {
+   "solverAnswer": "singer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0197",
+  "lang": "en",
+  "target": "comment",
+  "accept": [
+   "comment"
+  ],
+  "pos": "noun",
+  "zipf": 4.88,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "a brief remark giving an opinion in reaction to something, especially one posted online under an article, photo or video",
+  "example": "Someone left a rude ___ under my holiday photo.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"com-\"",
+   "similar": "sounds a little like \"content\"",
+   "lastSound": "ends in \"-ment\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0006",
+  "validated": {
+   "solverAnswer": "comment",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0198",
+  "lang": "en",
+  "target": "help",
+  "accept": [
+   "help"
+  ],
+  "pos": "noun",
+  "zipf": 5.75,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "the everyday word for assistance given to someone in need, also used of a person or thing that provides it",
+  "example": "You've been a huge ___ to me since the baby arrived.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"h-\"",
+   "similar": "rhymes with \"yelp\"",
+   "lastSound": "ends in \"-elp\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0019",
+  "validated": {
+   "solverAnswer": "help",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0199",
+  "lang": "en",
+  "target": "make",
+  "accept": [
+   "make"
+  ],
+  "pos": "verb",
+  "zipf": 6.08,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to produce, create or prepare something, especially by combining or shaping materials",
+  "example": "Every winter my grandmother would ___ jam from the plums in her garden.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"m-\"",
+   "similar": "rhymes with \"bake\"",
+   "lastSound": "ends in \"-ake\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0030",
+  "validated": {
+   "solverAnswer": "make",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0200",
+  "lang": "en",
+  "target": "exist",
+  "accept": [
+   "exist"
+  ],
+  "pos": "verb",
+  "zipf": 4.73,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "to be real or actual in the world, especially of something whose reality might be doubted",
+  "example": "Do you really believe that ghosts ___?",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"ex-\"",
+   "similar": "rhymes with \"resist\"",
+   "lastSound": "ends in \"-ist\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0031",
+  "validated": {
+   "solverAnswer": "exist",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0201",
+  "lang": "en",
+  "target": "be",
+  "accept": [
+   "be"
+  ],
+  "pos": "verb",
+  "zipf": 6.79,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "to have a particular state, quality or identity; the most general linking verb in English",
+  "example": "Just ___ yourself and the interview will go fine.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"b-\"",
+   "similar": "rhymes with \"see\"",
+   "lastSound": "ends in the long \"e\" sound"
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0032",
+  "validated": {
+   "solverAnswer": "be",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0202",
+  "lang": "en",
+  "target": "defeat",
+  "accept": [
+   "defeat"
+  ],
+  "pos": "verb",
+  "zipf": 4.51,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "to win against an opponent in a battle, game or election, ending their chance of victory; more formal than \"beat\"",
+  "example": "Our team hopes to ___ the champions in Saturday's final.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"de-\"",
+   "similar": "rhymes with \"repeat\"",
+   "lastSound": "ends in \"-feat\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0033",
+  "validated": {
+   "solverAnswer": "defeat",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0203",
+  "lang": "en",
+  "target": "easy",
+  "accept": [
+   "easy"
+  ],
+  "pos": "adj",
+  "zipf": 5.29,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "requiring little effort or skill, so that it is not difficult and unlikely to tire or trouble you",
+  "example": "The climb up was ___, even for the youngest children.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"ea-\"",
+   "similar": "rhymes with \"queasy\"",
+   "lastSound": "ends in \"-y\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0037",
+  "validated": {
+   "solverAnswer": "easy",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0204",
+  "lang": "en",
+  "target": "Russian",
+  "accept": [
+   "Russian"
+  ],
+  "pos": "adj",
+  "zipf": 5.01,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "of or relating to the world's largest country by area, its people, or their Slavic language written in Cyrillic",
+  "example": "He ordered ___ tea from a samovar and a plate of blini.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"Rus-\"",
+   "similar": "sounds a little like \"cushion\"",
+   "lastSound": "ends in \"-ian\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0043",
+  "validated": {
+   "solverAnswer": "Russian",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0205",
+  "lang": "en",
+  "target": "seriousness",
+  "accept": [
+   "seriousness"
+  ],
+  "pos": "noun",
+  "zipf": 3.56,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "the everyday, non-formal word for the quality of being earnest and not joking, or of being grave and important",
+  "example": "He didn't laugh at all; the ___ in his voice told me he meant every word.",
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"se-\"",
+   "similar": "sounds a little like \"curious\"",
+   "lastSound": "ends in \"-ness\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0087",
+  "validated": {
+   "solverAnswer": "seriousness",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0206",
+  "lang": "en",
+  "target": "grab",
+  "accept": [
+   "grab"
+  ],
+  "pos": "verb",
+  "zipf": 4.52,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "to take sudden, rough hold of something with the hand, in an informal way and often without warning",
+  "example": "Don't ___ my arm like that — you scared me!",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"gr-\"",
+   "similar": "rhymes with \"cab\"",
+   "lastSound": "ends in \"-ab\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0102",
+  "validated": {
+   "solverAnswer": "grab",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0207",
+  "lang": "en",
+  "target": "pierce",
+  "accept": [
+   "pierce"
+  ],
+  "pos": "verb",
+  "zipf": 3.93,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "to make a hole in or pass right through something with a sharp point, as done to ears for earrings",
+  "example": "The needle was sharp enough to ___ the thick leather with one push.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"p-\"",
+   "similar": "rhymes with \"fierce\"",
+   "lastSound": "ends in \"-erce\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0109",
+  "validated": {
+   "solverAnswer": "pierce",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0208",
+  "lang": "en",
+  "target": "summarize",
+  "accept": [
+   "summarize",
+   "summarise"
+  ],
+  "pos": "verb",
+  "zipf": 3.23,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "to give a short account of the main points of a text, speech or event, leaving out the details",
+  "example": "In one paragraph, ___ the article's main argument in your own words.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"sum-\"",
+   "similar": "sounds a little like \"mesmerize\"",
+   "lastSound": "ends in \"-rize\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0123",
+  "validated": {
+   "solverAnswer": "summarize",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0209",
+  "lang": "en",
+  "target": "absurd",
+  "accept": [
+   "absurd"
+  ],
+  "pos": "adj",
+  "zipf": 3.95,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Wildly contrary to reason or logic, so that it is laughably impossible or self-contradictory rather than merely odd.",
+  "example": "Demanding ten years' experience with a technology invented last year is utterly ___.",
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"ab-\"",
+   "similar": "sounds a little like \"absorbed\"",
+   "lastSound": "ends in \"-urd\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0127",
+  "validated": {
+   "solverAnswer": "absurd",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0210",
+  "lang": "en",
+  "target": "evident",
+  "accept": [
+   "evident"
+  ],
+  "pos": "adj",
+  "zipf": 3.99,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Plainly established by the signs or facts available, so that any observer must infer it rather than being told.",
+  "example": "No one had said a word, but the empty chair at the head of the table made it ___ that the chairman had resigned.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"ev-\"",
+   "similar": "sounds a little like \"resident\"",
+   "lastSound": "ends in \"-ent\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0132",
+  "validated": {
+   "solverAnswer": "evident",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0211",
+  "lang": "en",
+  "target": "frontal",
+  "accept": [
+   "frontal"
+  ],
+  "pos": "adj",
+  "zipf": 3.48,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Situated at or aimed toward the leading part, especially the foremost section of the head or brain.",
+  "example": "Damage to the ___ lobe of the brain can leave a patient unable to plan ahead or curb impulses.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"fron-\"",
+   "similar": "sounds a little like \"rental\"",
+   "lastSound": "ends in \"-al\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0137",
+  "validated": {
+   "solverAnswer": "frontal",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0212",
+  "lang": "en",
+  "target": "Iranian",
+  "accept": [
+   "Iranian"
+  ],
+  "pos": "adj",
+  "zipf": 4.16,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "Belonging to or characteristic of the Middle Eastern nation whose capital is Tehran and whose people speak Farsi.",
+  "example": "The ___ director's film, shot entirely in Tehran, took the top prize at the festival.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"I-\"",
+   "similar": "sounds a little like \"Albanian\"",
+   "lastSound": "ends in \"-ian\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0142",
+  "validated": {
+   "solverAnswer": "Iranian",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0213",
+  "lang": "en",
+  "target": "Marxist",
+  "accept": [
+   "Marxist"
+  ],
+  "pos": "adj",
+  "zipf": 3.6,
+  "band": 2,
+  "concreteness": "abstract",
+  "definition": "Of or relating to the political and economic doctrines of the German author of Das Kapital, especially class conflict and common ownership of production.",
+  "example": "Her reading of the factory strike was strictly ___: to her it was owners against workers, and nothing more.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"M-\"",
+   "similar": "sounds a little like \"artist\"",
+   "lastSound": "ends in \"-ist\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0144",
+  "validated": {
+   "solverAnswer": "Marxist",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0214",
+  "lang": "en",
+  "target": "massacre",
+  "accept": [
+   "massacre"
+  ],
+  "pos": "noun",
+  "zipf": 3.91,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "The brutal, indiscriminate killing of many people at once, especially of those who cannot defend themselves.",
+  "example": "The memorial in the square marks the ___ of more than three hundred unarmed villagers in 1943.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"mas-\"",
+   "similar": "sounds a little like \"mascara\"",
+   "lastSound": "ends in \"-cre\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0165",
+  "validated": {
+   "solverAnswer": "massacre",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0215",
+  "lang": "en",
+  "target": "freezer",
+  "accept": [
+   "freezer"
+  ],
+  "pos": "noun",
+  "zipf": 3.66,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "An insulated appliance or compartment kept colder than the point at which water turns to ice, for long-term food storage.",
+  "example": "We bought half a cow at the farm and stacked the cuts in the chest ___ out in the garage.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"fr-\"",
+   "similar": "sounds a little like \"squeezer\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0168",
+  "validated": {
+   "solverAnswer": "freezer",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0216",
+  "lang": "en",
+  "target": "decapitation",
+  "accept": [
+   "decapitation"
+  ],
+  "pos": "noun",
+  "zipf": 2.63,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "The severing of a head from the body, the term used in medical, legal, and historical writing rather than in everyday speech.",
+  "example": "The coroner's report gave the cause of death as ___ by a heavy-bladed instrument.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "starts with \"de-\"",
+   "similar": "sounds a little like \"meditation\"",
+   "lastSound": "ends in \"-ation\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0170",
+  "validated": {
+   "solverAnswer": "decapitation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0217",
+  "lang": "en",
+  "target": "narrowing",
+  "accept": [
+   "narrowing"
+  ],
+  "pos": "noun",
+  "zipf": 3.25,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "A reduction in width or in the range of something, especially a constriction in a tube or passage.",
+  "example": "The scan showed a dangerous ___ of the artery supplying his heart.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"nar-\"",
+   "similar": "sounds a little like \"borrowing\"",
+   "lastSound": "ends in \"-ing\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0175",
+  "validated": {
+   "solverAnswer": "narrowing",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0218",
+  "lang": "en",
+  "target": "generality",
+  "accept": [
+   "generality"
+  ],
+  "pos": "noun",
+  "zipf": 2.51,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "The quality of a statement or rule that is broad and unspecific, covering many cases instead of describing one precisely.",
+  "example": "His answer was pure ___ — it could have applied to any firm in the industry and committed him to nothing.",
+  "hints": {
+   "syllables": 5,
+   "stress": 3,
+   "firstSound": "starts with \"gen-\"",
+   "similar": "sounds a little like \"personality\"",
+   "lastSound": "ends in \"-ity\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0179",
+  "validated": {
+   "solverAnswer": "generality",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0219",
+  "lang": "en",
+  "target": "washbasin",
+  "accept": [
+   "washbasin",
+   "wash basin",
+   "wash-basin"
+  ],
+  "pos": "noun",
+  "zipf": 1.87,
+  "band": 4,
+  "concreteness": "concrete",
+  "definition": "A fixed bowl with taps and a drain, usually in a bedroom or bathroom, for washing the hands and face.",
+  "example": "The little guest room had a ___ in the corner, with a jug and a folded towel beside it.",
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"wash-\"",
+   "similar": "sounds a little like \"mason\"",
+   "lastSound": "ends in \"-sin\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0185",
+  "validated": {
+   "solverAnswer": "washbasin",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0220",
+  "lang": "en",
+  "target": "plankton",
+  "accept": [
+   "plankton"
+  ],
+  "pos": "noun",
+  "zipf": 3.05,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "The mass of tiny drifting plants and animals, mostly microscopic, that floats in water and feeds the food chain.",
+  "example": "Baleen whales strain tonnes of ___ from the sea through comb-like plates in their mouths.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"pl-\"",
+   "similar": "sounds a little like \"blanket\"",
+   "lastSound": "ends in \"-ton\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0195",
+  "validated": {
+   "solverAnswer": "plankton",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0221",
+  "lang": "en",
+  "target": "sentry",
+  "accept": [
+   "sentry"
+  ],
+  "pos": "noun",
+  "zipf": 3.08,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "A soldier posted to keep watch at a gate or camp and to challenge anyone who approaches.",
+  "example": "The ___ at the gate demanded the password before he would let our lorry through.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sen-\"",
+   "similar": "rhymes with \"entry\"",
+   "lastSound": "ends in \"-try\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0206",
+  "validated": {
+   "solverAnswer": "sentry",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0222",
+  "lang": "en",
+  "target": "old age",
+  "accept": [
+   "old age"
+  ],
+  "pos": "noun",
+  "zipf": 5.18,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "The final stage of human life, after the middle years, especially as marked by frailty or by living to a great length of years.",
+  "example": "She took up painting in ___ and produced her finest canvases after eighty.",
+  "hints": {
+   "firstSound": "starts with \"old-\"",
+   "similar": "sounds a little like \"voltage\"",
+   "lastSound": "ends in \"-age\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0211",
+  "validated": {
+   "solverAnswer": "old age",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0223",
+  "lang": "en",
+  "target": "sprout",
+  "accept": [
+   "sprout"
+  ],
+  "pos": "verb",
+  "zipf": 3.11,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Of a seed or bulb: to send up its first shoots and begin growing visibly, especially through the soil.",
+  "example": "The potatoes we forgot in the cupboard have begun to ___ pale shoots in the dark.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"spr-\"",
+   "similar": "rhymes with \"spout\"",
+   "lastSound": "ends in \"-out\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0217",
+  "validated": {
+   "solverAnswer": "sprout",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0224",
+  "lang": "en",
+  "target": "transcendental",
+  "accept": [
+   "transcendental"
+  ],
+  "pos": "adj",
+  "zipf": 3.0,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "In mathematics, describing a number that is not the root of any polynomial with rational coefficients.",
+  "example": "Pi and e are famous ___ numbers, unlike square roots of integers.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"tran-\"",
+   "similar": "sounds a little like \"transatlantic\"",
+   "lastSound": "ends in \"-tal\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0256",
+  "validated": {
+   "solverAnswer": "transcendental",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0225",
+  "lang": "en",
+  "target": "centrifugation",
+  "accept": [
+   "centrifugation"
+  ],
+  "pos": "noun",
+  "zipf": 2.22,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "A process that separates substances of different densities by spinning them rapidly around a central axis.",
+  "example": "After drawing blood, the lab used ___ to separate plasma from red cells.",
+  "hints": {
+   "syllables": 5,
+   "stress": 4,
+   "firstSound": "starts with \"cen-\"",
+   "similar": "sounds a little like \"configuration\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0259",
+  "validated": {
+   "solverAnswer": "centrifugation",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0226",
+  "lang": "en",
+  "target": "serigraphy",
+  "accept": [
+   "serigraphy"
+  ],
+  "pos": "noun",
+  "zipf": 1.08,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "The art of making prints by forcing ink through a stenciled mesh screen onto paper or fabric.",
+  "example": "The artist used ___ to print the concert poster in five flat colors.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"se-\"",
+   "similar": "sounds a little like \"serrated\" in its opening",
+   "lastSound": "ends in \"-phy\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0273",
+  "validated": {
+   "solverAnswer": "serigraphy",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0227",
+  "lang": "en",
+  "target": "reiterate",
+  "accept": [
+   "reiterate"
+  ],
+  "pos": "verb",
+  "zipf": 3.13,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "To state again or repeatedly, often to emphasize a point already made.",
+  "example": "The chairwoman rose to ___ her demand that the vote be postponed.",
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds a little like \"reincarnate\"",
+   "lastSound": "ends in \"-ate\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0287",
+  "validated": {
+   "solverAnswer": "reiterate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0228",
+  "lang": "en",
+  "target": "censitary",
+  "accept": [
+   "censitary"
+  ],
+  "pos": "adj",
+  "zipf": 0.0,
+  "band": 4,
+  "concreteness": "abstract",
+  "definition": "Relating to a voting system in which the right to vote depends on owning property or paying a set amount of tax.",
+  "example": "The old constitution established a ___ system in which only property owners could vote.",
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"cen-\"",
+   "similar": "sounds a little like \"sanitary\"",
+   "lastSound": "ends in \"-ary\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0292",
+  "validated": {
+   "solverAnswer": "censitary",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0229",
+  "lang": "en",
+  "target": "chocolate",
+  "accept": [
+   "chocolate"
+  ],
+  "pos": "noun",
+  "zipf": 4.49,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A solid sweet food made from roasted and ground cacao seeds, usually sold in bars or shaped pieces.",
+  "example": "She broke off a square of dark ___ and let it melt slowly on her tongue.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"choc-\"",
+   "similar": "sounds a little like \"chock-full\"",
+   "lastSound": "ends in \"-late\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0004",
+  "validated": {
+   "solverAnswer": "chocolate",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0230",
+  "lang": "en",
+  "target": "February",
+  "accept": [
+   "February"
+  ],
+  "pos": "noun",
+  "zipf": 5.03,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "The second month of the calendar year, coming after January and having twenty-eight or twenty-nine days.",
+  "example": "Their ski trip is booked for early ___, right after January ends.",
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"Feb-\"",
+   "similar": "sounds a little like \"febrile\"",
+   "lastSound": "ends in \"-ary\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0012",
+  "validated": {
+   "solverAnswer": "February",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0231",
+  "lang": "en",
+  "target": "know",
+  "accept": [
+   "know"
+  ],
+  "pos": "verb",
+  "zipf": 6.1,
+  "band": 1,
+  "concreteness": "abstract",
+  "definition": "To have a fact or piece of information firmly in the mind; to be certain of something.",
+  "example": "I didn't ___ the answer, so I left that question blank.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"kn-\"",
+   "similar": "sounds like \"no\"",
+   "lastSound": "ends with the sound \"-oh\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0025",
+  "validated": {
+   "solverAnswer": "know",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0232",
+  "lang": "en",
+  "target": "write",
+  "accept": [
+   "write"
+  ],
+  "pos": "verb",
+  "zipf": 5.03,
+  "band": 1,
+  "concreteness": "concrete",
+  "definition": "To form letters, words, or symbols on a surface with a pen, pencil, or similar instrument.",
+  "example": "For the penmanship test we had to ___ the whole paragraph in cursive.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"wr-\"",
+   "similar": "sounds like \"right\"",
+   "lastSound": "ends with the sound \"-ite\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0029",
+  "validated": {
+   "solverAnswer": "write",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0233",
+  "lang": "en",
+  "target": "psalm",
+  "accept": [
+   "psalm"
+  ],
+  "pos": "noun",
+  "zipf": 3.56,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "A sacred song or poem, especially any of the 150 in the biblical book used in Jewish and Christian worship.",
+  "example": "The congregation chanted the twenty-third ___ at the evening service.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"ps-\"",
+   "similar": "rhymes with \"calm\"",
+   "lastSound": "ends in \"-alm\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0204",
+  "validated": {
+   "solverAnswer": "psalm",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0234",
+  "lang": "en",
+  "target": "knit",
+  "accept": [
+   "knit"
+  ],
+  "pos": "verb",
+  "zipf": 3.66,
+  "band": 2,
+  "concreteness": "concrete",
+  "definition": "To make a fabric or garment by looping yarn with a pair of long needles, producing interlocking stitches.",
+  "example": "My grandmother taught me to ___ a scarf using two needles and a ball of wool.",
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"kn-\"",
+   "similar": "sounds a little like \"fit\"",
+   "lastSound": "ends in \"-it\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0235",
+  "validated": {
+   "solverAnswer": "knit",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0235",
+  "lang": "en",
+  "target": "spacious",
+  "accept": [
+   "spacious"
+  ],
+  "pos": "adj",
+  "zipf": 3.41,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Very large and open inside, offering ample room to move; suggesting grandeur rather than mere sufficiency.",
+  "example": "The hotel's ___ lobby, with marble columns and a vaulted ceiling, dwarfed the arriving guests.",
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"spa-\"",
+   "similar": "sounds a little like \"precious\"",
+   "lastSound": "ends in \"-cious\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0248",
+  "validated": {
+   "solverAnswer": "spacious",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0236",
+  "lang": "en",
+  "target": "topographic",
+  "accept": [
+   "topographic",
+   "topographical"
+  ],
+  "pos": "adj",
+  "zipf": 3.02,
+  "band": 3,
+  "concreteness": "concrete",
+  "definition": "Concerned with the detailed physical relief of land — its hills, valleys, and contours — especially as shown on maps.",
+  "example": "The hikers studied a ___ map that showed every ridge, stream, and contour of the valley.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"top-\"",
+   "similar": "sounds a little like \"topical\"",
+   "lastSound": "ends in \"-ic\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0255",
+  "validated": {
+   "solverAnswer": "topographic",
+   "model": "deepseek-flash"
+  }
+ },
+ {
+  "id": "a1t-en-0237",
+  "lang": "en",
+  "target": "Belarusian",
+  "accept": [
+   "Belarusian",
+   "Belarussian",
+   "Belorussian"
+  ],
+  "pos": "adj",
+  "zipf": 2.78,
+  "band": 3,
+  "concreteness": "abstract",
+  "definition": "Of or relating to the Eastern European country whose capital is Minsk, its people, or their East Slavic language.",
+  "example": "The ___ border with Poland is lined with forests and marshes.",
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"Bel-\"",
+   "similar": "sounds a little like \"Indonesian\"",
+   "lastSound": "ends in \"-sian\""
+  },
+  "parallelSet": 0,
+  "twinOf": "a1-pt-PT-0290",
+  "validated": {
+   "solverAnswer": "Belarusian",
+   "model": "deepseek-flash"
+  }
+ }
+]

@@ -1,0 +1,162 @@
+{
+ "_note": "Hand review of the selected A1 items (2026-09-24). drop = remove (a reserve item takes its place); other keys replace the generated field (definition, example, accept, syllables, stress, firstSound, similar, lastSound, concreteness).",
+ "en": {
+  "adultery": {
+   "drop": "sensitive content for a bank also meant as employee training material"
+  },
+  "chastity": {
+   "drop": "sensitive content"
+  },
+  "supremacist": {
+   "drop": "sensitive content"
+  },
+  "polyamorous": {
+   "drop": "sensitive content"
+  },
+  "framerate": {
+   "drop": "normally written as two words"
+  },
+  "prolactin": {
+   "drop": "too specialised"
+  },
+  "fescue": {
+   "drop": "too specialised"
+  },
+  "hair": {
+   "similar": "rhymes with \"chair\""
+  },
+  "war": {
+   "similar": "rhymes with \"floor\""
+  },
+  "statute": {
+   "similar": "sounds a little like \"salute\""
+  },
+  "omnipresence": {
+   "similar": "sounds a little like \"innocence\""
+  },
+  "renegotiate": {
+   "similar": "sounds a little like \"differentiate\""
+  },
+  "solder": {
+   "firstSound": "starts with \"so-\""
+  },
+  "convict": {
+   "stress": 2
+  },
+  "decade": {
+   "stress": 1
+  },
+  "rewind": {
+   "stress": 2
+  },
+  "exposé": {
+   "syllables": 3,
+   "stress": 3,
+   "accept": [
+    "exposé",
+    "expose"
+   ]
+  },
+  "anarchism": {
+   "syllables": 4
+  },
+  "pantheism": {
+   "syllables": 4
+  },
+  "autocorrect": {
+   "stress": 1
+  },
+  "reside": {
+   "example": "Applicants must ___ in the county for at least three years before they can vote there."
+  },
+  "hiragana": {
+   "drop": "too specialised for a benchmark item"
+  },
+  "unit": {
+   "similar": "sounds a little like \"tunic\""
+  },
+  "postscript": {
+   "similar": "sounds a little like \"conscript\""
+  },
+  "firearm": {
+   "syllables": 2
+  }
+ },
+ "pt-PT": {
+  "biscoito": {
+   "drop": "a PT-PT speaker would answer 'bolacha'"
+  },
+  "convocação": {
+   "drop": "'convocatória' fits equally well in PT-PT"
+  },
+  "prejudicial": {
+   "drop": "'nocivo' fits equally well"
+  },
+  "suave": {
+   "drop": "'macio' is the more natural PT word for touch"
+  },
+  "edil": {
+   "drop": "awkward definition and example"
+  },
+  "ultrassom": {
+   "drop": "the exam is 'ecografia' in PT-PT; example was Brazilian usage"
+  },
+  "driblar": {
+   "drop": "PT-PT says 'fintar'"
+  },
+  "rebelar": {
+   "drop": "'revoltar' fits equally well"
+  },
+  "genital": {
+   "drop": "'reprodutor' fits equally well; sensitive"
+  },
+  "lisina": {
+   "drop": "many amino acids fit the definition"
+  },
+  "moralização": {
+   "drop": "weak item ('sermão' is the natural word)"
+  },
+  "teatrólogo": {
+   "drop": "rare in PT-PT"
+  },
+  "tarefa": {
+   "similar": "soa um pouco como \"tarifa\""
+  },
+  "esponja": {
+   "similar": "rima com \"lisonja\""
+  },
+  "escola": {
+   "similar": "rima com \"mola\""
+  },
+  "limpar": {
+   "similar": "soa um pouco como \"ímpar\""
+  },
+  "absurdo": {
+   "similar": "soa um pouco como \"absorto\""
+  },
+  "desembarque": {
+   "example": "O ___ dos passageiros do navio fez-se pelo cais norte."
+  },
+  "salvação": {
+   "example": "Para os náufragos exaustos, aquele barco de pesca foi a ___."
+  },
+  "fiscal": {
+   "example": "O Governo anunciou um novo pacote de benefícios ___ para as pequenas empresas."
+  },
+  "cineteatro": {
+   "example": "O antigo ___ da vila passou a acolher filmes e peças de grupos locais."
+  },
+  "haiku": {
+   "accept": [
+    "haiku",
+    "haicai"
+   ]
+  },
+  "quark": {
+   "drop": "not a Portuguese lemma"
+  },
+  "fevereiro": {
+   "example": "Nos anos bissextos, o mês de ___ tem vinte e nove dias."
+  }
+ }
+}

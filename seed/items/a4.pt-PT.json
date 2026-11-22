@@ -1,0 +1,542 @@
+[
+ {
+  "id": "a4-pt-PT-0001",
+  "lang": "pt-PT",
+  "sentence": "O problema no servidor de base de dados foi resolvido após a reinicialização do serviço.",
+  "target": "problema",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 1
+ },
+ {
+  "id": "a4-pt-PT-0002",
+  "lang": "pt-PT",
+  "sentence": "O diagrama de sequência mostra como os dados fluem entre os componentes do sistema.",
+  "target": "mostra",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 1
+ },
+ {
+  "id": "a4-pt-PT-0003",
+  "lang": "pt-PT",
+  "sentence": "O desempenho do novo módulo de autenticação foi considerado mau pelos testadores, sobretudo em cenários de carga elevada.",
+  "target": "mau",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 1
+ },
+ {
+  "id": "a4-pt-PT-0004",
+  "lang": "pt-PT",
+  "sentence": "Esta função deve ajudar a equipa a reduzir o tempo de resposta do sistema durante os picos de tráfego.",
+  "target": "ajudar",
+  "register": "design-doc",
+  "difficulty": 1,
+  "parallelSet": 2
+ },
+ {
+  "id": "a4-pt-PT-0005",
+  "lang": "pt-PT",
+  "sentence": "Registámos um grande aumento no número de pedidos de suporte após o lançamento da nova funcionalidade.",
+  "target": "grande",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 2
+ },
+ {
+  "id": "a4-pt-PT-0006",
+  "lang": "pt-PT",
+  "sentence": "Aquela coisa que me pediste para comprar no supermercado já não estava disponível, tive de trazer outra marca.",
+  "target": "coisa",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 2
+ },
+ {
+  "id": "a4-pt-PT-0007",
+  "lang": "pt-PT",
+  "sentence": "O feedback dos utilizadores sobre a última atualização foi mau, com várias queixas sobre a lentidão do carregamento.",
+  "target": "mau",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 3
+ },
+ {
+  "id": "a4-pt-PT-0008",
+  "lang": "pt-PT",
+  "sentence": "Preciso de dar uma volta ao código antes de o enviar para revisão, pois ainda tem alguns erros.",
+  "target": "dar",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 3
+ },
+ {
+  "id": "a4-pt-PT-0009",
+  "lang": "pt-PT",
+  "sentence": "Após a atualização do firmware, o dispositivo ficou inoperativo, sendo necessário reiniciá-lo manualmente.",
+  "target": "ficou",
+  "register": "incident-report",
+  "difficulty": 3,
+  "parallelSet": 3
+ },
+ {
+  "id": "a4-pt-PT-0010",
+  "lang": "pt-PT",
+  "sentence": "Vamos fazer uma reunião na próxima terça-feira para discutir os detalhes do contrato.",
+  "target": "fazer",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 4
+ },
+ {
+  "id": "a4-pt-PT-0011",
+  "lang": "pt-PT",
+  "sentence": "Considero interessante a sua proposta de alterar o fluxo de aprovação, mas gostaria de perceber melhor o impacto nos prazos.",
+  "target": "interessante",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 4
+ },
+ {
+  "id": "a4-pt-PT-0012",
+  "lang": "pt-PT",
+  "sentence": "Não posso fazer nada por ti agora, estou cheio de trabalho até ao fim do dia.",
+  "target": "fazer",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 4
+ },
+ {
+  "id": "a4-pt-PT-0013",
+  "lang": "pt-PT",
+  "sentence": "Gostaria de falar com V. Exa. sobre a necessidade de rever o contrato de manutenção antes do final do ano.",
+  "target": "falar",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0014",
+  "lang": "pt-PT",
+  "sentence": "Vimos por este meio solicitar que se trate o pedido de acesso ao sistema até ao final da próxima semana.",
+  "target": "trate",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0015",
+  "lang": "pt-PT",
+  "sentence": "A empresa registou um grande aumento nas vendas durante o último trimestre do ano.",
+  "target": "grande",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0016",
+  "lang": "pt-PT",
+  "sentence": "O relatório que a equipa enviou ontem é bastante interessante do ponto de vista técnico.",
+  "target": "interessante",
+  "register": "formal-email",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0017",
+  "lang": "pt-PT",
+  "sentence": "O relatório de incidente indica que o mau resultado do teste de carga se deveu a uma configuração incorreta do servidor.",
+  "target": "mau",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0018",
+  "lang": "pt-PT",
+  "sentence": "O problema foi detetado às 14h05, quando o serviço de pagamentos começou a devolver erros 500 de forma intermitente.",
+  "target": "problema",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0019",
+  "lang": "pt-PT",
+  "sentence": "Durante a madrugada, o servidor principal mudou de estado sem qualquer intervenção da equipa de operações.",
+  "target": "mudou",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0020",
+  "lang": "pt-PT",
+  "sentence": "A situação de falha no sistema de autenticação foi prontamente comunicada à equipa de suporte.",
+  "target": "situação",
+  "register": "incident-report",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0021",
+  "lang": "pt-PT",
+  "sentence": "No ponto de situação, destacamos o problema recorrente de latência elevada na integração com o fornecedor de pagamentos.",
+  "target": "problema",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0022",
+  "lang": "pt-PT",
+  "sentence": "Vamos fazer uma análise detalhada dos custos operacionais para apresentar à direção.",
+  "target": "fazer",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0023",
+  "lang": "pt-PT",
+  "sentence": "O ponto de situação revela que o bom desempenho da equipa comercial superou as metas trimestrais em 15%.",
+  "target": "bom",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0024",
+  "lang": "pt-PT",
+  "sentence": "A equipa vai tratar das atualizações de segurança até ao final da semana, conforme solicitado pelo cliente.",
+  "target": "tratar",
+  "register": "stakeholder-update",
+  "difficulty": 1,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0025",
+  "lang": "pt-PT",
+  "sentence": "Este bug é difícil de reproduzir, só acontece quando o utilizador clica duas vezes seguidas.",
+  "target": "difícil",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0026",
+  "lang": "pt-PT",
+  "sentence": "É importante não te esqueceres do carregador, senão o telemóvel fica sem bateria a meio da viagem.",
+  "target": "importante",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0027",
+  "lang": "pt-PT",
+  "sentence": "Vou dar uma vista de olhos ao relatório assim que puder e depois digo-te alguma coisa.",
+  "target": "dar",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0028",
+  "lang": "pt-PT",
+  "sentence": "Achei interessante o novo layout da app, mas confesso que me perdi um pouco na navegação.",
+  "target": "interessante",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0029",
+  "lang": "pt-PT",
+  "sentence": "Precisamos de melhorar a forma como comunicamos os atrasos, porque a equipa de suporte sente que é sempre a última a saber.",
+  "target": "melhorar",
+  "register": "casual-chat",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0030",
+  "lang": "pt-PT",
+  "sentence": "Neste documento, propomos pôr a documentação da API num repositório separado para facilitar a manutenção.",
+  "target": "pôr",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0031",
+  "lang": "pt-PT",
+  "sentence": "Para este protótipo, usamos a biblioteca de gráficos recomendada pela equipa de front-end.",
+  "target": "usamos",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0032",
+  "lang": "pt-PT",
+  "sentence": "Este documento descreve como tratar a migração de dados legados sem interromper o serviço aos utilizadores ativos.",
+  "target": "tratar",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0033",
+  "lang": "pt-PT",
+  "sentence": "Após a atualização, o painel de controlo fica com os dados desatualizados durante cerca de dez minutos.",
+  "target": "fica",
+  "register": "design-doc",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0034",
+  "lang": "pt-PT",
+  "sentence": "Vou fazer o jantar para os convidados que chegam às oito, por isso preciso de ir às compras agora.",
+  "target": "fazer",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0035",
+  "lang": "pt-PT",
+  "sentence": "A questão é que ninguém me avisou da mudança de sala, por isso esperei vinte minutos no sítio errado.",
+  "target": "questão",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0036",
+  "lang": "pt-PT",
+  "sentence": "Tens de dar um jeito à tua apresentação, que está demasiado confusa para a reunião de amanhã.",
+  "target": "dar",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0037",
+  "lang": "pt-PT",
+  "sentence": "Depois de tantas alterações, o relatório final ficou confuso e ninguém percebeu as conclusões.",
+  "target": "ficou",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0038",
+  "lang": "pt-PT",
+  "sentence": "Uso o telemóvel para consultar os e-mails da equipa, mas ao fim de semana só vejo as mensagens urgentes.",
+  "target": "uso",
+  "register": "everyday",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0039",
+  "lang": "pt-PT",
+  "sentence": "Sugiro que use o modelo de carta formal disponível no portal para submeter o pedido de reembolso.",
+  "target": "use",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0040",
+  "lang": "pt-PT",
+  "sentence": "O desempenho da equipa foi bom, mas ainda há margem para melhorar a comunicação entre departamentos.",
+  "target": "bom",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0041",
+  "lang": "pt-PT",
+  "sentence": "Solicito que veja o anexo e me informe se há alguma correção a fazer.",
+  "target": "veja",
+  "register": "formal-email",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0042",
+  "lang": "pt-PT",
+  "sentence": "O sistema está muito lento desde as 14h, com tempos de resposta acima dos cinco segundos.",
+  "target": "muito",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0043",
+  "lang": "pt-PT",
+  "sentence": "Foi difícil reproduzir a falha no ambiente de teste, pois só ocorre quando o volume ultrapassa os mil pedidos por segundo.",
+  "target": "difícil",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0044",
+  "lang": "pt-PT",
+  "sentence": "Durante o incidente, uma coisa estranha aconteceu: o servidor reiniciou sozinho sem qualquer comando.",
+  "target": "coisa",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0045",
+  "lang": "pt-PT",
+  "sentence": "Durante a investigação, considerámos interessante o facto de a falha ocorrer apenas quando o serviço de autenticação está sob carga elevada.",
+  "target": "interessante",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0046",
+  "lang": "pt-PT",
+  "sentence": "O relatório de incidente mostra que a falha no servidor principal ocorreu às 14h32 e afetou 30% dos utilizadores.",
+  "target": "mostra",
+  "register": "incident-report",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0047",
+  "lang": "pt-PT",
+  "sentence": "A questão mais urgente para o cliente é a latência elevada que continua a afetar as transações no horário de maior volume.",
+  "target": "questão",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0048",
+  "lang": "pt-PT",
+  "sentence": "Em resumo, acho que devemos rever o orçamento antes de avançar com o projeto, dada a incerteza económica.",
+  "target": "acho",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0049",
+  "lang": "pt-PT",
+  "sentence": "O resultado final ficou bonito para o cliente, com uma interface limpa e transições suaves entre ecrãs.",
+  "target": "bonito",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0050",
+  "lang": "pt-PT",
+  "sentence": "A situação atual do projeto exige uma reavaliação imediata dos prazos acordados com o cliente.",
+  "target": "situação",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0051",
+  "lang": "pt-PT",
+  "sentence": "O diretor de operações disse na reunião que o orçamento para o próximo trimestre só será aprovado após revisão das prioridades.",
+  "target": "disse",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0052",
+  "lang": "pt-PT",
+  "sentence": "No ponto de situação, salientamos que a grande redução de custos operacionais foi possível graças à otimização dos recursos.",
+  "target": "grande",
+  "register": "stakeholder-update",
+  "difficulty": 2,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0053",
+  "lang": "pt-PT",
+  "sentence": "Olha, a questão é que não me apetece nada ir a essa reunião tão cedo, mas tenho de ir.",
+  "target": "questão",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0054",
+  "lang": "pt-PT",
+  "sentence": "O filme foi bom, mas o final deixou-me um bocado confuso; acho que podiam ter explicado melhor.",
+  "target": "bom",
+  "register": "casual-chat",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0055",
+  "lang": "pt-PT",
+  "sentence": "A situação que pretendemos resolver com este redesenho é a elevada latência na sincronização de dados entre filiais.",
+  "target": "situação",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0056",
+  "lang": "pt-PT",
+  "sentence": "Neste documento, vamos tratar da arquitetura de microsserviços e da sua implementação.",
+  "target": "tratar",
+  "register": "design-doc",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0057",
+  "lang": "pt-PT",
+  "sentence": "Vamos ver se o tempo melhora amanhã, porque quero ir à praia com os amigos.",
+  "target": "ver",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0058",
+  "lang": "pt-PT",
+  "sentence": "Acho que o prazo para a entrega do relatório está demasiado apertado, tendo em conta as férias de parte da equipa.",
+  "target": "acho",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0059",
+  "lang": "pt-PT",
+  "sentence": "Estou muito cansado hoje, por isso vou deitar-me cedo para recuperar energias.",
+  "target": "muito",
+  "register": "everyday",
+  "difficulty": 3,
+  "parallelSet": 0
+ },
+ {
+  "id": "a4-pt-PT-0060",
+  "lang": "pt-PT",
+  "sentence": "O comportamento do sistema mudou drasticamente após a aplicação do patch de segurança.",
+  "target": "mudou",
+  "register": "incident-report",
+  "difficulty": 3,
+  "parallelSet": 0
+ }
+]

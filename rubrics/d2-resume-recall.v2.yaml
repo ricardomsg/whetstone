@@ -1,0 +1,55 @@
+# Rubric for D2, resume drill recall against the note (Altmann & Trafton, 2002).
+id: d2-resume-recall
+version: 2
+exercise: D2
+skills: [TRA]
+languages: [en, pt-PT]
+judge:
+  model_role: judge
+  temperature: 0.1
+  max_retries: 2
+  instructions: |
+    A person returning to an interrupted work session first recalled, without
+    looking, what they were doing (retrospective) and what they were about to do
+    (prospective). Compare the recall with the note written at suspension. Score
+    coverage and correctness of each part against the anchors. Paraphrase is fine;
+    wrong details count against. In evidence, list what was missed or wrong. The
+    first tip says what to put in the next note so this recall would be easier,
+    using only facts from the note and the recall; never invent details.
+input:
+  note: "{{note}}"
+  recall: "{{attempt.recall}}"
+  minutes_since_note: "{{minutes}}"
+criteria:
+  - key: retrospective
+    weight: 0.4
+    question: Does the recall of "what I was doing" match the note's stopped-at and risks?
+    anchors:
+      1: Nothing recalled, or wrong.
+      2: The area only.
+      3: The main thing, missing its state.
+      4: The main thing and its state; minor omissions.
+      5: Complete and correct, including open risks.
+  - key: prospective
+    weight: 0.6
+    question: Does the recall of "what I was about to do" match the note's next action?
+    anchors:
+      1: Nothing recalled, or a different action.
+      2: The goal, not the action.
+      3: Roughly the action, missing what makes it startable.
+      4: The action, correctly.
+      5: The action with its concrete starting point, plus what it waits on.
+examples:
+  - input:
+      note: {stoppedAt: "Fixing the failing test_scale_mixed_fraction check on branch fix/serving-scale", nextAction: "Format the result with format_fraction() in lib/scale.py and rerun the scaler tests", openRisks: "Saved shopping lists may still store decimals", waitingOn: ""}
+      recall: {retrospective: "Something with the recipe app", prospective: "Make the tests pass"}
+      minutes_since_note: 180
+    expected:
+      scores: {retrospective: 2, prospective: 2}
+      evidence:
+        retrospective: "missed: the branch, the failing fraction test, the open question about saved shopping lists"
+        prospective: "'Make the tests pass' is the goal; the action was formatting the result with format_fraction() in lib/scale.py"
+      tips:
+        - "Put the one file and the one change in the next-action line; that is what you could not recall."
+normalisation:
+  TRA: "0.4 × retrospective + 0.6 × prospective, each (score-1)/4 × 100"

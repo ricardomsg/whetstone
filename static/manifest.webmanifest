@@ -1,0 +1,25 @@
+{
+	"name": "Whetstone",
+	"short_name": "Whetstone",
+	"description": "Hone communication: word retrieval, vocabulary, recall and structured expression.",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"background_color": "#111315",
+	"theme_color": "#111315",
+	"icons": [
+		{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+		{ "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+		{ "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+	],
+	"shortcuts": [
+		{ "name": "Tip of tongue", "url": "/capture/tot", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+		{ "name": "Add a word", "url": "/capture/word", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+		{ "name": "Sessions", "url": "/sessions", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
+	],
+	"share_target": {
+		"action": "/capture/word",
+		"method": "GET",
+		"params": { "title": "title", "text": "text", "url": "url" }
+	}
+}

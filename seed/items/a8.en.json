@@ -1,0 +1,4227 @@
+[
+ {
+  "id": "a8-en-0001",
+  "lang": "en",
+  "cue": "ainda por cima",
+  "context": "Choveu e, ainda por cima, perdi o autocarro.",
+  "target": "on top of that",
+  "accept": [
+   "moreover",
+   "what's more"
+  ],
+  "gapped": "It rained and, ___ , I missed the bus.",
+  "trap": "",
+  "note": "Ainda por cima adds a further negative or annoying point.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"on-\"",
+   "similar": "'top' rhymes with 'hop'",
+   "lastSound": "ends with \"-at\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0002",
+  "lang": "en",
+  "cue": "Até",
+  "context": "Até parece mentira.",
+  "target": "even",
+  "accept": [],
+  "gapped": "It ___ seems like a lie.",
+  "trap": "until",
+  "note": "Até can mean 'even' or 'until'; here it's 'even'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"e-\"",
+   "similar": "rhymes with \"Steven\"",
+   "lastSound": "ends with \"-en\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0003",
+  "lang": "en",
+  "cue": "Bem",
+  "context": "Bem, acho que já chega por hoje.",
+  "target": "well",
+  "accept": [],
+  "gapped": "___, I think that's enough for today.",
+  "trap": "good",
+  "note": "Bem at the start of a sentence is a filler meaning 'well', not 'good'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "other",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"we-\"",
+   "similar": "rhymes with \"bell\"",
+   "lastSound": "ends with \"-ell\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0004",
+  "lang": "en",
+  "cue": "Claro",
+  "context": "Claro que te ajudo, conta comigo.",
+  "target": "of course",
+  "accept": [
+   "sure",
+   "certainly"
+  ],
+  "gapped": "___ I'll help you, count on me.",
+  "trap": "clear",
+  "note": "Claro can mean 'of course' or 'clear', depending on context.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "other",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"of-\"",
+   "similar": "key word \"course\" rhymes with \"horse\"",
+   "lastSound": "ends with \"-course\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0005",
+  "lang": "en",
+  "cue": "Com certeza",
+  "context": "Com certeza, podes contar comigo.",
+  "target": "for sure",
+  "accept": [
+   "certainly",
+   "of course",
+   "sure",
+   "definitely"
+  ],
+  "gapped": "___ , you can count on me.",
+  "trap": "",
+  "note": "Com certeza means 'for sure' or 'certainly'.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"for-\"",
+   "similar": "'sure' rhymes with 'pure'",
+   "lastSound": "ends with \"-ure\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0006",
+  "lang": "en",
+  "cue": "Combinado",
+  "context": "Combinado, encontro-te às oito.",
+  "target": "agreed",
+  "accept": [
+   "deal"
+  ],
+  "gapped": "___ , I'll meet you at eight.",
+  "trap": "",
+  "note": "Combinado is a common way to say 'agreed' or 'deal'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"a-\"",
+   "similar": "rhymes with \"seed\"",
+   "lastSound": "ends with \"-eed\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0007",
+  "lang": "en",
+  "cue": "De qualquer forma",
+  "context": "De qualquer forma, vou tentar outra vez.",
+  "target": "anyway",
+  "accept": [
+   "in any case",
+   "regardless",
+   "either way"
+  ],
+  "gapped": "___, I'll try again.",
+  "trap": "",
+  "note": "De qualquer forma means 'anyway' or 'in any case'.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"an-\"",
+   "similar": "rhymes with \"any day\"",
+   "lastSound": "ends with \"-way\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0008",
+  "lang": "en",
+  "cue": "Enfim",
+  "context": "Enfim, não vale a pena falar mais nisso.",
+  "target": "anyway",
+  "accept": [
+   "well",
+   "in any case",
+   "at any rate",
+   "oh well"
+  ],
+  "gapped": "___, there's no point talking about it anymore.",
+  "trap": "",
+  "note": "Enfim often signals a conclusion or a change of subject, like 'anyway'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"an-\"",
+   "similar": "rhymes with \"any day\"",
+   "lastSound": "ends with \"-way\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0009",
+  "lang": "en",
+  "cue": "Então",
+  "context": "Então, o que vamos fazer hoje?",
+  "target": "so",
+  "accept": [
+   "well"
+  ],
+  "gapped": "___, what are we going to do today?",
+  "trap": "",
+  "note": "Então often starts a question meaning 'so' or 'then'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"so-\"",
+   "similar": "rhymes with \"go\"",
+   "lastSound": "ends with \"-so\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0010",
+  "lang": "en",
+  "cue": "Está bem",
+  "context": "Está bem, eu faço isso amanhã.",
+  "target": "all right",
+  "accept": [
+   "OK",
+   "fine"
+  ],
+  "gapped": "___ , I'll do that tomorrow.",
+  "trap": "",
+  "note": "Está bem is the everyday way to say 'OK' or 'all right'.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "other",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"all-\"",
+   "similar": "'right' rhymes with 'light'",
+   "lastSound": "ends with \"-ight\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0011",
+  "lang": "en",
+  "cue": "Felizmente",
+  "context": "Felizmente, cheguei a tempo.",
+  "target": "fortunately",
+  "accept": [
+   "luckily",
+   "thankfully"
+  ],
+  "gapped": "___ , I arrived on time.",
+  "trap": "",
+  "note": "Felizmente means 'fortunately' or 'luckily'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"for-\"",
+   "similar": "rhymes with \"unfortunately\"",
+   "lastSound": "ends with \"-ly\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0012",
+  "lang": "en",
+  "cue": "Honestamente",
+  "context": "Honestamente, não sei o que fazer.",
+  "target": "frankly",
+  "accept": [
+   "honestly",
+   "to be honest",
+   "truthfully"
+  ],
+  "gapped": "___ , I don't know what to do.",
+  "trap": "",
+  "note": "Honestamente is a common filler meaning 'frankly' or 'honestly'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"frank-\"",
+   "similar": "rhymes with \"blankly\"",
+   "lastSound": "ends with \"-ly\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0013",
+  "lang": "en",
+  "cue": "Infelizmente",
+  "context": "Infelizmente, não posso ir à festa.",
+  "target": "unfortunately",
+  "accept": [
+   "sadly",
+   "regrettably"
+  ],
+  "gapped": "___ , I can't go to the party.",
+  "trap": "",
+  "note": "Infelizmente is the standard word for 'unfortunately'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 5,
+   "stress": 2,
+   "firstSound": "starts with \"un-\"",
+   "similar": "sounds like \"fortunately\"",
+   "lastSound": "ends with \"-ly\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0014",
+  "lang": "en",
+  "cue": "Já agora",
+  "context": "Já agora, podes emprestar-me o livro?",
+  "target": "by the way",
+  "accept": [
+   "while we're at it",
+   "since we're on the subject"
+  ],
+  "gapped": "___, can you lend me the book?",
+  "trap": "now already",
+  "note": "Já agora introduces a related request, not literally 'now already'.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"by-\"",
+   "similar": "key word \"way\" rhymes with \"day\"",
+   "lastSound": "ends with \"-way\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0015",
+  "lang": "en",
+  "cue": "Na verdade",
+  "context": "Na verdade, não gosto muito de café.",
+  "target": "actually",
+  "accept": [
+   "in truth",
+   "really",
+   "to tell the truth"
+  ],
+  "gapped": "___, I don't like coffee much.",
+  "trap": "",
+  "note": "Na verdade is a common way to say 'actually', correcting or clarifying.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"ac-\"",
+   "similar": "sounds like \"act you ally\"",
+   "lastSound": "ends with \"-ly\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0016",
+  "lang": "en",
+  "cue": "Naturalmente",
+  "context": "Naturalmente, ele ficou surpreendido com a notícia.",
+  "target": "naturally",
+  "accept": [
+   "of course",
+   "as expected",
+   "obviously"
+  ],
+  "gapped": "___ , he was surprised by the news.",
+  "trap": "",
+  "note": "Naturalmente can mean 'naturally' or 'of course' in conversation.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"nat-\"",
+   "similar": "rhymes with \"actually\"",
+   "lastSound": "ends with \"-ally\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0017",
+  "lang": "en",
+  "cue": "no entanto",
+  "context": "Estava cansado; no entanto, continuou a trabalhar.",
+  "target": "however",
+  "accept": [
+   "nevertheless",
+   "nonetheless"
+  ],
+  "gapped": "He was tired; ___, he kept working.",
+  "trap": "",
+  "note": "No entanto is a formal-ish connector meaning 'however'.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"how-\"",
+   "similar": "sounds like \"how ever\"",
+   "lastSound": "ends with \"-ever\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0018",
+  "lang": "en",
+  "cue": "Obviamente",
+  "context": "Obviamente, ninguém acreditou na história.",
+  "target": "obviously",
+  "accept": [
+   "clearly",
+   "evidently",
+   "of course"
+  ],
+  "gapped": "___ , no one believed the story.",
+  "trap": "",
+  "note": "Obviamente is used just like English 'obviously'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 4,
+   "stress": 1,
+   "firstSound": "starts with \"ob-\"",
+   "similar": "sounds like \"previously\"",
+   "lastSound": "ends with \"-ly\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0019",
+  "lang": "en",
+  "cue": "Olha",
+  "context": "Olha, tenho uma novidade para te contar.",
+  "target": "look",
+  "accept": [
+   "hey",
+   "listen"
+  ],
+  "gapped": "___, I have some news to tell you.",
+  "trap": "",
+  "note": "Olha is a common attention-getter, like 'look' or 'hey'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "other",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"loo-\"",
+   "similar": "rhymes with \"book\"",
+   "lastSound": "ends with \"-ook\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0020",
+  "lang": "en",
+  "cue": "Pelos vistos",
+  "context": "Pelos vistos, ele não vem à reunião.",
+  "target": "apparently",
+  "accept": [
+   "seemingly",
+   "from the looks of it",
+   "evidently",
+   "by the looks of it"
+  ],
+  "gapped": "___, he's not coming to the meeting.",
+  "trap": "",
+  "note": "Pelos vistos is a common EP way to say 'apparently', based on evidence.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 4,
+   "stress": 2,
+   "firstSound": "starts with \"ap-\"",
+   "similar": "sounds like \"a parent lee\"",
+   "lastSound": "ends with \"-ly\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0021",
+  "lang": "en",
+  "cue": "Perfeito",
+  "context": "Perfeito, combinado assim.",
+  "target": "perfect",
+  "accept": [
+   "great",
+   "fine",
+   "all right"
+  ],
+  "gapped": "___ , agreed then.",
+  "trap": "",
+  "note": "Perfeito is used like English 'perfect' to agree.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adj",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"per-\"",
+   "similar": "sounds like \"prefect\"",
+   "lastSound": "ends with \"-ect\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0022",
+  "lang": "en",
+  "cue": "Pois",
+  "context": "Pois, tens toda a razão.",
+  "target": "indeed",
+  "accept": [
+   "yes",
+   "true"
+  ],
+  "gapped": "___, you are absolutely right.",
+  "trap": "",
+  "note": "Pois as an interjection means 'indeed' or 'yes', often agreeing.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "other",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"in-\"",
+   "similar": "sounds like \"in deed\"",
+   "lastSound": "ends with \"-deed\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0023",
+  "lang": "en",
+  "cue": "Por falar nisso",
+  "context": "Por falar nisso, viste o novo filme?",
+  "target": "speaking of which",
+  "accept": [
+   "by the way",
+   "talking of which",
+   "incidentally"
+  ],
+  "gapped": "___, did you see the new film?",
+  "trap": "",
+  "note": "Por falar nisso introduces a related topic, exactly like 'speaking of which'.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "other",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"speak-\"",
+   "similar": "key word \"which\" rhymes with \"itch\"",
+   "lastSound": "ends with \"-which\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0024",
+  "lang": "en",
+  "cue": "por isso",
+  "context": "Choveu muito, por isso não fomos à praia.",
+  "target": "so",
+  "accept": [
+   "therefore",
+   "that's why"
+  ],
+  "gapped": "It rained a lot, ___ we didn't go to the beach.",
+  "trap": "",
+  "note": "Por isso means 'so' or 'that's why', often mid-sentence.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"so-\"",
+   "similar": "rhymes with \"go\"",
+   "lastSound": "ends with \"-so\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0025",
+  "lang": "en",
+  "cue": "portanto",
+  "context": "Pensei, portanto, que era melhor esperar.",
+  "target": "therefore",
+  "accept": [
+   "thus",
+   "consequently"
+  ],
+  "gapped": "I thought, ___, that it was better to wait.",
+  "trap": "",
+  "note": "Portanto is a logical connector meaning 'therefore' or 'so'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"there-\"",
+   "similar": "sounds like \"there for\"",
+   "lastSound": "ends with \"-fore\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0026",
+  "lang": "en",
+  "cue": "A propósito",
+  "context": "A propósito, recebeste o meu email?",
+  "target": "by the way",
+  "accept": [
+   "incidentally",
+   "speaking of which"
+  ],
+  "gapped": "___, did you receive my email?",
+  "trap": "on purpose",
+  "note": "A propósito means 'by the way'; don't confuse with 'de propósito' (on purpose).",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"by-\"",
+   "similar": "key word \"way\" rhymes with \"day\"",
+   "lastSound": "ends with \"-way\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0027",
+  "lang": "en",
+  "cue": "Se calhar",
+  "context": "Se calhar, vou ficar em casa hoje.",
+  "target": "maybe",
+  "accept": [
+   "perhaps",
+   "possibly"
+  ],
+  "gapped": "___, I'll stay home today.",
+  "trap": "",
+  "note": "Se calhar is very common in EP for 'maybe', more colloquial than 'talvez'.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"may-\"",
+   "similar": "rhymes with \"baby\"",
+   "lastSound": "ends with \"-be\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0028",
+  "lang": "en",
+  "cue": "Sem dúvida",
+  "context": "Sem dúvida, é a melhor solução.",
+  "target": "no doubt",
+  "accept": [
+   "without a doubt",
+   "undoubtedly"
+  ],
+  "gapped": "___ , it's the best solution.",
+  "trap": "",
+  "note": "Sem dúvida expresses strong certainty.",
+  "kind": "phrase",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"no-\"",
+   "similar": "'doubt' rhymes with 'out'",
+   "lastSound": "ends with \"-out\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0029",
+  "lang": "en",
+  "cue": "Sinceramente",
+  "context": "Sinceramente, não gostei do filme.",
+  "target": "honestly",
+  "accept": [
+   "frankly",
+   "to be honest",
+   "truthfully"
+  ],
+  "gapped": "___ , I didn't like the film.",
+  "trap": "sincerely",
+  "note": "Sinceramente in conversation means 'honestly', not 'sincerely'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"hon-\"",
+   "similar": "rhymes with \"modestly\"",
+   "lastSound": "ends with \"-ly\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0030",
+  "lang": "en",
+  "cue": "Talvez",
+  "context": "Talvez ele chegue mais tarde.",
+  "target": "maybe",
+  "accept": [
+   "perhaps",
+   "possibly"
+  ],
+  "gapped": "___, he'll arrive later.",
+  "trap": "",
+  "note": "Talvez is a bit more formal than 'se calhar', but both mean 'maybe'.",
+  "kind": "word",
+  "category": "conversation",
+  "pos": "adv",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"may-\"",
+   "similar": "rhymes with \"baby\"",
+   "lastSound": "ends with \"-be\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0031",
+  "lang": "en",
+  "cue": "custou os olhos da cara",
+  "context": "Este carro custou os olhos da cara, mas valeu a pena.",
+  "target": "cost an arm and a leg",
+  "accept": [
+   "cost a fortune",
+   "cost a bomb",
+   "cost the earth",
+   "cost a pretty penny"
+  ],
+  "gapped": "This car ___ , but it was worth it.",
+  "trap": "cost the eyes of the face",
+  "note": "In European Portuguese, 'custar os olhos da cara' is the standard idiom; 'os olhos da cara' literally means 'the eyes of the face'.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"cost\"",
+   "similar": "sounds like \"lost\"",
+   "lastSound": "ends with \"-eg\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0032",
+  "lang": "en",
+  "cue": "dão-se como cão e gato",
+  "context": "Os vizinhos dão-se como cão e gato.",
+  "target": "fight like cat and dog",
+  "accept": [
+   "fight like cats and dogs",
+   "be at each other's throats",
+   "be at loggerheads",
+   "be constantly bickering"
+  ],
+  "gapped": "The neighbours ___.",
+  "trap": "give themselves like dog and cat",
+  "note": "In Portuguese, 'dar-se como cão e gato' means to be constantly fighting.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"fight\"",
+   "similar": "\"cat\" rhymes with \"hat\"",
+   "lastSound": "ends with \"-dog\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0033",
+  "lang": "en",
+  "cue": "de mão beijada",
+  "context": "Recebeu o emprego de mão beijada.",
+  "target": "on a silver platter",
+  "accept": [
+   "easily",
+   "without effort",
+   "effortlessly",
+   "without lifting a finger"
+  ],
+  "gapped": "He got the job ___.",
+  "trap": "of kissed hand",
+  "note": "'De mão beijada' means something is given or obtained very easily, without effort.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "adv",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"on\"",
+   "similar": "'platter' rhymes with 'matter'",
+   "lastSound": "ends with \"-er\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0034",
+  "lang": "en",
+  "cue": "deitou água na fervura",
+  "context": "Quando a discussão aqueceu, ela deitou água na fervura.",
+  "target": "pour oil on troubled waters",
+  "accept": [
+   "calm things down",
+   "defuse the situation",
+   "take the heat out of it"
+  ],
+  "gapped": "When the discussion heated up, she ___.",
+  "trap": "throw water on the boiling",
+  "note": "Portuguese uses water to cool things; English uses oil to calm troubled waters.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"pour\"",
+   "similar": "\"oil\" rhymes with \"boil\"",
+   "lastSound": "ends with \"-waters\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0035",
+  "lang": "en",
+  "cue": "Deu com a língua nos dentes",
+  "context": "Deu com a língua nos dentes e revelou o segredo.",
+  "target": "let the cat out of the bag",
+  "accept": [
+   "spilled the beans",
+   "gave the game away",
+   "blabbed"
+  ],
+  "gapped": "He ___ and revealed the secret.",
+  "trap": "hit the tongue in the teeth",
+  "note": "'Dar com a língua nos dentes' means to reveal a secret, often unintentionally.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"let\"",
+   "similar": "'cat' rhymes with 'hat'",
+   "lastSound": "ends with \"-ag\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0036",
+  "lang": "en",
+  "cue": "é o retrato do pai",
+  "context": "O menino é o retrato do pai.",
+  "target": "be the spitting image of one's father",
+  "accept": [
+   "be the picture of one's father",
+   "be a carbon copy of one's father",
+   "be the image of one's father"
+  ],
+  "gapped": "The boy ___.",
+  "trap": "be the portrait of the father",
+  "note": "'Retrato' can mean photograph; the idiom means look exactly like someone.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"be\"",
+   "similar": "\"spitting\" sounds like \"sitting\"",
+   "lastSound": "ends with \"-father\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0037",
+  "lang": "en",
+  "cue": "estou com as mãos atadas",
+  "context": "Sem autorização, estou com as mãos atadas.",
+  "target": "have one's hands tied",
+  "accept": [
+   "be tied down",
+   "be powerless",
+   "be unable to act"
+  ],
+  "gapped": "Without authorization, I ___.",
+  "trap": "be with hands tied",
+  "note": "Same image as English.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"have\"",
+   "similar": "\"tied\" rhymes with \"wide\"",
+   "lastSound": "ends with \"-tied\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0038",
+  "lang": "en",
+  "cue": "foi a ovelha negra",
+  "context": "Na família, ele sempre foi a ovelha negra.",
+  "target": "be the black sheep",
+  "accept": [
+   "be the black sheep of the family",
+   "be the odd one out",
+   "be the family misfit"
+  ],
+  "gapped": "In the family, he was always ___.",
+  "trap": "",
+  "note": "Same as English.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"be\"",
+   "similar": "\"sheep\" rhymes with \"sleep\"",
+   "lastSound": "ends with \"-sheep\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0039",
+  "lang": "en",
+  "cue": "a mais não poder",
+  "context": "Trabalhou a mais não poder para acabar o projeto.",
+  "target": "to the max",
+  "accept": [
+   "to the utmost",
+   "as much as possible",
+   "as hard as possible",
+   "with all his might"
+  ],
+  "gapped": "He worked ___ to finish the project.",
+  "trap": "at most not to be able",
+  "note": "'A mais não poder' means doing something to the greatest possible extent.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "adv",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"to\"",
+   "similar": "sounds like \"tax\"",
+   "lastSound": "ends with \"-ax\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0040",
+  "lang": "en",
+  "cue": "à mão de semear",
+  "context": "Tenho a loja à mão de semear.",
+  "target": "at hand",
+  "accept": [
+   "within reach",
+   "close by",
+   "within easy reach",
+   "close at hand",
+   "handy"
+  ],
+  "gapped": "I have the shop ___.",
+  "trap": "at hand of sowing",
+  "note": "'À mão de semear' means something is very close or easily accessible.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "adv",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"at\"",
+   "similar": "sounds like \"band\"",
+   "lastSound": "ends with \"-and\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0041",
+  "lang": "en",
+  "cue": "meteu a viola no saco",
+  "context": "Depois da discussão, ele meteu a viola no saco.",
+  "target": "shut up",
+  "accept": [
+   "pipe down",
+   "hold one's tongue",
+   "back down",
+   "drop the subject"
+  ],
+  "gapped": "After the argument, he ___.",
+  "trap": "put the guitar in the bag",
+  "note": "'Meter a viola no saco' means to stop talking, especially to back down.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"shut\"",
+   "similar": "\"shut\" rhymes with \"but\"",
+   "lastSound": "ends with \"-up\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0042",
+  "lang": "en",
+  "cue": "ponho a mão no fogo por ela",
+  "context": "Eu ponho a mão no fogo por ela.",
+  "target": "vouch for",
+  "accept": [
+   "vouch for someone",
+   "stake one's life on someone",
+   "swear by someone"
+  ],
+  "gapped": "I ___ her.",
+  "trap": "put my hand in the fire for her",
+  "note": "Portuguese 'pôr a mão no fogo por alguém' means to vouch for someone.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"vouch\"",
+   "similar": "\"vouch\" rhymes with \"couch\"",
+   "lastSound": "ends with \"-for\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0043",
+  "lang": "en",
+  "cue": "pôr os pontos nos is",
+  "context": "Vou pôr os pontos nos is sobre este assunto.",
+  "target": "set the record straight",
+  "accept": [
+   "clarify things",
+   "put the record straight",
+   "make things clear"
+  ],
+  "gapped": "I'm going to ___ about this matter.",
+  "trap": "put the dots on the i's",
+  "note": "'Pôr os pontos nos is' means to clarify a situation, to make things clear.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"set\"",
+   "similar": "sounds like \"great\"",
+   "lastSound": "ends with \"-ight\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0044",
+  "lang": "en",
+  "cue": "quando as galinhas tiverem dentes",
+  "context": "Isso só acontece quando as galinhas tiverem dentes.",
+  "target": "when pigs fly",
+  "accept": [
+   "when hell freezes over",
+   "on a cold day in hell"
+  ],
+  "gapped": "That only happens ___.",
+  "trap": "when chickens have teeth",
+  "note": "The English equivalent is 'when pigs fly', not 'when chickens have teeth'.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"when\"",
+   "similar": "sounds like \"sky\"",
+   "lastSound": "ends with \"-y\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0045",
+  "lang": "en",
+  "cue": "são farinha do mesmo saco",
+  "context": "Os dois políticos são farinha do mesmo saco.",
+  "target": "be tarred with the same brush",
+  "accept": [
+   "be two peas in a pod",
+   "be cut from the same cloth",
+   "be birds of a feather",
+   "be two of a kind"
+  ],
+  "gapped": "The two politicians ___.",
+  "trap": "be flour from the same sack",
+  "note": "Portuguese says 'flour from the same sack'; English 'tarred with the same brush' or 'two peas in a pod'.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"be\"",
+   "similar": "\"tarred\" rhymes with \"card\"",
+   "lastSound": "ends with \"-brush\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0046",
+  "lang": "en",
+  "cue": "tem os pés assentes na terra",
+  "context": "Apesar do sucesso, ela tem os pés assentes na terra.",
+  "target": "have both feet on the ground",
+  "accept": [
+   "have one's feet on the ground",
+   "be down-to-earth",
+   "be level-headed",
+   "be grounded"
+  ],
+  "gapped": "Despite her success, she ___.",
+  "trap": "have feet assented on the ground",
+  "note": "English says 'both feet on the ground'.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"have\"",
+   "similar": "\"ground\" rhymes with \"round\"",
+   "lastSound": "ends with \"-ground\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0047",
+  "lang": "en",
+  "cue": "tem um parafuso solto",
+  "context": "Aquele professor tem um parafuso solto, fala sozinho.",
+  "target": "have a screw loose",
+  "accept": [
+   "be nuts",
+   "be crazy",
+   "be slightly crazy",
+   "have a screw missing"
+  ],
+  "gapped": "That teacher ___; he talks to himself.",
+  "trap": "have a loose screw",
+  "note": "The fixed English idiom is 'have a screw loose'.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"have\"",
+   "similar": "\"screw\" rhymes with \"too\"",
+   "lastSound": "ends with \"-loose\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0048",
+  "lang": "en",
+  "cue": "tira o cavalinho da chuva",
+  "context": "Se pensas que te vou emprestar o carro, tira o cavalinho da chuva.",
+  "target": "don't hold your breath",
+  "accept": [
+   "forget about it",
+   "forget it",
+   "get that idea out of your head"
+  ],
+  "gapped": "If you think I'm going to lend you the car, ___.",
+  "trap": "take the little horse out of the rain",
+  "note": "Used to tell someone not to expect something.",
+  "kind": "idiom",
+  "category": "expressions",
+  "pos": "other",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"don't\"",
+   "similar": "\"breath\" sounds like \"beth\"",
+   "lastSound": "ends with \"-breath\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0049",
+  "lang": "en",
+  "cue": "aliviado",
+  "context": "Fiquei aliviado quando soube que ele estava bem.",
+  "target": "relieved",
+  "accept": [
+   "reassured",
+   "comforted"
+  ],
+  "gapped": "I felt ___ when I heard he was okay.",
+  "trap": "alleviated",
+  "note": "'Aliviado' is how you feel; 'alleviated' is what happens to pain.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "rhymes with \"believed\"",
+   "lastSound": "ends with \"-ieved\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0050",
+  "lang": "en",
+  "cue": "arrependido",
+  "context": "Estou arrependido de ter dito aquilo.",
+  "target": "sorry",
+  "accept": [
+   "regretful",
+   "remorseful"
+  ],
+  "gapped": "I am ___ that I said that.",
+  "trap": "",
+  "note": "'Arrependido' is the feeling of regret; 'sorry' is the most natural English here.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sor-\"",
+   "similar": "rhymes with \"lorry\"",
+   "lastSound": "ends with \"-orry\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0051",
+  "lang": "en",
+  "cue": "assustado",
+  "context": "O cão está assustado com os fogos de artifício.",
+  "target": "frightened",
+  "accept": [
+   "scared",
+   "afraid"
+  ],
+  "gapped": "The dog is ___ of the fireworks.",
+  "trap": "",
+  "note": "Assustado is stronger than nervous; it means scared.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"fr-\"",
+   "similar": "rhymes with \"tightened\"",
+   "lastSound": "ends with \"-ened\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0052",
+  "lang": "en",
+  "cue": "chateada",
+  "context": "Ela ficou chateada com o que ele disse.",
+  "target": "upset",
+  "accept": [
+   "annoyed",
+   "bothered"
+  ],
+  "gapped": "She got ___ with what he said.",
+  "trap": "bored",
+  "note": "'Chateado' often means upset or annoyed, not just bored.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"up-\"",
+   "similar": "rhymes with \"sunset\"",
+   "lastSound": "ends with \"-set\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0053",
+  "lang": "en",
+  "cue": "ciumento",
+  "context": "Ele é muito ciumento e não gosta que ela fale com outros.",
+  "target": "jealous",
+  "accept": [
+   "possessive"
+  ],
+  "gapped": "He is very ___ and doesn't like her talking to other men.",
+  "trap": "",
+  "note": "'Ciumento' in a romantic context means jealous or possessive.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"jea-\"",
+   "similar": "rhymes with \"zealous\"",
+   "lastSound": "ends with \"-alous\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0054",
+  "lang": "en",
+  "cue": "corajoso",
+  "context": "Ele foi muito corajoso ao defender a colega.",
+  "target": "brave",
+  "accept": [
+   "courageous",
+   "bold"
+  ],
+  "gapped": "He was very ___ to defend his colleague.",
+  "trap": "",
+  "note": "Corajoso is the everyday word for brave.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"br-\"",
+   "similar": "rhymes with \"grave\"",
+   "lastSound": "ends with \"-ave\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0055",
+  "lang": "en",
+  "cue": "desconfiado",
+  "context": "Ele está sempre desconfiado de tudo e de todos.",
+  "target": "suspicious",
+  "accept": [
+   "distrustful",
+   "wary",
+   "mistrustful"
+  ],
+  "gapped": "He is always ___ of everything and everyone.",
+  "trap": "unconfident",
+  "note": "'Desconfiado' means suspicious, not lacking confidence.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"sus-\"",
+   "similar": "rhymes with \"delicious\"",
+   "lastSound": "ends with \"-icious\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0056",
+  "lang": "en",
+  "cue": "desenrascado",
+  "context": "Ele é muito desenrascado e resolve tudo sozinho.",
+  "target": "resourceful",
+  "accept": [
+   "capable",
+   "self-reliant"
+  ],
+  "gapped": "He is very ___ and solves everything on his own.",
+  "trap": "",
+  "note": "A 'desenrascado' person is good at getting out of tricky situations.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "rhymes with \"forceful\"",
+   "lastSound": "ends with \"-ful\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0057",
+  "lang": "en",
+  "cue": "deslumbrado",
+  "context": "Ficou deslumbrado com as luzes da cidade.",
+  "target": "dazzled",
+  "accept": [
+   "awestruck",
+   "overwhelmed",
+   "amazed",
+   "enchanted"
+  ],
+  "gapped": "He was ___ by the city lights.",
+  "trap": "disillusioned",
+  "note": "'Deslumbrado' is positive: dazzled or amazed, not disillusioned.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"daz-\"",
+   "similar": "rhymes with \"frazzled\"",
+   "lastSound": "ends with \"-azzled\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0058",
+  "lang": "en",
+  "cue": "distraído",
+  "context": "Estou tão distraído que nem dei pelo sinal.",
+  "target": "distracted",
+  "accept": [
+   "absent-minded",
+   "scatterbrained",
+   "inattentive"
+  ],
+  "gapped": "I'm so ___ that I didn't even notice the sign.",
+  "trap": "",
+  "note": "Distraído can mean distracted or absent-minded.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"dis-\"",
+   "similar": "sounds like \"distraught\"",
+   "lastSound": "ends with \"-ído\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0059",
+  "lang": "en",
+  "cue": "egoísta",
+  "context": "Não sejas egoísta, partilha o bolo com os teus irmãos.",
+  "target": "selfish",
+  "accept": [
+   "self-centred"
+  ],
+  "gapped": "Don't be ___, share the cake with your brothers.",
+  "trap": "egoistic",
+  "note": "Egoísta is the common word for selfish.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"e-\"",
+   "similar": "sounds like \"ego\"",
+   "lastSound": "ends with \"-ista\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0060",
+  "lang": "en",
+  "cue": "envergonhado",
+  "context": "Ele ficou envergonhado quando todos cantaram os parabéns.",
+  "target": "embarrassed",
+  "accept": [
+   "ashamed",
+   "self-conscious",
+   "sheepish"
+  ],
+  "gapped": "He got ___ when everyone sang happy birthday.",
+  "trap": "shameful",
+  "note": "'Envergonhado' is the feeling; 'shameful' is the cause.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"em-\"",
+   "similar": "rhymes with \"harassed\"",
+   "lastSound": "ends with \"-assed\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0061",
+  "lang": "en",
+  "cue": "estou com a cabeça no ar",
+  "context": "Estou com a cabeça no ar e esqueci-me das chaves outra vez.",
+  "target": "be distracted",
+  "accept": [
+   "have one's head in the clouds",
+   "be absent-minded",
+   "be scatterbrained"
+  ],
+  "gapped": "I ___ and forgot my keys again.",
+  "trap": "have the head in the air",
+  "note": "This means you are distracted or not paying attention.",
+  "kind": "idiom",
+  "category": "feelings",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"be-\"",
+   "similar": "rhymes with \"acted\"",
+   "lastSound": "ends with \"-acted\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0062",
+  "lang": "en",
+  "cue": "estou de pé atrás",
+  "context": "Estou de pé atrás com essa proposta; parece boa demais.",
+  "target": "be wary",
+  "accept": [
+   "be cautious",
+   "have reservations",
+   "be suspicious"
+  ],
+  "gapped": "I ___ about that proposal; it seems too good to be true.",
+  "trap": "be standing back",
+  "note": "'De pé atrás' means to be on your guard or have reservations.",
+  "kind": "idiom",
+  "category": "feelings",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"be-\"",
+   "similar": "rhymes with \"hairy\"",
+   "lastSound": "ends with \"-ary\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0063",
+  "lang": "en",
+  "cue": "estou em baixo",
+  "context": "Estou em baixo desde que perdi o emprego.",
+  "target": "feel down",
+  "accept": [
+   "be down",
+   "feel blue",
+   "feel low"
+  ],
+  "gapped": "I ___ since I lost my job.",
+  "trap": "",
+  "note": "'Em baixo' means feeling depressed, not physically low.",
+  "kind": "phrase",
+  "category": "feelings",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"fee-\"",
+   "similar": "rhymes with \"town\"",
+   "lastSound": "ends with \"-own\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0064",
+  "lang": "en",
+  "cue": "estou em pulgas",
+  "context": "Estou em pulgas para que cheguem as férias.",
+  "target": "be restless",
+  "accept": [
+   "be eager",
+   "be itching for",
+   "be dying for"
+  ],
+  "gapped": "I ___ for the holidays to arrive.",
+  "trap": "be in fleas",
+  "note": "'Estar em pulgas' means to be very eager or restless.",
+  "kind": "idiom",
+  "category": "feelings",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"be-\"",
+   "similar": "sounds like \"rest\"",
+   "lastSound": "ends with \"-less\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0065",
+  "lang": "en",
+  "cue": "estou farto",
+  "context": "Estou farto de ouvir sempre a mesma história.",
+  "target": "be fed up",
+  "accept": [
+   "be sick and tired",
+   "be tired of",
+   "have had enough"
+  ],
+  "gapped": "I ___ of hearing the same story over and over.",
+  "trap": "be full",
+  "note": "'Farto' here means fed up, not full (which is 'cheio').",
+  "kind": "phrase",
+  "category": "feelings",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"be-\"",
+   "similar": "rhymes with \"bed\"",
+   "lastSound": "ends with \"-up\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0066",
+  "lang": "en",
+  "cue": "humilde",
+  "context": "Apesar do sucesso, ele continua humilde.",
+  "target": "humble",
+  "accept": [
+   "modest",
+   "unassuming"
+  ],
+  "gapped": "Despite his success, he remains ___.",
+  "trap": "",
+  "note": "Humilde is like humble; it can also mean modest.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"hu-\"",
+   "similar": "sounds like \"humid\"",
+   "lastSound": "ends with \"-ilde\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0067",
+  "lang": "en",
+  "cue": "invejosa",
+  "context": "Ela está invejosa porque a amiga comprou um carro novo.",
+  "target": "envious",
+  "accept": [
+   "jealous"
+  ],
+  "gapped": "She is ___ because her friend bought a new car.",
+  "trap": "invidious",
+  "note": "'Invejoso' is envious; 'invidious' means unpleasant or unfair.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"en-\"",
+   "similar": "rhymes with \"devious\"",
+   "lastSound": "ends with \"-ious\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0068",
+  "lang": "en",
+  "cue": "medroso",
+  "context": "O cão é medroso e esconde-se quando há trovões.",
+  "target": "fearful",
+  "accept": [
+   "scared",
+   "timid",
+   "cowardly",
+   "skittish"
+  ],
+  "gapped": "The dog is ___ and hides when there is thunder.",
+  "trap": "",
+  "note": "'Medroso' describes someone who is easily scared.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"fear-\"",
+   "similar": "rhymes with \"cheerful\"",
+   "lastSound": "ends with \"-ful\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0069",
+  "lang": "en",
+  "cue": "mesquinho",
+  "context": "Ele é tão mesquinho que nunca paga nada a ninguém.",
+  "target": "stingy",
+  "accept": [
+   "mean",
+   "cheap",
+   "miserly",
+   "tight-fisted"
+  ],
+  "gapped": "He is so ___ that he never pays for anything for anyone.",
+  "trap": "",
+  "note": "'Mesquinho' can mean stingy with money or petty in character.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"stin-\"",
+   "similar": "rhymes with \"dingy\"",
+   "lastSound": "ends with \"-ingy\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0070",
+  "lang": "en",
+  "cue": "nervoso",
+  "context": "Estou nervoso por causa da entrevista de amanhã.",
+  "target": "nervous",
+  "accept": [
+   "anxious",
+   "on edge"
+  ],
+  "gapped": "I'm ___ about tomorrow's interview.",
+  "trap": "",
+  "note": "Nervoso can mean nervous or annoyed, depending on context.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"ner-\"",
+   "similar": "sounds like \"nerves\"",
+   "lastSound": "ends with \"-ous\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0071",
+  "lang": "en",
+  "cue": "orgulhoso",
+  "context": "Estou orgulhoso do que conseguiste alcançar.",
+  "target": "proud",
+  "accept": [],
+  "gapped": "I am ___ of what you managed to achieve.",
+  "trap": "",
+  "note": "'Orgulhoso' is usually positive, but can mean arrogant in some contexts.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"pr-\"",
+   "similar": "rhymes with \"loud\"",
+   "lastSound": "ends with \"-oud\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0072",
+  "lang": "en",
+  "cue": "preguiçoso",
+  "context": "Ele é preguiçoso e passa o dia inteiro no sofá.",
+  "target": "lazy",
+  "accept": [
+   "idle",
+   "slothful"
+  ],
+  "gapped": "He is ___ and spends the whole day on the sofa.",
+  "trap": "",
+  "note": "'Preguiçoso' comes from 'preguiça', which means laziness (and also sloth the animal).",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"la-\"",
+   "similar": "rhymes with \"crazy\"",
+   "lastSound": "ends with \"-azy\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0073",
+  "lang": "en",
+  "cue": "simpática",
+  "context": "A nova vizinha é muito simpática e ajudou-me logo.",
+  "target": "nice",
+  "accept": [
+   "kind",
+   "friendly",
+   "likeable"
+  ],
+  "gapped": "The new neighbour is very ___ and helped me right away.",
+  "trap": "sympathetic",
+  "note": "'Simpático' means nice or friendly, not sympathetic (which is 'solidário' or 'compadecido').",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"ni-\"",
+   "similar": "rhymes with \"ice\"",
+   "lastSound": "ends with \"-ice\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0074",
+  "lang": "en",
+  "cue": "surpreendido",
+  "context": "Fiquei surpreendido quando eles apareceram sem avisar.",
+  "target": "surprised",
+  "accept": [
+   "astonished",
+   "amazed",
+   "taken aback"
+  ],
+  "gapped": "I was ___ when they showed up without warning.",
+  "trap": "",
+  "note": "Surpreendido is the regular word for surprised.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"sur-\"",
+   "similar": "sounds like \"surmised\"",
+   "lastSound": "ends with \"-ised\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0075",
+  "lang": "en",
+  "cue": "teimoso",
+  "context": "O meu irmão é muito teimoso e nunca dá o braço a torcer.",
+  "target": "stubborn",
+  "accept": [
+   "headstrong",
+   "obstinate",
+   "pig-headed"
+  ],
+  "gapped": "My brother is very ___ and never gives in.",
+  "trap": "",
+  "note": "A 'teimoso' person refuses to change their mind.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"stub-\"",
+   "similar": "sounds like \"stub\"",
+   "lastSound": "ends with \"-orn\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0076",
+  "lang": "en",
+  "cue": "tem um coração de ouro",
+  "context": "Ela tem um coração de ouro e ajuda todos os vizinhos.",
+  "target": "have a heart of gold",
+  "accept": [],
+  "gapped": "She ___ and helps all the neighbours.",
+  "trap": "",
+  "note": "Same idiom in English: a heart of gold.",
+  "kind": "idiom",
+  "category": "feelings",
+  "pos": "verb",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"have-\"",
+   "similar": "rhymes with \"bold\"",
+   "lastSound": "ends with \"-old\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0077",
+  "lang": "en",
+  "cue": "tímido",
+  "context": "O menino é tímido e não fala com estranhos.",
+  "target": "shy",
+  "accept": [
+   "timid",
+   "bashful"
+  ],
+  "gapped": "The boy is ___ and doesn't talk to strangers.",
+  "trap": "",
+  "note": "Tímido is the usual word for shy; timid is more formal.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"ti-\"",
+   "similar": "sounds like \"intimidate\"",
+   "lastSound": "ends with \"-mido\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0078",
+  "lang": "en",
+  "cue": "zangado",
+  "context": "Ele ficou zangado comigo porque cheguei tarde.",
+  "target": "angry",
+  "accept": [
+   "cross",
+   "annoyed"
+  ],
+  "gapped": "He got ___ with me because I arrived late.",
+  "trap": "",
+  "note": "Zangado is the everyday word for angry in Portugal.",
+  "kind": "word",
+  "category": "feelings",
+  "pos": "adj",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"an-\"",
+   "similar": "rhymes with \"hungry\"",
+   "lastSound": "ends with \"-gry\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0079",
+  "lang": "en",
+  "cue": "autoclismo",
+  "context": "Puxa o autoclismo depois de usares a sanita.",
+  "target": "flush",
+  "accept": [
+   "toilet flush",
+   "chain"
+  ],
+  "gapped": "Pull the ___ after using the toilet.",
+  "trap": "",
+  "note": "Autoclismo is the flush mechanism; the verb is 'puxar o autoclismo'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"fl-\"",
+   "similar": "rhymes with \"rush\"",
+   "lastSound": "ends with \"-ush\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0080",
+  "lang": "en",
+  "cue": "balde",
+  "context": "Enche o balde de água para lavar o chão.",
+  "target": "bucket",
+  "accept": [
+   "pail"
+  ],
+  "gapped": "Fill the ___ with water to wash the floor.",
+  "trap": "",
+  "note": "Balde is a bucket.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"bu-\"",
+   "similar": "sounds like \"bucked\"",
+   "lastSound": "ends in \"-et\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0081",
+  "lang": "en",
+  "cue": "berbequim",
+  "context": "Vou usar o berbequim para fazer um buraco na parede.",
+  "target": "drill",
+  "accept": [
+   "power drill",
+   "electric drill"
+  ],
+  "gapped": "I'm going to use the ___ to make a hole in the wall.",
+  "trap": "",
+  "note": "Berbequim is the electric drill; the drill bit is 'broca'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"ber-\"",
+   "similar": "sounds like \"bear\"",
+   "lastSound": "ends in \"-eem\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0082",
+  "lang": "en",
+  "cue": "caixa de ferramentas",
+  "context": "O martelo está na caixa de ferramentas.",
+  "target": "toolbox",
+  "accept": [
+   "tool box",
+   "tool chest",
+   "tool case"
+  ],
+  "gapped": "The hammer is in the ___.",
+  "trap": "box of tools",
+  "note": "Caixa de ferramentas is a toolbox.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"tool-\"",
+   "similar": "rhymes with \"fox\"",
+   "lastSound": "ends with \"-ox\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0083",
+  "lang": "en",
+  "cue": "chave de fendas",
+  "context": "Passa-me a chave de fendas para abrir esta tampa.",
+  "target": "screwdriver",
+  "accept": [],
+  "gapped": "Pass me the ___ to open this lid.",
+  "trap": "key of cracks",
+  "note": "Chave de fendas is a screwdriver; 'chave' alone is a key.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"screw-\"",
+   "similar": "sounds like \"skew\"",
+   "lastSound": "ends in \"-er\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0084",
+  "lang": "en",
+  "cue": "chave inglesa",
+  "context": "Aperta a porca com a chave inglesa.",
+  "target": "adjustable wrench",
+  "accept": [
+   "wrench",
+   "spanner",
+   "adjustable spanner"
+  ],
+  "gapped": "Tighten the nut with the ___.",
+  "trap": "English key",
+  "note": "Chave inglesa is an adjustable wrench; 'chave de fendas' is a screwdriver.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"ad-\"",
+   "similar": "sounds like \"wench\"",
+   "lastSound": "ends in \"-ench\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0085",
+  "lang": "en",
+  "cue": "chuveiro",
+  "context": "O chuveiro está a perder água.",
+  "target": "shower",
+  "accept": [
+   "shower head",
+   "showerhead"
+  ],
+  "gapped": "The ___ is leaking water.",
+  "trap": "chauffeur",
+  "note": "Chuveiro is the shower (fixture); the act of showering is 'duche'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sh-\"",
+   "similar": "rhymes with \"flower\"",
+   "lastSound": "ends with \"-er\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0086",
+  "lang": "en",
+  "cue": "copo",
+  "context": "Bebe um copo de água antes de sair.",
+  "target": "glass",
+  "accept": [
+   "drinking glass"
+  ],
+  "gapped": "Drink a ___ of water before going out.",
+  "trap": "cup",
+  "note": "Copo is a glass; a cup is 'chávena' or 'caneca'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"gl-\"",
+   "similar": "rhymes with \"class\"",
+   "lastSound": "ends with \"-ass\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0087",
+  "lang": "en",
+  "cue": "dobradiça",
+  "context": "A porta range porque a dobradiça está enferrujada.",
+  "target": "hinge",
+  "accept": [],
+  "gapped": "The door creaks because the ___ is rusty.",
+  "trap": "",
+  "note": "Dobradiça is the metal hinge, not a door handle.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"do-\"",
+   "similar": "sounds like \"dough\"",
+   "lastSound": "ends in \"-issa\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0088",
+  "lang": "en",
+  "cue": "escova de dentes",
+  "context": "Comprei uma escova de dentes nova.",
+  "target": "toothbrush",
+  "accept": [],
+  "gapped": "I bought a new ___.",
+  "trap": "teeth brush",
+  "note": "Escova de dentes is a toothbrush.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"tooth-\"",
+   "similar": "rhymes with \"flush\"",
+   "lastSound": "ends with \"-ush\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0089",
+  "lang": "en",
+  "cue": "esfregona",
+  "context": "A esfregona está no balde, ao lado da porta.",
+  "target": "mop",
+  "accept": [],
+  "gapped": "The ___ is in the bucket, next to the door.",
+  "trap": "",
+  "note": "Esfregona is a mop; 'esfregar' means to scrub.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"es-\"",
+   "similar": "sounds like \"gonna\"",
+   "lastSound": "ends in \"-ona\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0090",
+  "lang": "en",
+  "cue": "estendal",
+  "context": "Estendi a roupa no estendal porque está sol.",
+  "target": "clothesline",
+  "accept": [
+   "washing line"
+  ],
+  "gapped": "I hung the clothes on the ___ because it's sunny.",
+  "trap": "",
+  "note": "Estendal is a clothesline; 'estender' means to hang out (clothes).",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"es-\"",
+   "similar": "sounds like \"doll\"",
+   "lastSound": "ends in \"-al\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0091",
+  "lang": "en",
+  "cue": "fita adesiva",
+  "context": "Preciso de fita adesiva para embrulhar o presente.",
+  "target": "sticky tape",
+  "accept": [
+   "adhesive tape",
+   "Sellotape",
+   "Scotch tape"
+  ],
+  "gapped": "I need ___ to wrap the present.",
+  "trap": "metric tape",
+  "note": "Fita adesiva is adhesive tape; 'fita métrica' is a measuring tape.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"sti-\"",
+   "similar": "rhymes with \"picky\"",
+   "lastSound": "ends with \"-ape\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0092",
+  "lang": "en",
+  "cue": "fita métrica",
+  "context": "Usa a fita métrica para medir a parede.",
+  "target": "measuring tape",
+  "accept": [
+   "tape measure"
+  ],
+  "gapped": "Use the ___ to measure the wall.",
+  "trap": "metric tape",
+  "note": "Fita métrica is a measuring tape.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"meas-\"",
+   "similar": "sounds like \"tap\"",
+   "lastSound": "ends in \"-ape\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0093",
+  "lang": "en",
+  "cue": "frigideira",
+  "context": "A frigideira está ao lume com azeite.",
+  "target": "frying pan",
+  "accept": [],
+  "gapped": "The ___ is on the heat with oil.",
+  "trap": "fridge",
+  "note": "Frigideira is a frying pan, not a fridge ('frigorífico').",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"fry-\"",
+   "similar": "rhymes with \"crying\"",
+   "lastSound": "ends with \"-an\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0094",
+  "lang": "en",
+  "cue": "garfo",
+  "context": "Põe o garfo do lado esquerdo do prato.",
+  "target": "fork",
+  "accept": [],
+  "gapped": "Put the ___ on the left side of the plate.",
+  "trap": "",
+  "note": "Garfo is a fork; not to be confused with 'garra' (claw).",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"f\"",
+   "similar": "rhymes with \"pork\"",
+   "lastSound": "ends with \"-ork\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0095",
+  "lang": "en",
+  "cue": "lâmpada",
+  "context": "A lâmpada da cozinha fundiu.",
+  "target": "light bulb",
+  "accept": [
+   "bulb",
+   "lightbulb"
+  ],
+  "gapped": "The kitchen ___ has blown.",
+  "trap": "lamp",
+  "note": "Lâmpada is a light bulb; the lamp is 'candeeiro'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"li-\"",
+   "similar": "sounds like \"bull\"",
+   "lastSound": "ends in \"-ulb\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0096",
+  "lang": "en",
+  "cue": "lixa",
+  "context": "Usa a lixa na madeira antes de pintar.",
+  "target": "sandpaper",
+  "accept": [],
+  "gapped": "Use the ___ on the wood before painting.",
+  "trap": "",
+  "note": "Lixa is sandpaper; the verb is 'lixar'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"li-\"",
+   "similar": "sounds like \"leash\"",
+   "lastSound": "ends in \"-sha\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0097",
+  "lang": "en",
+  "cue": "máquina de lavar a roupa",
+  "context": "A máquina de lavar a roupa está avariada.",
+  "target": "washing machine",
+  "accept": [],
+  "gapped": "The ___ is broken.",
+  "trap": "machine of washing the clothes",
+  "note": "Máquina de lavar a roupa is the washing machine; 'máquina de lavar a louça' is the dishwasher.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"wash-\"",
+   "similar": "sounds like \"sheen\"",
+   "lastSound": "ends in \"-een\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0098",
+  "lang": "en",
+  "cue": "nível",
+  "context": "Usa o nível para pendurar o quadro direito.",
+  "target": "spirit level",
+  "accept": [
+   "level",
+   "bubble level"
+  ],
+  "gapped": "Use the ___ to hang the picture straight.",
+  "trap": "",
+  "note": "Nível is a spirit level; also means level (as in height).",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"spi-\"",
+   "similar": "rhymes with \"devil\"",
+   "lastSound": "ends with \"-el\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0099",
+  "lang": "en",
+  "cue": "panela",
+  "context": "Pus a sopa na panela e deixei ferver.",
+  "target": "pot",
+  "accept": [
+   "cooking pot"
+  ],
+  "gapped": "I put the soup in the ___ and let it boil.",
+  "trap": "pan",
+  "note": "Panela is a pot, not a pan; a pan is 'frigideira' or 'tacho'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"p\"",
+   "similar": "rhymes with \"hot\"",
+   "lastSound": "ends with \"-ot\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0100",
+  "lang": "en",
+  "cue": "pano da louça",
+  "context": "Limpa os pratos com o pano da louça.",
+  "target": "dish towel",
+  "accept": [
+   "tea towel",
+   "drying-up cloth"
+  ],
+  "gapped": "Wipe the plates with the ___.",
+  "trap": "dish cloth",
+  "note": "Pano da louça is a dish towel; 'pano de cozinha' is also used.",
+  "kind": "phrase",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"dish-\"",
+   "similar": "rhymes with \"fish\"",
+   "lastSound": "ends with \"-el\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0101",
+  "lang": "en",
+  "cue": "ralador",
+  "context": "Ralei o queijo com o ralador novo.",
+  "target": "grater",
+  "accept": [],
+  "gapped": "I grated the cheese with the new ___.",
+  "trap": "",
+  "note": "Ralador comes from 'ralar' (to grate).",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"ra-\"",
+   "similar": "sounds like \"door\"",
+   "lastSound": "ends in \"-or\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0102",
+  "lang": "en",
+  "cue": "saca-rolhas",
+  "context": "Preciso do saca-rolhas para abrir o vinho.",
+  "target": "corkscrew",
+  "accept": [],
+  "gapped": "I need the ___ to open the wine.",
+  "trap": "",
+  "note": "Saca-rolhas literally 'takes corks'.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sa-\"",
+   "similar": "sounds like \"sack\"",
+   "lastSound": "ends in \"-ol-yas\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0103",
+  "lang": "en",
+  "cue": "sanita",
+  "context": "A sanita está entupida outra vez.",
+  "target": "toilet",
+  "accept": [
+   "toilet bowl",
+   "WC",
+   "loo"
+  ],
+  "gapped": "The ___ is clogged again.",
+  "trap": "sanitary",
+  "note": "Sanita is the toilet; 'casa de banho' is the bathroom.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"toi-\"",
+   "similar": "sounds like \"toil\"",
+   "lastSound": "ends with \"-let\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0104",
+  "lang": "en",
+  "cue": "serrote",
+  "context": "Usei o serrote para cortar a tábua.",
+  "target": "saw",
+  "accept": [
+   "hand saw",
+   "handsaw"
+  ],
+  "gapped": "I used the ___ to cut the board.",
+  "trap": "serrated",
+  "note": "Serrote is a hand saw; 'serra' is a saw in general (including electric).",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"s\"",
+   "similar": "rhymes with \"law\"",
+   "lastSound": "ends with \"-aw\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0105",
+  "lang": "en",
+  "cue": "tacho",
+  "context": "Deixei o tacho no fogão a ferver.",
+  "target": "saucepan",
+  "accept": [
+   "pan"
+  ],
+  "gapped": "I left the ___ on the stove boiling.",
+  "trap": "tackle",
+  "note": "Tacho is a saucepan; a 'panela' is a larger pot.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sau-\"",
+   "similar": "rhymes with \"can\"",
+   "lastSound": "ends with \"-an\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0106",
+  "lang": "en",
+  "cue": "tigela",
+  "context": "Come a sopa na tigela de cerâmica.",
+  "target": "bowl",
+  "accept": [
+   "soup bowl"
+  ],
+  "gapped": "Eat the soup in the ceramic ___.",
+  "trap": "",
+  "note": "Tigela is a bowl, usually for soup or cereal.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"b\"",
+   "similar": "rhymes with \"goal\"",
+   "lastSound": "ends with \"-owl\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0107",
+  "lang": "en",
+  "cue": "torneira",
+  "context": "Fecha a torneira, a água está a correr.",
+  "target": "tap",
+  "accept": [
+   "faucet"
+  ],
+  "gapped": "Turn off the ___, the water is running.",
+  "trap": "",
+  "note": "Torneira is the tap/faucet; in the UK, 'tap' is more common.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"tor-\"",
+   "similar": "sounds like \"torn\"",
+   "lastSound": "ends in \"-ayra\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0108",
+  "lang": "en",
+  "cue": "vassoura",
+  "context": "Vou varrer o chão com a vassoura nova.",
+  "target": "broom",
+  "accept": [],
+  "gapped": "I'm going to sweep the floor with the new ___.",
+  "trap": "",
+  "note": "Vassoura is a broom; 'varrer' is to sweep.",
+  "kind": "word",
+  "category": "household-tools",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"vas-\"",
+   "similar": "sounds like \"sore\"",
+   "lastSound": "ends in \"-ora\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0109",
+  "lang": "en",
+  "cue": "acabei de",
+  "context": "Acabei de receber o teu email.",
+  "target": "have just",
+  "accept": [
+   "just",
+   "only just",
+   "have only just"
+  ],
+  "gapped": "I ___ received your email.",
+  "trap": "",
+  "note": "'Acabar de' + infinitive means to have just done something; it does not mean to finish.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"ha-\"",
+   "similar": "\"just\" rhymes with \"dust\"",
+   "lastSound": "ends with \"-ust\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0110",
+  "lang": "en",
+  "cue": "apetecia-me",
+  "context": "Apetecia-me um café agora.",
+  "target": "fancy",
+  "accept": [
+   "feel like",
+   "be in the mood for"
+  ],
+  "gapped": "I ___ a coffee right now.",
+  "trap": "appetise",
+  "note": "apetecer is British \"to fancy\"; don't confuse the verb with the noun appetite.",
+  "kind": "word",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"fan-\"",
+   "similar": "rhymes with \"pansy\"",
+   "lastSound": "ends in \"-ancy\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0111",
+  "lang": "en",
+  "cue": "arranjar",
+  "context": "Consegui arranjar um trabalho novo em Lisboa.",
+  "target": "get",
+  "accept": [
+   "find",
+   "land",
+   "obtain"
+  ],
+  "gapped": "I managed to ___ a new job in Lisbon.",
+  "trap": "arrange",
+  "note": "'Arranjar' means to get, find or fix; 'to arrange' is 'combinar' or 'organizar'.",
+  "kind": "word",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"g-\"",
+   "similar": "rhymes with \"bet\"",
+   "lastSound": "ends with \"-et\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0112",
+  "lang": "en",
+  "cue": "arrependi-me",
+  "context": "Arrependi-me de não ter aceitado o trabalho.",
+  "target": "regret",
+  "accept": [],
+  "gapped": "I ___ not taking the job.",
+  "trap": "repent",
+  "note": "arrepender-se is everyday \"regret\"; \"repent\" sounds religious in English.",
+  "kind": "word",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "rhymes with \"forget\"",
+   "lastSound": "ends in \"-et\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0113",
+  "lang": "en",
+  "cue": "contar com",
+  "context": "Podes contar comigo para o que precisares.",
+  "target": "count on",
+  "accept": [
+   "rely on",
+   "depend on"
+  ],
+  "gapped": "You can ___ me for whatever you need.",
+  "trap": "count with",
+  "note": "Portuguese uses com, English uses on: count on someone.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"count\"",
+   "similar": "the key word \"on\" rhymes with \"gone\"",
+   "lastSound": "ends in \"-on\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0114",
+  "lang": "en",
+  "cue": "dá uma vista de olhos",
+  "context": "Dá uma vista de olhos a este relatório, por favor.",
+  "target": "have a look",
+  "accept": [
+   "take a look",
+   "glance"
+  ],
+  "gapped": "___ at this report, please.",
+  "trap": "",
+  "note": "'Uma vista de olhos' is a quick look; 'vista' here does not mean view or eyesight.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"ha-\"",
+   "similar": "\"look\" rhymes with \"book\"",
+   "lastSound": "ends with \"-ook\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0115",
+  "lang": "en",
+  "cue": "dar conta de",
+  "context": "É fácil não dar conta de um erro destes.",
+  "target": "notice",
+  "accept": [
+   "realise",
+   "become aware of"
+  ],
+  "gapped": "It's easy not to ___ a mistake like this.",
+  "trap": "give account of",
+  "note": "dar conta de here means to notice or realise, not to give an account.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"no-\"",
+   "similar": "sounds like \"no, this\"",
+   "lastSound": "ends in \"-ice\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0116",
+  "lang": "en",
+  "cue": "dar jeito",
+  "context": "Guarda o recibo, pode dar jeito mais tarde.",
+  "target": "come in handy",
+  "accept": [
+   "be useful",
+   "be handy",
+   "come in useful"
+  ],
+  "gapped": "Keep the receipt, it might ___ later.",
+  "trap": "give a trick",
+  "note": "dar jeito means to be convenient or useful; there is no trick and no gift involved.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"come\"",
+   "similar": "the key word \"handy\" sounds like \"candy\"",
+   "lastSound": "ends in \"-andy\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0117",
+  "lang": "en",
+  "cue": "dar uma mão",
+  "context": "Podes dar uma mão com as compras?",
+  "target": "give a hand",
+  "accept": [
+   "lend a hand",
+   "help out"
+  ],
+  "gapped": "Could you ___ with the shopping?",
+  "trap": "",
+  "note": "Portuguese gives a hand, English can give or lend one — same idea.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"give\"",
+   "similar": "the key word \"hand\" rhymes with \"land\"",
+   "lastSound": "ends in \"-and\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0118",
+  "lang": "en",
+  "cue": "deixar de",
+  "context": "Ele quer deixar de fumar este ano.",
+  "target": "stop",
+  "accept": [
+   "give up",
+   "quit"
+  ],
+  "gapped": "He wants to ___ smoking this year.",
+  "trap": "leave of",
+  "note": "deixar de + infinitive means to stop doing something, not to leave.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sto-\"",
+   "similar": "rhymes with \"hop\"",
+   "lastSound": "ends in \"-op\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0119",
+  "lang": "en",
+  "cue": "desenrasca-se",
+  "context": "Ele desenrasca-se bem em qualquer situação.",
+  "target": "manage",
+  "accept": [
+   "get by",
+   "cope"
+  ],
+  "gapped": "He ___ well in any situation.",
+  "trap": "untangle yourself",
+  "note": "desenrascar-se is the very Portuguese art of getting by with what you have.",
+  "kind": "word",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"man-\"",
+   "similar": "sounds like \"damage\"",
+   "lastSound": "ends in \"-age\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0120",
+  "lang": "en",
+  "cue": "dou-me bem com",
+  "context": "Dou-me bem com os meus colegas de trabalho.",
+  "target": "get on well with",
+  "accept": [
+   "get along with",
+   "be on good terms with"
+  ],
+  "gapped": "I ___ my work colleagues.",
+  "trap": "give myself well with",
+  "note": "dar-se bem com is to get on well with someone; the reflexive is obligatory.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"get\"",
+   "similar": "the key word \"well\" rhymes with \"bell\"",
+   "lastSound": "ends in \"with\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0121",
+  "lang": "en",
+  "cue": "esqueci-me de",
+  "context": "Esqueci-me de comprar pão.",
+  "target": "forget",
+  "accept": [],
+  "gapped": "I ___ to buy bread.",
+  "trap": "forget of",
+  "note": "Portuguese forgets \"of\" things; English forgets them directly.",
+  "kind": "word",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"for-\"",
+   "similar": "rhymes with \"get\"",
+   "lastSound": "ends in \"-et\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0122",
+  "lang": "en",
+  "cue": "está para",
+  "context": "Ele está para chegar de um momento para o outro.",
+  "target": "be about to",
+  "accept": [
+   "be due to"
+  ],
+  "gapped": "He ___ arrive at any moment.",
+  "trap": "be for",
+  "note": "estar para + infinitive marks the immediate future: to be about to.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"be\"",
+   "similar": "the key word \"about\" rhymes with \"shout\"",
+   "lastSound": "ends in \"-to\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0123",
+  "lang": "en",
+  "cue": "faz de conta",
+  "context": "Faz de conta que não viste nada.",
+  "target": "pretend",
+  "accept": [
+   "make believe",
+   "act as if"
+  ],
+  "gapped": "___ you didn't see anything.",
+  "trap": "make account",
+  "note": "faz de conta is the children's formula for let's pretend.",
+  "kind": "idiom",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"pre-\"",
+   "similar": "rhymes with \"send\"",
+   "lastSound": "ends in \"-end\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0124",
+  "lang": "en",
+  "cue": "faz questão",
+  "context": "Ela faz questão de pagar o jantar.",
+  "target": "insist",
+  "accept": [
+   "make a point of"
+  ],
+  "gapped": "They always ___ on paying for dinner.",
+  "trap": "make question",
+  "note": "fazer questão de is stronger than wanting: you insist on it.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"in-\"",
+   "similar": "rhymes with \"consist\"",
+   "lastSound": "ends in \"-sist\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0125",
+  "lang": "en",
+  "cue": "faz sentido",
+  "context": "Essa explicação não faz sentido nenhum.",
+  "target": "make sense",
+  "accept": [
+   "add up",
+   "hold water",
+   "make any sense"
+  ],
+  "gapped": "That explanation doesn't ___ at all.",
+  "trap": "",
+  "note": "'Fazer sentido' matches English 'to make sense', but the verb is 'fazer', not 'ter'.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"ma-\"",
+   "similar": "\"sense\" sounds like \"cents\"",
+   "lastSound": "ends with \"-ense\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0126",
+  "lang": "en",
+  "cue": "ficar com",
+  "context": "Podes ficar com a bicicleta, já não a uso.",
+  "target": "keep",
+  "accept": [
+   "hold on to"
+  ],
+  "gapped": "You can ___ the bike, I don't use it any more.",
+  "trap": "stay with",
+  "note": "ficar com something is to keep it, not to stay with a person.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"kee-\"",
+   "similar": "rhymes with \"deep\"",
+   "lastSound": "ends in \"-eep\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0127",
+  "lang": "en",
+  "cue": "pôr mãos à obra",
+  "context": "Vamos pôr mãos à obra antes que seja tarde.",
+  "target": "get down to work",
+  "accept": [
+   "get to work",
+   "get cracking",
+   "set to work",
+   "start working"
+  ],
+  "gapped": "Let's ___ before it gets too late.",
+  "trap": "",
+  "note": "'Pôr mãos à obra' literally 'to put hands to the work' means to get down to it.",
+  "kind": "idiom",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"g-\"",
+   "similar": "\"work\" sounds like \"lurk\"",
+   "lastSound": "ends with \"-ork\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0128",
+  "lang": "en",
+  "cue": "pôr os pontos nos iis",
+  "context": "Na reunião, vou pôr os pontos nos iis.",
+  "target": "set the record straight",
+  "accept": [
+   "clarify matters",
+   "spell things out",
+   "get things straight",
+   "clarify things",
+   "set things straight",
+   "clear things up"
+  ],
+  "gapped": "At the meeting, I'm going to ___.",
+  "trap": "",
+  "note": "'Pôr os pontos nos iis' is to spell things out clearly and end any confusion.",
+  "kind": "idiom",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"se-\"",
+   "similar": "\"straight\" rhymes with \"eight\"",
+   "lastSound": "ends with \"-ight\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0129",
+  "lang": "en",
+  "cue": "pôs-se a",
+  "context": "Pôs-se a rir sem razão nenhuma.",
+  "target": "start",
+  "accept": [
+   "begin",
+   "burst out"
+  ],
+  "gapped": "She ___ laughing for no reason.",
+  "trap": "put herself to",
+  "note": "pôr-se a + infinitive means to burst into doing something; the reflexive is essential.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"sta-\"",
+   "similar": "rhymes with \"cart\"",
+   "lastSound": "ends in \"-art\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0130",
+  "lang": "en",
+  "cue": "pretendo",
+  "context": "Pretendo mudar de casa no próximo ano.",
+  "target": "intend",
+  "accept": [
+   "plan",
+   "aim",
+   "mean"
+  ],
+  "gapped": "I ___ to move house next year.",
+  "trap": "pretend",
+  "note": "'Pretender' means to intend or plan; 'to pretend' is 'fingir'.",
+  "kind": "word",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"in-\"",
+   "similar": "rhymes with \"mend\"",
+   "lastSound": "ends with \"-end\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0131",
+  "lang": "en",
+  "cue": "pusemo-nos a caminho",
+  "context": "Pusemo-nos a caminho às seis da manhã.",
+  "target": "set off",
+  "accept": [
+   "set out",
+   "get going",
+   "hit the road"
+  ],
+  "gapped": "We ___ at six in the morning.",
+  "trap": "put ourselves on the way",
+  "note": "pôr-se a caminho is to set off on a journey.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"set\"",
+   "similar": "the key word \"set\" rhymes with \"bet\"",
+   "lastSound": "ends in \"-off\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0132",
+  "lang": "en",
+  "cue": "reparei",
+  "context": "Reparei que ela estava com um ar cansado.",
+  "target": "notice",
+  "accept": [
+   "spot"
+  ],
+  "gapped": "I ___ that she looked tired.",
+  "trap": "repair",
+  "note": "'Reparar' normally means to notice; 'to repair' is usually 'arranjar'.",
+  "kind": "word",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"no-\"",
+   "similar": "rhymes with \"lotus\"",
+   "lastSound": "ends with \"-ice\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0133",
+  "lang": "en",
+  "cue": "tem a ver com",
+  "context": "O teu problema tem a ver com a alimentação.",
+  "target": "have to do with",
+  "accept": [
+   "be related to",
+   "be to do with"
+  ],
+  "gapped": "Your problem ___ your diet.",
+  "trap": "have to see with",
+  "note": "Portuguese says \"see\", English says \"do\": have to do with.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"have\"",
+   "similar": "the key word \"do\" sounds like \"due\"",
+   "lastSound": "ends in \"with\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0134",
+  "lang": "en",
+  "cue": "tenho de",
+  "context": "Tenho de sair agora, senão perco o comboio.",
+  "target": "have to",
+  "accept": [
+   "must",
+   "have got to",
+   "need to"
+  ],
+  "gapped": "I ___ leave now, or I'll miss the train.",
+  "trap": "have of",
+  "note": "ter de + infinitive is the standard European Portuguese way of saying must.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"have\"",
+   "similar": "the key word \"to\" sounds like \"two\"",
+   "lastSound": "ends in \"-to\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0135",
+  "lang": "en",
+  "cue": "tenho vontade de",
+  "context": "Tenho vontade de ir à praia hoje.",
+  "target": "feel like",
+  "accept": [
+   "fancy"
+  ],
+  "gapped": "I ___ going to the beach today.",
+  "trap": "have will of",
+  "note": "ter vontade de is to feel like doing something; the noun vontade is not \"will\" here.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"feel\"",
+   "similar": "the key word \"like\" rhymes with \"bike\"",
+   "lastSound": "ends in \"-ike\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0136",
+  "lang": "en",
+  "cue": "ter em conta",
+  "context": "Tens de ter em conta o preço da gasolina.",
+  "target": "take into account",
+  "accept": [
+   "bear in mind",
+   "consider",
+   "take into consideration",
+   "factor in"
+  ],
+  "gapped": "You have to ___ the price of petrol.",
+  "trap": "",
+  "note": "'Ter em conta' is to take into account; 'conta' here is not a bill.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"ta-\"",
+   "similar": "\"account\" sounds like \"a count\"",
+   "lastSound": "ends with \"-ount\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0137",
+  "lang": "en",
+  "cue": "tirar partido de",
+  "context": "Devias tirar partido de uma oportunidade destas.",
+  "target": "make the most of",
+  "accept": [
+   "take advantage of",
+   "exploit",
+   "capitalise on"
+  ],
+  "gapped": "You should ___ an opportunity like this.",
+  "trap": "",
+  "note": "'Tirar partido de' is to make the most of something; 'partido' here is not a party or a match.",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"ma-\"",
+   "similar": "\"most\" rhymes with \"toast\"",
+   "lastSound": "ends with \"-of\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0138",
+  "lang": "en",
+  "cue": "valeu a pena",
+  "context": "No fim de contas, valeu a pena.",
+  "target": "be worth it",
+  "accept": [
+   "pay off",
+   "be worthwhile"
+  ],
+  "gapped": "In the end, it ___.",
+  "trap": "value the pain",
+  "note": "vale a pena means it was worth it, despite the literal \"pena\" (pity).",
+  "kind": "phrase",
+  "category": "verbs-collocations",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"be\"",
+   "similar": "the key word \"worth\" rhymes with \"birth\"",
+   "lastSound": "ends in \"-it\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0139",
+  "lang": "en",
+  "cue": "anexo",
+  "context": "Abri o anexo que me enviaste ontem.",
+  "target": "attachment",
+  "accept": [
+   "attached document",
+   "attached file"
+  ],
+  "gapped": "I opened the ___ you sent me yesterday.",
+  "trap": "annex",
+  "note": "An email 'anexo' is an attachment; an English 'annex' is a building extension or a treaty appendix.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"a-\"",
+   "similar": "\"nexo\" sounds like \"NESH-oo\"",
+   "lastSound": "ends in \"-exo\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0140",
+  "lang": "en",
+  "cue": "assinatura",
+  "context": "Preciso da tua assinatura no fim da página.",
+  "target": "signature",
+  "accept": [],
+  "gapped": "I need your ___ at the end of the page.",
+  "trap": "subscription",
+  "note": "In Portugal an 'assinatura' is also a magazine or streaming subscription — English keeps the two words apart.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"a-\"",
+   "similar": "sounds like \"a-see-na-TOO-ra\"",
+   "lastSound": "ends in \"-ura\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0141",
+  "lang": "en",
+  "cue": "ata",
+  "context": "A Ana ficou de redigir a ata da reunião.",
+  "target": "minutes",
+  "accept": [
+   "record",
+   "proceedings"
+  ],
+  "gapped": "Ana was going to write up the ___ of the meeting.",
+  "trap": "act",
+  "note": "Meeting 'minutes' is always plural in English, even for one meeting.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"min-\"",
+   "similar": "sounds like \"mittens\"",
+   "lastSound": "ends in \"-utes\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0142",
+  "lang": "en",
+  "cue": "baixa médica",
+  "context": "Está de baixa médica desde segunda-feira.",
+  "target": "sick leave",
+  "accept": [
+   "medical leave"
+  ],
+  "gapped": "He's been on ___ since Monday.",
+  "trap": "",
+  "note": "'Estar de baixa' means to be signed off sick — nothing to do with 'low'.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"sick\"",
+   "similar": "sounds like \"sleeve\"",
+   "lastSound": "ends in \"-eave\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0143",
+  "lang": "en",
+  "cue": "cargo",
+  "context": "Foi promovida a um cargo de direção.",
+  "target": "position",
+  "accept": [
+   "post",
+   "role",
+   "job"
+  ],
+  "gapped": "She was promoted to a ___ in management.",
+  "trap": "cargo",
+  "note": "'Cargo' in English means freight, not a job.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"po-\"",
+   "similar": "sounds like \"physician\"",
+   "lastSound": "ends in \"-tion\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0144",
+  "lang": "en",
+  "cue": "chefia",
+  "context": "A chefia pediu-nos o relatório para sexta-feira.",
+  "target": "management",
+  "accept": [
+   "bosses",
+   "superiors",
+   "leadership",
+   "boss"
+  ],
+  "gapped": "The ___ asked us for the report by Friday.",
+  "trap": "chief",
+  "note": "'Chefia' is the management or your superiors — not a 'chief' or a 'chef'.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"man-\"",
+   "similar": "rhymes with \"arrangement\"",
+   "lastSound": "ends in \"-ment\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0145",
+  "lang": "en",
+  "cue": "contrato a termo certo",
+  "context": "Deram-me um contrato a termo certo de seis meses.",
+  "target": "fixed-term contract",
+  "accept": [
+   "temporary contract"
+  ],
+  "gapped": "They gave me a ___ for six months.",
+  "trap": "contract with a certain term",
+  "note": "'A termo certo' means for a fixed period; its opposite is 'sem termo', a permanent contract.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "key word starts with \"con-\"",
+   "similar": "\"termo\" sounds like English \"term\"",
+   "lastSound": "ends in \"-erto\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0146",
+  "lang": "en",
+  "cue": "despacho",
+  "context": "O diretor assinou o despacho esta manhã.",
+  "target": "order",
+  "accept": [
+   "directive",
+   "ruling"
+  ],
+  "gapped": "The director signed the ___ this morning.",
+  "trap": "dispatch",
+  "note": "A 'despacho' is an official written order or ruling from someone in authority, not a 'dispatch' in the courier sense.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"des-\"",
+   "similar": "sounds like \"des-PATCH-oh\"",
+   "lastSound": "ends in \"-acho\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0147",
+  "lang": "en",
+  "cue": "entregar",
+  "context": "Vou entregar o relatório amanhã de manhã.",
+  "target": "hand in",
+  "accept": [
+   "submit",
+   "deliver",
+   "turn in"
+  ],
+  "gapped": "I'm going to ___ the report tomorrow morning.",
+  "trap": "",
+  "note": "'Entregar' is to hand something over or in; the reflexive 'entregar-se' means to give yourself up.",
+  "kind": "word",
+  "category": "work",
+  "pos": "verb",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"en-\"",
+   "similar": "the last syllable sounds like \"gar\" in \"guitar\"",
+   "lastSound": "ends in \"-ar\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0148",
+  "lang": "en",
+  "cue": "entrevista de emprego",
+  "context": "Tenho uma entrevista de emprego amanhã de manhã.",
+  "target": "job interview",
+  "accept": [],
+  "gapped": "I have a ___ tomorrow morning.",
+  "trap": "",
+  "note": "'Entrevista' alone already means interview; 'de emprego' makes it the job-hunting kind.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "firstSound": "starts with \"en-\"",
+   "similar": "the key word sounds like \"enter\" + \"vista\"",
+   "lastSound": "ends in \"-ego\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0149",
+  "lang": "en",
+  "cue": "escritório",
+  "context": "Deixei os documentos no escritório.",
+  "target": "office",
+  "accept": [],
+  "gapped": "I left the documents at the ___.",
+  "trap": "",
+  "note": "'Escritório' is the place you work; 'secretária' is the desk you sit at.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"sh-\"",
+   "similar": "the ending sounds like the \"-story\" in \"history\"",
+   "lastSound": "ends in \"-ório\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0150",
+  "lang": "en",
+  "cue": "estagiário",
+  "context": "A empresa contratou um estagiário para o verão.",
+  "target": "intern",
+  "accept": [
+   "trainee",
+   "placement student",
+   "work experience student",
+   "work placement student"
+  ],
+  "gapped": "The company hired an ___ for the summer.",
+  "trap": "",
+  "note": "In British English people often say 'trainee' or 'work placement'.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"in-\"",
+   "similar": "sounds like \"in turn\"",
+   "lastSound": "ends in \"-tern\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0151",
+  "lang": "en",
+  "cue": "formação",
+  "context": "A empresa dá formação aos novos funcionários.",
+  "target": "training",
+  "accept": [
+   "courses",
+   "instruction",
+   "staff training"
+  ],
+  "gapped": "The company gives ___ to new employees.",
+  "trap": "formation",
+  "note": "'Formação' is training or a course; 'formation' is about forming something.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"trai-\"",
+   "similar": "sounds like \"raining\"",
+   "lastSound": "ends in \"-ing\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0152",
+  "lang": "en",
+  "cue": "greve",
+  "context": "Os maquinistas estão em greve desde terça-feira.",
+  "target": "strike",
+  "accept": [],
+  "gapped": "The train drivers have been on ___ since Tuesday.",
+  "trap": "grief",
+  "note": "'Em greve' is 'on strike' — nothing to do with 'grief'.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"stri-\"",
+   "similar": "rhymes with \"bike\"",
+   "lastSound": "ends in \"-ike\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0153",
+  "lang": "en",
+  "cue": "horas extras",
+  "context": "Fiz horas extras todos os dias esta semana.",
+  "target": "overtime",
+  "accept": [
+   "extra hours"
+  ],
+  "gapped": "I did ___ every day this week.",
+  "trap": "",
+  "note": "'Horas extras' is usually 'overtime' in English, which is uncountable; 'extra hours' is also possible but less specific.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"o-\"",
+   "similar": "sounds like \"over thyme\"",
+   "lastSound": "ends in \"-ime\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0154",
+  "lang": "en",
+  "cue": "licença de maternidade",
+  "context": "A Ana está de licença de maternidade até setembro.",
+  "target": "maternity leave",
+  "accept": [],
+  "gapped": "Ana is on ___ until September.",
+  "trap": "maternity licence",
+  "note": "'Licença' here is time off work, not a licence; a driving licence is 'carta de condução'.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"li-\"",
+   "similar": "the middle of \"licença\" sounds like English \"sense\"",
+   "lastSound": "ends in \"-ade\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0155",
+  "lang": "en",
+  "cue": "marcar o ponto",
+  "context": "Tens de marcar o ponto quando chegas à fábrica.",
+  "target": "to clock in",
+  "accept": [
+   "to clock on",
+   "to punch in"
+  ],
+  "gapped": "You have to ___ when you get to the factory.",
+  "trap": "to mark the point",
+  "note": "'Marcar o ponto' is to clock in or out with a time clock.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "verb",
+  "difficulty": 3,
+  "hints": {
+   "firstSound": "starts with \"clock\"",
+   "similar": "rhymes with \"rock\"",
+   "lastSound": "ends in \"-ock\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0156",
+  "lang": "en",
+  "cue": "ordem de trabalhos",
+  "context": "A ordem de trabalhos da reunião tem cinco pontos.",
+  "target": "agenda",
+  "accept": [
+   "order of business"
+  ],
+  "gapped": "The ___ for the meeting has five items.",
+  "trap": "work order",
+  "note": "It's the list of things to discuss; 'agenda' in Portuguese is a diary.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"a-\"",
+   "similar": "sounds like \"a gender\"",
+   "lastSound": "ends in \"-enda\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0157",
+  "lang": "en",
+  "cue": "patrão",
+  "context": "O patrão quer falar comigo no fim do dia.",
+  "target": "boss",
+  "accept": [
+   "employer"
+  ],
+  "gapped": "The ___ wants to talk to me at the end of the day.",
+  "trap": "patron",
+  "note": "'Patrão' is your boss or employer; an English 'patron' is a customer or sponsor.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"pa-\"",
+   "similar": "sounds like \"pa-trown\", close to English \"brown\" with a nasal",
+   "lastSound": "ends in \"-ão\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0158",
+  "lang": "en",
+  "cue": "pausa para o almoço",
+  "context": "Faço sempre uma pausa para o almoço de uma hora.",
+  "target": "lunch break",
+  "accept": [
+   "lunch hour",
+   "break for lunch",
+   "meal break"
+  ],
+  "gapped": "I always take an hour's ___.",
+  "trap": "pause for lunch",
+  "note": "'Pausa' is a break or pause, but English says 'lunch break', never 'pause for lunch'.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "key word starts with \"pau-\"",
+   "similar": "\"pausa\" sounds like \"POW-za\"",
+   "lastSound": "ends in \"-oço\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0159",
+  "lang": "en",
+  "cue": "prazo",
+  "context": "Não vamos conseguir cumprir o prazo deste trabalho.",
+  "target": "deadline",
+  "accept": [
+   "time limit",
+   "due date",
+   "timeframe"
+  ],
+  "gapped": "We're not going to be able to meet the ___ for this job.",
+  "trap": "term",
+  "note": "'Prazo' is a deadline or time limit — never a school 'term'.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"ded-\"",
+   "similar": "sounds like \"headline\"",
+   "lastSound": "ends in \"-line\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0160",
+  "lang": "en",
+  "cue": "promoção",
+  "context": "Deram-me uma promoção no mês passado.",
+  "target": "promotion",
+  "accept": [],
+  "gapped": "They gave me a ___ last month.",
+  "trap": "",
+  "note": "In shops a 'promoção' is a special offer or sale; at work it's the step up the ladder.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 2,
+   "firstSound": "starts with \"pro-\"",
+   "similar": "the last syllable sounds like English \"sown\"",
+   "lastSound": "ends in \"-ção\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0161",
+  "lang": "en",
+  "cue": "relatório",
+  "context": "O relatório mensal tem de estar pronto na segunda.",
+  "target": "report",
+  "accept": [],
+  "gapped": "The monthly ___ has to be ready on Monday.",
+  "trap": "",
+  "note": "'Relatório' is the report; a 'relator' is a rapporteur, not a reporter.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 2,
+   "stress": 2,
+   "firstSound": "starts with \"re-\"",
+   "similar": "rhymes with the \"-story\" in \"history\"",
+   "lastSound": "ends in \"-ório\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0162",
+  "lang": "en",
+  "cue": "rescisão",
+  "context": "Assinámos a rescisão do contrato na semana passada.",
+  "target": "termination",
+  "accept": [
+   "cancellation",
+   "rescission",
+   "dissolution"
+  ],
+  "gapped": "We signed the ___ of the contract last week.",
+  "trap": "",
+  "note": "In everyday speech people just say the contract was ended or terminated.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 4,
+   "stress": 3,
+   "firstSound": "starts with \"ter-\"",
+   "similar": "rhymes with \"nation\"",
+   "lastSound": "ends in \"-ation\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0163",
+  "lang": "en",
+  "cue": "reunião",
+  "context": "A reunião de equipa ficou marcada para as dez.",
+  "target": "meeting",
+  "accept": [
+   "gathering",
+   "session",
+   "get-together"
+  ],
+  "gapped": "The team ___ was set for ten o'clock.",
+  "trap": "reunion",
+  "note": "'Reunião' is any meeting; a 'reunion' is a 'reencontro' of old friends.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 1,
+  "hints": {
+   "syllables": 2,
+   "stress": 1,
+   "firstSound": "starts with \"mee-\"",
+   "similar": "sounds like \"beating\"",
+   "lastSound": "ends in \"-ing\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0164",
+  "lang": "en",
+  "cue": "secretária",
+  "context": "Pus os papéis em cima da secretária.",
+  "target": "desk",
+  "accept": [
+   "writing desk",
+   "office desk"
+  ],
+  "gapped": "I put the papers on the ___.",
+  "trap": "secretary",
+  "note": "The piece of furniture is 'secretária', and a female secretary is also 'secretária' — only context tells them apart.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 3,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"se-\"",
+   "similar": "sounds like \"se-cre-TA-ree-a\"",
+   "lastSound": "ends in \"-ia\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0165",
+  "lang": "en",
+  "cue": "teletrabalho",
+  "context": "Faço teletrabalho dois dias por semana.",
+  "target": "remote work",
+  "accept": [
+   "telework",
+   "telecommuting"
+  ],
+  "gapped": "I do ___ two days a week.",
+  "trap": "",
+  "note": "In everyday English people say 'working from home' or 'WFH'.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"re-\"",
+   "similar": "sounds like \"promote\"",
+   "lastSound": "ends in \"-ork\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0166",
+  "lang": "en",
+  "cue": "a tempo inteiro",
+  "context": "Trabalho a tempo inteiro numa empresa de software.",
+  "target": "full-time",
+  "accept": [
+   "full time",
+   "on a full-time basis"
+  ],
+  "gapped": "I work ___ at a software company.",
+  "trap": "at full time",
+  "note": "'A tempo inteiro' is full-time; Brazilians say 'em tempo integral'.",
+  "kind": "phrase",
+  "category": "work",
+  "pos": "adv",
+  "difficulty": 2,
+  "hints": {
+   "firstSound": "starts with \"full-\"",
+   "similar": "rhymes with \"lime\"",
+   "lastSound": "ends in \"-ime\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0167",
+  "lang": "en",
+  "cue": "turno",
+  "context": "Esta semana calha-me o turno da noite.",
+  "target": "shift",
+  "accept": [],
+  "gapped": "This week I'm on the night ___.",
+  "trap": "turn",
+  "note": "A 'turno' is a work shift; your 'turn' in a queue is a 'vez'.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 1,
+   "stress": 1,
+   "firstSound": "starts with \"shi-\"",
+   "similar": "sounds like \"gift\"",
+   "lastSound": "ends in \"-ift\""
+  },
+  "parallelSet": 0
+ },
+ {
+  "id": "a8-en-0168",
+  "lang": "en",
+  "cue": "vencimento",
+  "context": "O vencimento é pago no dia vinte e cinco.",
+  "target": "salary",
+  "accept": [
+   "pay",
+   "remuneration"
+  ],
+  "gapped": "The ___ is paid on the twenty-fifth.",
+  "trap": "",
+  "note": "'Vencimento' here is your monthly pay; in other contexts it means a due date.",
+  "kind": "word",
+  "category": "work",
+  "pos": "noun",
+  "difficulty": 2,
+  "hints": {
+   "syllables": 3,
+   "stress": 1,
+   "firstSound": "starts with \"sal-\"",
+   "similar": "sounds like \"celery\"",
+   "lastSound": "ends in \"-ary\""
+  },
+  "parallelSet": 0
+ }
+]

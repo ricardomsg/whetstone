@@ -1,0 +1,17 @@
+# Binds to localhost. Put an HTTPS reverse proxy in front before exposing it to a network.
+services:
+  whetstone:
+    build: .
+    image: whetstone:latest
+    container_name: whetstone
+    restart: unless-stopped
+    user: "${WS_UID:-1000}:${WS_GID:-1000}"
+    env_file: .env
+    environment:
+      WS_DATA_DIR: /data
+      ORIGIN: ${WS_ORIGIN:-http://127.0.0.1:${WS_PORT:-3000}}
+      TZ: ${TZ:-UTC}
+    volumes:
+      - ./data:/data
+    ports:
+      - "127.0.0.1:${WS_PORT:-3000}:3000"
