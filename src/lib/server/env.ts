@@ -20,6 +20,8 @@ export const env = {
 	displayName: (e.WS_DISPLAY_NAME ?? '').trim(),
 	learnerProfile: (e.WS_LEARNER_PROFILE ?? '').trim() || 'someone who writes in English and European Portuguese',
 	passphraseHash: e.WS_PASSPHRASE_HASH ?? '',
+	// Optional: the Tailscale login that Tailscale Serve vouches for. Only safe when Serve is the only way in.
+	tailscaleLogin: (e.WS_TAILSCALE_LOGIN ?? '').trim(),
 	apiToken: e.WS_API_TOKEN ?? '',
 	provider: (e.WS_LLM_PROVIDER || 'none') as 'deepseek' | 'anthropic' | 'ollama' | 'none',
 	deepseekKey: e.WS_DEEPSEEK_API_KEY ?? '',

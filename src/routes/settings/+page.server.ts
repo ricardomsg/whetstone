@@ -2,10 +2,12 @@ import { redirect } from '@sveltejs/kit';
 import { getSettings, saveSettings, LLM_FEATURES, type Settings } from '$lib/server/settings';
 import { env } from '$lib/server/env';
 import { llmSpend } from '$lib/server/analytics';
-import { COOKIE, deleteSession } from '$lib/server/auth';
+import { COOKIE, deleteSession, validSession } from '$lib/server/auth';
 import { lexiconSize, countWhere } from '$lib/server/services';
 
-export const load = () => ({
+export const load = ({ locals, cookies }) => ({
+	viaTailscale: locals.viaTailscale,
+	hasSession: validSession(cookies.get(COOKIE)),
 	s: getSettings(),
 	features: LLM_FEATURES,
 	provider: { name: env.provider, fast: env.modelFast, judge: env.modelJudge },

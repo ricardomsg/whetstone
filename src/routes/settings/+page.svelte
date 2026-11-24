@@ -47,5 +47,8 @@
 	<h2 style="margin-top:0">Data</h2>
 	<p class="small muted">{data.stats.items} items · {data.stats.attempts} attempts · {data.stats.lexicon} lexicon words · CLI token {data.tokenSet ? 'set' : 'not set'}</p>
 	<div class="row"><a class="btn" href="/api/export/backup">Download a database backup</a><a class="btn" href="/api/export/json">Export everything as JSON</a><a class="btn" href="/api/export/csv">Export CSV files (ZIP)</a></div>
-	<form method="POST" action="?/logout" style="margin-top:10px"><button>Log out</button></form>
+	{#if data.viaTailscale}
+		<p class="small muted" style="margin-top:10px">Signed in through Tailscale.</p>
+		{#if data.hasSession}<form method="POST" action="?/logout"><button>Clear passphrase session</button></form>{/if}
+	{:else}<form method="POST" action="?/logout" style="margin-top:10px"><button>Log out</button></form>{/if}
 </div>

@@ -21,7 +21,7 @@ Whetstone keeps its data in one SQLite file on your machine, and **no AI provide
 
 If you choose a provider, every feature switched on in Settings can send your text to it. All are on by default, including conversation recaps, work notes and, if you configure them, journal entries and Claude Code session titles, project paths and transcript tails. Each feature has its own switch, and Settings says what it sends. Transcript and note text is not redacted, so avoid names and confidential material unless your provider's terms suit it.
 
-The app has one passphrase and is meant for one person. Docker binds it to `127.0.0.1`. Put it behind HTTPS and your own network controls before reaching it from another device. The app does not throttle login attempts, so add rate limiting at your proxy if the login page is reachable beyond a trusted network.
+The app has one passphrase, or optionally a Tailscale login, and is meant for one person. Docker binds it to `127.0.0.1`. Put it behind HTTPS and your own network controls before reaching it from another device. The app does not throttle login attempts, so add rate limiting at your proxy if the login page is reachable beyond a trusted network.
 
 ## Run it with Docker
 
@@ -39,6 +39,22 @@ docker compose up -d
 ```
 
 Open `http://127.0.0.1:3000`, or the port you set in `WS_PORT`. If your user id is not 1000, set `WS_UID` and `WS_GID` in `.env`. If you reach the app through another URL, set `WS_ORIGIN` to it, or logins and forms will be rejected.
+
+### Signing in through Tailscale instead
+
+If you reach Whetstone only through [Tailscale Serve](https://tailscale.com/kb/1312/serve), you can let Tailscale sign you in. Set `WS_TAILSCALE_LOGIN` to your Tailscale login, for example `you@example.com`, and `WS_ORIGIN` to the Serve URL. It must equal, character for character, the `Tailscale-User-Login` value Serve sends. Serve encodes a login containing non-ASCII characters, so for one of those use the encoded form. Serve removes any identity headers a client sends and adds the signed-in user's login. Requests carrying exactly that login are signed in, and the passphrase form still works for anything else when a hash is set. The `ww` command keeps using `WS_API_TOKEN`.
+
+Serve attaches that identity to every request any browser on your device makes, including requests another site triggers. So Whetstone accepts it only when the browser marks a request as coming from Whetstone's own pages, or as started by you: a typed address, a bookmark, or a link opened from another app. A link on another website leads to a page with a **Continue** button. Anything another site makes in the background, submits or embeds is not signed in, and other sites cannot frame the app. This relies on Fetch Metadata, which current Chrome, Edge, Firefox and Safari send. Clients that do not send it, such as scripts, get no Tailscale sign-in and can use `WS_API_TOKEN`.
+
+With `WS_TAILSCALE_LOGIN` set and `WS_PASSPHRASE_HASH` empty, Tailscale is the only way in: the passphrase form is hidden, and sessions from earlier passphrase sign-ins stop working at once. If you keep both, a browser signed in with the passphrase keeps its session for up to 60 days, or until you choose **Clear passphrase session** in Settings.
+
+Only do this when Serve is the only way to reach the app's port:
+
+- Keep the Docker port on `127.0.0.1`, and do not publish the app through Tailscale Funnel, another proxy or a tunnel. Anything that reaches the port directly can set the header itself.
+- Use Docker Engine 28 or newer. Older versions can expose a port published on `127.0.0.1` to other machines on the same local network. On older versions, block that with a firewall.
+- Keep untrusted containers off the app's Docker network, because they can reach it directly.
+- Every program on the host can reach that port, so only use this on a machine you alone control.
+- A tagged device sends no login header, so it gets the passphrase form if a hash is set.
 
 ## Develop
 
@@ -60,7 +76,8 @@ Without the lexicon the app still runs, but frequency-based features have less d
 
 | Variable | What it is |
 |---|---|
-| `WS_PASSPHRASE_HASH` | Argon2 hash of the login passphrase, in single quotes |
+| `WS_PASSPHRASE_HASH` | Argon2 hash of the login passphrase, in single quotes. Empty switches the passphrase off |
+| `WS_TAILSCALE_LOGIN` | Optional Tailscale login that Tailscale Serve signs in. See Signing in through Tailscale instead |
 | `WS_API_TOKEN` | Bearer token for the `ww` command and hooks |
 | `WS_LLM_PROVIDER` | `none` (default), `anthropic`, `deepseek` or `ollama` |
 | `WS_ANTHROPIC_API_KEY`, `WS_ANTHROPIC_WORKSPACE_ID` | Anthropic key, and the workspace id if the key requires one |

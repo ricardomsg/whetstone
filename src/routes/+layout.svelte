@@ -20,7 +20,8 @@
 		{ h: '/dashboard', l: 'Progress', i: ChartLine, m: ['/dashboard'] }
 	];
 	const on = (t: (typeof tabs)[number]) => (t.h === '/' ? page.url.pathname === '/' : t.m.some((m) => page.url.pathname.startsWith(m)));
-	const bare = $derived(page.url.pathname === '/login');
+	// By route, not pathname: an encoded spelling of /login reaches the same route and must also render without the app's links.
+	const bare = $derived(page.route.id === '/login');
 	function shortcut(event: KeyboardEvent) {
 		if (bare || event.defaultPrevented || event.repeat || event.isComposing || !event.altKey || !event.shiftKey || event.ctrlKey || event.metaKey || event.code !== 'KeyN') return;
 		if (event.composedPath().some((target) => target instanceof HTMLElement && (target.isContentEditable || target.matches('input, textarea, select, [role="textbox"]')))) return;

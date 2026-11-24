@@ -4,6 +4,7 @@ import { timingSafeEqual } from 'node:crypto';
 import { db, schema } from '../db';
 import { env } from '../env';
 import { newId } from '$lib/core/ids';
+import { tailscaleLoginMatches, tailscaleRequestAllowed } from '$lib/core/identity';
 
 export const COOKIE = 'ws_session';
 const TTL = 1000 * 60 * 60 * 24 * 60; // 60 days
@@ -27,8 +28,20 @@ export function createSession(): { id: string; expiresAt: number } {
 
 export function validSession(id: string | undefined): boolean {
 	if (!id) return false;
+	// Signing in only through Tailscale: passphrase sessions made before the hash was cleared stop working at once.
+	if (env.tailscaleLogin && !env.passphraseHash) return false;
 	const s = db.select().from(schema.authSession).where(eq(schema.authSession.id, id)).get();
 	return !!s && s.expiresAt > Date.now();
+}
+
+/** True when WS_TAILSCALE_LOGIN is set and Tailscale Serve says the request comes from that account. */
+export function tailscaleIdentified(headers: Headers): boolean {
+	return tailscaleLoginMatches(headers.get('tailscale-user-login'), env.tailscaleLogin);
+}
+
+/** Identified, and the browser says the request came from the app itself or from the user. */
+export function trustedTailscale(headers: Headers): boolean {
+	return tailscaleIdentified(headers) && tailscaleRequestAllowed(headers.get('sec-fetch-site'));
 }
 
 export function deleteSession(id: string) {

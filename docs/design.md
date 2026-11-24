@@ -65,7 +65,7 @@ flowchart LR
 - **SvelteKit.** It ships little JavaScript, its form actions keep most screens working without client state, and it has a built-in service worker for the PWA. Timers and the hint ladder still need client code, which Svelte handles well.
 - **SQLite, one file.** One user and low write volume. Restore is stopping the container and copying a file back.
 - **Word frequency is computed offline.** A small Python script uses `wordfreq` to build the lexicon at setup or image build time. The app never needs Python at runtime.
-- **Auth.** A passphrase hashed in the environment, and a session cookie. The CLI and hooks use a separate bearer token.
+- **Auth.** A passphrase hashed in the environment, and a session cookie. Optionally, the Tailscale login header that Tailscale Serve sets. It is trusted only for one configured account, only on requests the browser marks as same-origin or user-initiated, and only when Serve is the only way to reach the app (see Signing in through Tailscale instead in the README). The CLI and hooks use a separate bearer token.
 - **Every LLM call is visible.** Settings lists each feature that calls a model and its on/off switch. A usage table logs tokens and cost per day.
 
 ## Data model
