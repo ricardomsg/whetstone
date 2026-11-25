@@ -1,6 +1,7 @@
 import { redirect, fail } from '@sveltejs/kit';
 import { sqlite } from '$lib/server/db';
 import { captureMiss } from '$lib/server/exercises/a8';
+import { PAUSED } from '$lib/content/paused';
 
 // The answer is not sent here: an item you have not tried yet shows only its English side.
 export const load = () => {
@@ -11,7 +12,7 @@ export const load = () => {
 			 FROM item i WHERE i.exercise = 'A8' AND i.source = 'missed' ORDER BY i.created_at DESC LIMIT 30`
 		)
 		.all() as { id: string; target: string; cue: string; at: number; tries: number }[];
-	return { misses: rows.map((r) => ({ id: r.id, cue: r.cue, at: r.at, tries: r.tries, target: r.tries ? r.target : null })) };
+	return { paused: PAUSED.A8 ?? null, misses: rows.map((r) => ({ id: r.id, cue: r.cue, at: r.at, tries: r.tries, target: r.tries ? r.target : null })) };
 };
 
 export const actions = {
@@ -24,6 +25,6 @@ export const actions = {
 		} catch (e: any) {
 			return fail(e?.status ?? 500, { error: e?.body?.message ?? 'Could not prepare it. Try again.' });
 		}
-		redirect(303, `/x/a8?lang=pt-PT&item=${id}&n=1`);
+		redirect(303, PAUSED.A8 ? '/capture/missed?saved=1' : `/x/a8?lang=pt-PT&item=${id}&n=1`);
 	}
 };

@@ -1,5 +1,6 @@
 import { json, error } from '@sveltejs/kit';
 import * as A8 from '$lib/server/exercises/a8';
+import { PAUSED } from '$lib/content/paused';
 
 export const POST = async ({ request }) => {
 	const b = await request.json();
@@ -15,7 +16,7 @@ export const POST = async ({ request }) => {
 		case 'sentence':
 			return json(await A8.sentence(b.attemptId, String(b.text ?? '')));
 		case 'capture':
-			return json({ itemId: await A8.captureMiss({ cue: String(b.cue ?? ''), context: b.context ? String(b.context) : undefined, lang: b.lang === 'en' ? 'en' : 'pt-PT' }) });
+			return json({ itemId: await A8.captureMiss({ cue: String(b.cue ?? ''), context: b.context ? String(b.context) : undefined, lang: b.lang === 'en' ? 'en' : 'pt-PT' }), paused: PAUSED.A8 ?? null });
 	}
 	error(400, 'unknown action');
 };

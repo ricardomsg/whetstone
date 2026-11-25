@@ -1,5 +1,6 @@
 <script lang="ts">
 	import DrillHeader from '$lib/components/DrillHeader.svelte';
+	import { page } from '$app/state';
 	let { data, form } = $props();
 	let busy = $state(false);
 </script>
@@ -13,7 +14,8 @@
 	<label for="ctx">What you were trying to say <span class="faint">(optional, in English or Portuguese)</span></label>
 	<input id="ctx" name="context" placeholder="e.g. We moved the deadline to Friday." autocomplete="off" />
 	{#if form?.error}<p class="flash bad">{form.error}</p>{/if}
-	<button class="primary lg block" style="margin-top:16px" type="submit" disabled={busy}>{busy ? 'Preparing… a few seconds' : 'Save and try it now'}</button>
+	{#if data.paused}<p class="flash">{page.url.searchParams.get('saved') ? 'Saved. ' : ''}{data.paused} Saved words wait until it is back.</p>{/if}
+	<button class="primary lg block" style="margin-top:16px" type="submit" disabled={busy}>{busy ? 'Preparing… a few seconds' : data.paused ? 'Save it for later' : 'Save and try it now'}</button>
 	<p class="tiny faint">From a terminal: <code>ww pt "deadline"</code></p>
 </form>
 
@@ -25,7 +27,7 @@
 				<div class="row nowrap small miss">
 					<b>{m.cue}</b>
 					<span class="faint">→</span>
-					{#if m.target}<span>{m.target}</span>{:else}<a href="/x/a8?lang=pt-PT&item={m.id}&n=1">try it</a>{/if}
+					{#if m.target}<span>{m.target}</span>{:else if data.paused}<span class="faint">waiting</span>{:else}<a href="/x/a8?lang=pt-PT&item={m.id}&n=1">try it</a>{/if}
 					<span class="spacer"></span>
 					<span class="faint num">{m.tries ? `${m.tries} tr${m.tries === 1 ? 'y' : 'ies'}` : 'not tried'}</span>
 				</div>

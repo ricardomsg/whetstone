@@ -69,6 +69,8 @@ The three model features have separate switches in Settings. Completed captures 
 
 ## Translate it — A8
 
+**Paused since 2026-11-24.** Natural answers were often judged only close, and some seed targets are not what a speaker in Portugal would say: "vigiar" for keeping an eye on a bag, where "tomar conta" is usual. Until every item is re-checked, Translate it is not in Today's session or on the Games list, it cannot be started, and its cards wait in Review with their schedule kept. Missing in Portuguese still saves the word, for when it is back. The switch is `PAUSED` in `src/lib/content/paused.ts`.
+
 Added 2026-10-09 for a common bilingual problem: the English word arrives first and the Portuguese one does not come. Train → Games → **Translate it**, with two entries: **English → Português** (the main one) and **Português → English**.
 
 1. **A round** is eight items. Each shows a word or short expression in a sentence, in one language; type its equivalent in the other. Say it out loud first, then type it. Since 2026-11-04 English → Português no longer asks its 14 idioms, which were unnatural in Portugal or wrongly translated; a retired item is not asked in the game or in Review. Its everyday phrases, such as "carta de condução", stay.

@@ -111,7 +111,7 @@ switch (cmd) {
 		const [cue, ...rest] = pos;
 		if (!cue) (console.error('Usage: ww pt "english word" ["what you were saying"]'), process.exit(2));
 		const r = await api('POST', '/api/a8', { action: 'capture', cue, context: rest.join(' ') || undefined, lang: 'pt-PT' });
-		console.log(`Saved. Find it in Portuguese: ${URL_}/x/a8?lang=pt-PT&item=${r.itemId}&n=1`);
+		console.log(r.paused ? `Saved. ${r.paused} The word waits until it is back.` : `Saved. Find it in Portuguese: ${URL_}/x/a8?lang=pt-PT&item=${r.itemId}&n=1`);
 		break;
 	}
 	case 'sessions': {

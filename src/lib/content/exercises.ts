@@ -28,6 +28,8 @@ export type ExerciseMeta = ExerciseBase & (
 	| { kind: 'activity' }
 );
 
+export { PAUSED } from './paused';
+
 export const EXERCISES: Record<string, ExerciseMeta> = {
 	A1: { kind: 'game', colour: '#e2b86b', illustration: '/games/definition.svg', setup: '/x/a1/setup', code: 'A1', title: 'Definition → word', short: 'Read the meaning. Find the missing word.', skill: 'WR', skillName: 'Word retrieval', icon: Lightbulb, href: '/x/a1' },
 	A2: { kind: 'game', colour: '#f09b86', illustration: '/games/word-rush.svg', code: 'A2', title: 'Word Rush', short: 'One category or letter. How many words in 60 seconds?', skill: 'FL', skillName: 'Verbal fluency', icon: Zap, href: '/x/a2' },

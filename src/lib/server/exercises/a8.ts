@@ -9,6 +9,7 @@ import { check } from '../judge/run';
 import { getSettings } from '../settings';
 import { chooseItem, getItem, startAttempt, getAttempt, patchAttempt, finishAttempt, rate, ensureCard, markSticky, countWhere, type ItemRow } from '../services';
 import type { Lang } from '../db/schema';
+import { PAUSED } from '$lib/content/paused';
 
 // A8 — Translate it. The item's language is the language of the ANSWER: pt-PT items show an
 // English cue and want Portuguese; en items show a Portuguese cue and want English.
@@ -52,6 +53,7 @@ export function hintText(it: ItemRow, level: number): string {
 }
 
 export function start(lang: Lang, ctx: { dailySessionId?: string | null; itemId?: string } = {}) {
+	if (PAUSED.A8) error(409, PAUSED.A8);
 	const own = ctx.itemId ? getItem(ctx.itemId) : undefined;
 	const it = own && own.active && own.exercise === 'A8' && own.lang === lang ? own : chooseItem('A8', lang, 'WR', { preferSources: ['missed'] });
 	if (!it) error(404, `No translation items for ${lang}. Run the seed.`);

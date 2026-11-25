@@ -35,3 +35,15 @@ it('only one-word translations become review cards', () => {
 	expect(reviewable('')).toBe(false);
 	expect(reviewable(null)).toBe(false);
 });
+
+it('cards of a paused exercise wait, and keep their schedule', () => {
+	item('wilt', 'en');
+	db.insert(schema.item).values({ id: 'vigiar', exercise: 'A8', lang: 'pt-PT', target: 'vigiar', prompt: { cue: 'keep an eye on' }, rating: 1500, rd: 250, vol: 0.06, source: 'test', parallelSet: 0, active: true }).run();
+	ensureCard('wilt', []);
+	const paused = ensureCard('vigiar', []);
+	db.update(schema.card).set({ due: Date.now() - 1 }).run();
+	expect(dueCount()).toBe(1);
+	expect(dueCount('pt-PT')).toBe(0);
+	expect(dueCards(10).map((x) => x.itemId)).toEqual(['wilt']);
+	expect(db.select().from(schema.card).all().find((c) => c.id === paused.id)?.due).toBeLessThan(Date.now());
+});

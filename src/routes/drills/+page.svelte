@@ -1,8 +1,9 @@
 <script lang="ts">
-	import { EXERCISES } from '$lib/content/exercises';
+	import { EXERCISES, PAUSED } from '$lib/content/exercises';
 	import ChevronRight from '@lucide/svelte/icons/chevron-right';
 	let { data } = $props();
-	const games = Object.values(EXERCISES).filter((exercise) => exercise.kind === 'game');
+	const games = Object.values(EXERCISES).filter((exercise) => exercise.kind === 'game').filter((exercise) => !PAUSED[exercise.code]);
+	const COUNT = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six'];
 	const cov = (ex: string, lang: string) => data.coverage.find((c) => c.exercise === ex && c.lang === lang);
 </script>
 
@@ -12,7 +13,7 @@
 
 <section aria-labelledby="games-heading">
 	<h2 id="games-heading">Games</h2>
-	<p class="muted small">Four games you can play straight away, in English or European Portuguese.</p>
+	<p class="muted small">{COUNT[games.length] ?? games.length} games you can play straight away, in English or European Portuguese.{#each Object.values(PAUSED) as note} {note}{/each}</p>
 	<div class="games">
 		{#each games as game}
 			<article class="game" style:--game-colour={game.colour}>

@@ -4,6 +4,7 @@ import { newId } from '$lib/core/ids';
 import { localDate } from '$lib/server/dates';
 import { getSettings } from './settings';
 import { dueCount, reviewsToday, countWhere, type Dim, DIMS } from './services';
+import { PAUSED } from '$lib/content/paused';
 
 // ---------------- F1 check-in ----------------
 export function todayCheckin() {
@@ -113,7 +114,7 @@ export function planToday(minutes?: number, lang?: string) {
 		budget -= due * MINUTES.B2;
 	}
 	// 2. drills targeting the top weaknesses
-	const weak = weaknesses().filter((w) => ['A1', 'A2', 'A4', 'A8', 'B3'].includes(w.exercise));
+	const weak = weaknesses().filter((w) => ['A1', 'A2', 'A4', 'A8', 'B3'].includes(w.exercise) && !PAUSED[w.exercise]);
 	for (const w of weak.slice(0, mins >= 15 ? 2 : 1)) {
 		if (plan.some((p) => p.exercise === w.exercise && p.lang === w.lang)) continue;
 		const n = w.exercise === 'A1' || w.exercise === 'A8' ? 5 : w.exercise === 'A2' ? 2 : 1;
@@ -132,7 +133,7 @@ export function planToday(minutes?: number, lang?: string) {
 		budget -= n * MINUTES.A1;
 	}
 	// 3b. English → Portuguese retrieval every day
-	if (!plan.some((p) => p.exercise === 'A8') && budget > 2) {
+	if (!PAUSED.A8 && !plan.some((p) => p.exercise === 'A8') && budget > 2) {
 		const n = Math.max(3, Math.min(6, Math.floor(budget / 2)));
 		plan.push({ exercise: 'A8', lang: 'pt-PT', count: n, reason: 'The English word tends to arrive first: practise finding the Portuguese one.', href: q('A8', 'pt-PT') });
 		budget -= n * MINUTES.A8;
@@ -159,7 +160,8 @@ export function todayPlan() {
 	const plan = planToday();
 	const progress = stepProgress(plan.id);
 	const capLeft = Math.max(0, getSettings().reviewCap - reviewsToday());
-	const steps = (plan.plan as PlanStep[]).map((p) => (p.exercise === 'B2' ? { ...p, count: Math.min(p.count, (progress[`B2:${p.lang}`] ?? 0) + Math.min(dueCount(p.lang), capLeft)) } : p));
+	// a plan saved before an exercise was paused keeps its row; the paused step is only left out here
+	const steps = (plan.plan as PlanStep[]).filter((p) => !PAUSED[p.exercise]).map((p) => (p.exercise === 'B2' ? { ...p, count: Math.min(p.count, (progress[`B2:${p.lang}`] ?? 0) + Math.min(dueCount(p.lang), capLeft)) } : p));
 	return { plan: { ...plan, plan: steps }, progress };
 }
 

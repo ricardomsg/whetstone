@@ -7,6 +7,7 @@ import { selectFresh } from '$lib/core/rotation';
 import { newCardState, review, type StoredCard } from '$lib/core/srs';
 import type { Grade } from 'ts-fsrs';
 import type { Lang } from './db/schema';
+import { PAUSED } from '$lib/content/paused';
 
 export type Dim = 'WR' | 'FL' | 'PR' | 'VOC' | 'TRP' | 'TRA' | 'STR';
 export const DIMS: Record<Dim, string> = {
@@ -213,12 +214,16 @@ export function reviewsToday(): number {
 	return (sqlite.prepare('SELECT count(*) n FROM review_log WHERE created_at >= ?').get(startOfToday()) as { n: number }).n;
 }
 
-/** Due, and not already reviewed today: a card answered today waits for tomorrow, whatever its learning step says. */
+/**
+ * Due, and not already reviewed today: a card answered today waits for tomorrow, whatever its learning step says.
+ * Cards whose item belongs to a paused exercise wait too, keeping their schedule.
+ */
 function dueWhere(lang?: string) {
 	const byLang = lang && lang !== 'mixed';
+	const paused = Object.keys(PAUSED);
 	return {
-		sql: `c.suspended = 0 AND i.active = 1 AND c.due <= ? AND NOT EXISTS (SELECT 1 FROM review_log r WHERE r.card_id = c.id AND r.created_at >= ?) ${byLang ? 'AND i.lang = ?' : ''}`,
-		args: [Date.now(), startOfToday(), ...(byLang ? [lang] : [])] as unknown[]
+		sql: `c.suspended = 0 AND i.active = 1 AND c.due <= ? AND NOT EXISTS (SELECT 1 FROM review_log r WHERE r.card_id = c.id AND r.created_at >= ?) ${paused.length ? `AND i.exercise NOT IN (${paused.map(() => '?').join(',')})` : ''} ${byLang ? 'AND i.lang = ?' : ''}`,
+		args: [Date.now(), startOfToday(), ...paused, ...(byLang ? [lang] : [])] as unknown[]
 	};
 }
 
