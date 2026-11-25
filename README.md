@@ -72,6 +72,8 @@ npm run check
 
 Without the lexicon the app still runs, but frequency-based features have less data and letter rounds of Word Rush are practice only.
 
+`npm install` also turns on the repository's git hooks, which check every commit and push for secrets and personal data. Contributing needs a local private configuration for them; [`AGENTS.md`](AGENTS.md#this-repository-is-public) explains the rules and how the guard works.
+
 ## Environment
 
 | Variable | What it is |

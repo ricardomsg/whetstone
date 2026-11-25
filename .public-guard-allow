@@ -1,0 +1,3 @@
+# False alarms on the public guard's public rules: "<path, * as wildcard> <rule>".
+# Private rules cannot be allowed here: a private finding means the text must change.
+static/icons/*.png binary-file

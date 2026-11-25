@@ -1,0 +1,3 @@
+#!/bin/sh
+# This repository is public: check the staged files and the identity before every commit.
+exec node cli/guard/public-guard.mjs --staged --quiet

@@ -1,0 +1,2 @@
+#!/bin/sh
+exec node cli/guard/public-guard.mjs --message "$1" --quiet

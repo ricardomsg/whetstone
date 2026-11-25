@@ -12,13 +12,15 @@
 		"build": "vite build",
 		"start": "node build/index.js",
 		"preview": "vite preview",
-		"prepare": "svelte-kit sync || echo ''",
+		"prepare": "svelte-kit sync || echo ''; git config core.hooksPath .githooks 2>/dev/null || true",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"test": "vitest run",
 		"db:generate": "drizzle-kit generate",
 		"seed": "node seed/load.mjs",
 		"lexicon": "uv run --no-project --with wordfreq==3.1.1 python seed/scripts/lexicon.py",
-		"hash-passphrase": "node cli/hash-passphrase.mjs"
+		"hash-passphrase": "node cli/hash-passphrase.mjs",
+		"guard": "node cli/guard/public-guard.mjs --all",
+		"guard:fingerprints": "node cli/guard/private-fingerprints.mjs"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-node": "^5.5.7",
